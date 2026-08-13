@@ -1,0 +1,48 @@
+{
+  "key": "listing-title",
+  "selector": ".listing-title-text",
+  "tree": {
+    "tag": "h1",
+    "classes": "listing-title-text",
+    "text": "Best Sellers",
+    "styles": {
+      "fontSize": "32px",
+      "fontWeight": "700",
+      "fontFamily": "\"Isidora Sans Alt\"",
+      "lineHeight": "36px",
+      "letterSpacing": "-0.32px",
+      "color": "rgb(252, 0, 21)",
+      "textAlign": "center",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "margin": "25px 0px 0px",
+      "marginTop": "25px",
+      "width": "1440px",
+      "height": "36px",
+      "display": "block",
+      "flexDirection": "row",
+      "flexWrap": "nowrap",
+      "border": "0px none rgb(229, 231, 235)",
+      "borderTop": "0px none rgb(229, 231, 235)",
+      "borderBottom": "0px none rgb(229, 231, 235)",
+      "borderLeft": "0px none rgb(229, 231, 235)",
+      "borderRight": "0px none rgb(229, 231, 235)",
+      "position": "relative",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip"
+    },
+    "childCount": 0,
+    "children": []
+  },
+  "text": [
+    "Best Sellers"
+  ],
+  "assets": {
+    "imgs": [],
+    "bgs": [],
+    "svgs": [],
+    "links": []
+  }
+}

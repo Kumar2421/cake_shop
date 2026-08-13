@@ -1,0 +1,203 @@
+{
+  "url": "https://www.bakingo.com/p/cake/chocolicious-marble-cake-cake2615choc",
+  "sku": "cake2615choc",
+  "title": "Marble Chocolate Cake",
+  "rating": "4.9",
+  "reviewCount": "(557 Reviews)",
+  "price": "549(Inclusive of GST)",
+  "description": "Enjoy the rich flavor of chocolate marble cake with creamy layers, chocolate chips, and a fresh cherry on top.",
+  "chefTitle": "",
+  "chefWord": "",
+  "weights": [
+    {
+      "raw": "0.5 Kg4 - 5 People",
+      "selected": false
+    },
+    {
+      "raw": "1 Kg",
+      "selected": false
+    },
+    {
+      "raw": "1.5 Kg",
+      "selected": false
+    },
+    {
+      "raw": "2 Kg",
+      "selected": false
+    },
+    {
+      "raw": "4 Kg",
+      "selected": false
+    }
+  ],
+  "servingInfo": "Serving info",
+  "gallery": [
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-AAAA.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-AAAA.jpg",
+      "alt": "Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-BBBB.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Top View of Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-BBBB.jpg",
+      "alt": "Top View of Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-CCCC.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Side View of Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-CCCC.jpg",
+      "alt": "Side View of Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-DDDD.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Sliced View of Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-DDDD.jpg",
+      "alt": "Sliced View of Marble Chocolate Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-AAAA.jpg?tr=w-665,h-665,dpr-1&q=50",
+      "alt": "Zoomable image"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Home",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Cake Delivery",
+      "href": "/cakes"
+    },
+    {
+      "label": "Cake Delivery",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Marble Chocolate Cake",
+      "href": null
+    }
+  ],
+  "alsoLike": [
+    {
+      "name": "Chocolate Mud Cake",
+      "href": "https://www.bakingo.com/p/cake/chocolate-mud-cake0035choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Glazed German Black Forest Cake",
+      "href": "https://www.bakingo.com/p/cake/a-classic-german-treat-cake3212germ",
+      "img": "",
+      "price": "599"
+    },
+    {
+      "name": "Happy Birthday Personalised Cupcakes",
+      "href": "https://www.bakingo.com/p/cupcake/happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav",
+      "img": "",
+      "price": "279"
+    },
+    {
+      "name": "Joyful Photo Birthday Cake",
+      "href": "https://www.bakingo.com/p/photo-cake/birthday-photo-cake-rectangle-shape-phot0271flav",
+      "img": "",
+      "price": "689"
+    },
+    {
+      "name": "Blueberry Vanilla Cake",
+      "href": "https://www.bakingo.com/p/cake/blueberry-cake-1-cake889blue",
+      "img": "",
+      "price": "599"
+    },
+    {
+      "name": "Barbie Floral Gown Cake",
+      "href": "https://www.bakingo.com/p/theme-cake/barbie-doll-cream-cake-them1045flav",
+      "img": "",
+      "price": "1569"
+    },
+    {
+      "name": "Jungle Paradise Theme Cake",
+      "href": "https://www.bakingo.com/p/theme-cake/jungle-paradise-theme-cake-them3340flav",
+      "img": "",
+      "price": "1499"
+    },
+    {
+      "name": "Red Velvet Jar Cake",
+      "href": "https://www.bakingo.com/p/jar-cakes/red-velvet-single-jar-cake-jar1288redv",
+      "img": "",
+      "price": "139"
+    },
+    {
+      "name": "Classic Black Forest Cake",
+      "href": "/p/cake/black-forest-cake0001chbl",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Blueberry Delight Drip Cake",
+      "href": "/p/cake/blueberry-cake0002frui",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Rich Chocolate Truffle Cake",
+      "href": "/p/cake/choco-truffle-cake0005choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Chocolate Vanilla Half & Half Cake",
+      "href": "/p/cake/choco-vanilla-cake0006chva",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Butterscotch Chocolate Cake",
+      "href": "/p/cake/chocolate-butterscotch-cake0007chbu",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Choco Chip Truffle Cake",
+      "href": "/p/cake/chocolate-chip-cake0008choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Vanilla Latte Cake",
+      "href": "/p/cake/coffee-cake0010coff",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Coffee Walnut Cream Cake",
+      "href": "/p/cake/coffee-walnut-cake0012exco",
+      "img": "",
+      "price": "649"
+    }
+  ],
+  "reviewsRaw": "Ratings & Reviews4.9/5+78",
+  "listingHref": "/p/cake/chocolicious-marble-cake-cake2615choc",
+  "slug": "chocolicious-marble-cake-cake2615choc"
+}

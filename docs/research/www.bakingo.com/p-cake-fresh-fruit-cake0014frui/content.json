@@ -1,0 +1,539 @@
+{
+  "url": "https://www.bakingo.com/p/cake/fresh-fruit-cake0014frui",
+  "sku": "cake0014frui",
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Home",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Cake Delivery",
+      "href": "/cakes"
+    },
+    {
+      "label": "Cake Delivery",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Tropical Fruit n Almond Cake",
+      "href": null
+    }
+  ],
+  "gallery": {
+    "images": [
+      {
+        "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-A.jpg?tr=w-160,h-160,dpr-1&q=50",
+        "alt": "Tropical Fruit n Almond Cake",
+        "cls": "productimage-d  nolazyload",
+        "w": 118,
+        "h": 118
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-A.jpg",
+        "alt": "Tropical Fruit n Almond Cake",
+        "cls": "",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-B.jpg?tr=w-160,h-160,dpr-1&q=50",
+        "alt": "Tropical Fruit n Almond Cake",
+        "cls": "productimage-d  nolazyload",
+        "w": 118,
+        "h": 118
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-B.jpg",
+        "alt": "Tropical Fruit n Almond Cake",
+        "cls": "",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-C.jpg?tr=w-160,h-160,dpr-1&q=50",
+        "alt": "Tropical Fruit n Almond Cake",
+        "cls": "productimage-d  nolazyload",
+        "w": 118,
+        "h": 118
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-C.jpg",
+        "alt": "Tropical Fruit n Almond Cake",
+        "cls": "",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-A.jpg?tr=w-665,h-665,dpr-1&q=50",
+        "alt": "Zoomable image",
+        "cls": "w-full h-full object-cover transition-all duration-200 group",
+        "w": 509,
+        "h": 509
+      }
+    ],
+    "badges": [
+      {
+        "cls": "eggStatus-container detail",
+        "text": "EGGLESS"
+      },
+      {
+        "cls": "eggless-text detail",
+        "text": "EGGLESS"
+      }
+    ]
+  },
+  "title": "Tropical Fruit n Almond Cake",
+  "rating": "4.9",
+  "reviewCount": "(2.4K Reviews)",
+  "price": "649(Inclusive of GST)",
+  "description": "Make their day with a Vanilla Cake surprise—creamy, fruity, and nutty, it’s the perfect combination of flavours for pure deliciousness.",
+  "weightHeading": "Select Weight",
+  "servingInfoLabel": "Serving info",
+  "weights": [
+    {
+      "label": "0.5",
+      "raw": "0.5 Kg4 - 5 People",
+      "selected": false,
+      "classes": ""
+    },
+    {
+      "label": "1",
+      "raw": "1 Kg",
+      "selected": false,
+      "classes": ""
+    },
+    {
+      "label": "1.5",
+      "raw": "1.5 Kg",
+      "selected": false,
+      "classes": ""
+    },
+    {
+      "label": "2",
+      "raw": "2 Kg",
+      "selected": false,
+      "classes": ""
+    },
+    {
+      "label": "4",
+      "raw": "4 Kg",
+      "selected": false,
+      "classes": ""
+    }
+  ],
+  "messageHeading": "Cake Message",
+  "messageCounter": "0/25",
+  "messagePlaceholder": "Write a sweet wish!",
+  "deliveryHeading": "Delivery Location*",
+  "deliveryBox": "Check Availability Available in limited cities*",
+  "deliveryError": "Please enter your delivery location to proceed",
+  "skuLabel": "SKU Number",
+  "chefTitle": "\"In Our Chef's Word\"",
+  "chefWord": "With farm-fresh fruits inside the cream layers and topped over a vanilla cake with almond shavings, ...Read more",
+  "remainingBlocks": [
+    {
+      "cls": "\n        detail-sticky-btn \n        \n      ",
+      "text": "Earliest Delivery: TodayBuy Now | ₹649",
+      "imgs": []
+    }
+  ],
+  "reviews": {
+    "heading": "",
+    "score": "",
+    "raw": "Ratings & Reviews4.9/5+263",
+    "images": [
+      "https://bkmedia.bakingo.com/bk/review_image/1785647829.794.jpeg?tr=w-70,dpr-1&q=50",
+      "https://bkmedia.bakingo.com/bk/review_image/1785240698.1392.jpeg?tr=w-70,dpr-1&q=50",
+      "https://bkmedia.bakingo.com/bk/review_image/1785162777.5675.jpeg?tr=w-70,dpr-1&q=50",
+      "https://bkmedia.bakingo.com/bk/review_image/1784803104.9911.jpeg?tr=w-70,dpr-1&q=50",
+      "https://bkmedia.bakingo.com/bk/review_image/1784603404.7011.jpeg?tr=w-70,dpr-1&q=50",
+      "https://bkmedia.bakingo.com/bk/review_image/1784573296.9631.jpeg"
+    ]
+  },
+  "alsoLike": {
+    "heading": "",
+    "products": [
+      {
+        "name": "Classic Black Forest Cake",
+        "href": "/p/cake/black-forest-cake0001chbl",
+        "img": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Classic Black Forest Cake",
+        "price": "549",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      },
+      {
+        "name": "Blueberry Delight Drip Cake",
+        "href": "/p/cake/blueberry-cake0002frui",
+        "img": "https://bkmedia.bakingo.com/sq-blueberry-cake0002frui-A_0.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Blueberry Delight Drip Cake",
+        "price": "549",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      },
+      {
+        "name": "Rich Chocolate Truffle Cake",
+        "href": "/p/cake/choco-truffle-cake0005choc",
+        "img": "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-AA.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Rich Chocolate Truffle Cake",
+        "price": "549",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      },
+      {
+        "name": "Chocolate Vanilla Half & Half Cake",
+        "href": "/p/cake/choco-vanilla-cake0006chva",
+        "img": "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-AAAAA_0.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Chocolate Vanilla Half & Half Cake",
+        "price": "549",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      },
+      {
+        "name": "Butterscotch Chocolate Cake",
+        "href": "/p/cake/chocolate-butterscotch-cake0007chbu",
+        "img": "https://bkmedia.bakingo.com/sq-chocolate-butterscotch-cake0007chbu-AA.jpg.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Butterscotch Chocolate Cake",
+        "price": "549",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      },
+      {
+        "name": "Choco Chip Truffle Cake",
+        "href": "/p/cake/chocolate-chip-cake0008choc",
+        "img": "",
+        "alt": "",
+        "price": "549",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      },
+      {
+        "name": "Vanilla Latte Cake",
+        "href": "/p/cake/coffee-cake0010coff",
+        "img": "",
+        "alt": "",
+        "price": "549",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      },
+      {
+        "name": "Coffee Walnut Cream Cake",
+        "href": "/p/cake/coffee-walnut-cake0012exco",
+        "img": "",
+        "alt": "",
+        "price": "649",
+        "rating": "",
+        "reviews": "",
+        "eggless": true
+      }
+    ]
+  },
+  "quickLinks": [
+    {
+      "label": "Cheese Cakes",
+      "href": "/cheesecakes"
+    },
+    {
+      "label": "Fruit Cakes",
+      "href": "/fruit-cakes"
+    },
+    {
+      "label": "Half Cakes",
+      "href": "/half-cakes"
+    },
+    {
+      "label": "Heart Shape Cakes",
+      "href": "/heart-shape-cakes"
+    },
+    {
+      "label": "Photo Cakes",
+      "href": "/photo-cakes"
+    },
+    {
+      "label": "Pinata Cakes",
+      "href": "/pinata-cakes"
+    },
+    {
+      "label": "Pull Me Up Cakes",
+      "href": "/pull-me-up-cakes"
+    },
+    {
+      "label": "Rose Cakes",
+      "href": "/rose-cakes"
+    },
+    {
+      "label": "Drip Cakes",
+      "href": "/drip-cakes"
+    },
+    {
+      "label": "Bento Cakes",
+      "href": "/bento-cakes"
+    },
+    {
+      "label": "Black Forest Cakes",
+      "href": "/black-forest-cakes"
+    },
+    {
+      "label": "Blueberry Cakes",
+      "href": "/blueberry-cakes"
+    },
+    {
+      "label": "Butterscotch Cakes",
+      "href": "/butterscotch-cakes"
+    },
+    {
+      "label": "Chocolate Cakes",
+      "href": "/chocolate-cakes"
+    },
+    {
+      "label": "Kit Kat Cakes",
+      "href": "/kit-kat-cakes"
+    },
+    {
+      "label": "Pineapple Cakes",
+      "href": "/pineapple-cakes"
+    },
+    {
+      "label": "Red Velvet Cakes",
+      "href": "/red-velvet-cakes"
+    },
+    {
+      "label": "Vanilla Cakes",
+      "href": "/vanilla-cakes"
+    },
+    {
+      "label": "Brother",
+      "href": "/cakes/for-brother"
+    },
+    {
+      "label": "Father",
+      "href": "/cakes/for-father"
+    },
+    {
+      "label": "Friend",
+      "href": "/cakes/for-friend"
+    },
+    {
+      "label": "Her",
+      "href": "/cakes/for-her"
+    },
+    {
+      "label": "Him",
+      "href": "/cakes/for-him"
+    },
+    {
+      "label": "Husband",
+      "href": "/cakes/for-husband"
+    },
+    {
+      "label": "Kids",
+      "href": "/cakes/for-kids"
+    },
+    {
+      "label": "Mother",
+      "href": "/cakes/for-mother"
+    },
+    {
+      "label": "Sister",
+      "href": "/cakes/for-sister"
+    },
+    {
+      "label": "Wife",
+      "href": "/cakes/for-wife"
+    },
+    {
+      "label": "Gift Hampers",
+      "href": "/gift-hampers"
+    },
+    {
+      "label": "Gourmet Cakes",
+      "href": "/gourmet-cakes"
+    },
+    {
+      "label": "Make Your Own Hamper",
+      "href": "/p/bakery-baskets/make-your-own-hamper-hamp4315"
+    },
+    {
+      "label": "Bento Cakes",
+      "href": "/bento-cakes"
+    },
+    {
+      "label": "Labubu Cakes",
+      "href": "/designer-cakes/labubu-cakes"
+    }
+  ],
+  "quickLinkGroups": [
+    {
+      "heading": "CAKE TYPES",
+      "links": [
+        {
+          "label": "Cheese Cakes",
+          "href": "/cheesecakes"
+        },
+        {
+          "label": "Fruit Cakes",
+          "href": "/fruit-cakes"
+        },
+        {
+          "label": "Half Cakes",
+          "href": "/half-cakes"
+        },
+        {
+          "label": "Heart Shape Cakes",
+          "href": "/heart-shape-cakes"
+        },
+        {
+          "label": "Photo Cakes",
+          "href": "/photo-cakes"
+        },
+        {
+          "label": "Pinata Cakes",
+          "href": "/pinata-cakes"
+        },
+        {
+          "label": "Pull Me Up Cakes",
+          "href": "/pull-me-up-cakes"
+        },
+        {
+          "label": "Rose Cakes",
+          "href": "/rose-cakes"
+        },
+        {
+          "label": "Drip Cakes",
+          "href": "/drip-cakes"
+        },
+        {
+          "label": "Bento Cakes",
+          "href": "/bento-cakes"
+        }
+      ]
+    },
+    {
+      "heading": "CAKE FLAVOURS",
+      "links": [
+        {
+          "label": "Black Forest Cakes",
+          "href": "/black-forest-cakes"
+        },
+        {
+          "label": "Blueberry Cakes",
+          "href": "/blueberry-cakes"
+        },
+        {
+          "label": "Butterscotch Cakes",
+          "href": "/butterscotch-cakes"
+        },
+        {
+          "label": "Chocolate Cakes",
+          "href": "/chocolate-cakes"
+        },
+        {
+          "label": "Kit Kat Cakes",
+          "href": "/kit-kat-cakes"
+        },
+        {
+          "label": "Pineapple Cakes",
+          "href": "/pineapple-cakes"
+        },
+        {
+          "label": "Red Velvet Cakes",
+          "href": "/red-velvet-cakes"
+        },
+        {
+          "label": "Vanilla Cakes",
+          "href": "/vanilla-cakes"
+        }
+      ]
+    },
+    {
+      "heading": "CAKES BY RELATION",
+      "links": [
+        {
+          "label": "Brother",
+          "href": "/cakes/for-brother"
+        },
+        {
+          "label": "Father",
+          "href": "/cakes/for-father"
+        },
+        {
+          "label": "Friend",
+          "href": "/cakes/for-friend"
+        },
+        {
+          "label": "Her",
+          "href": "/cakes/for-her"
+        },
+        {
+          "label": "Him",
+          "href": "/cakes/for-him"
+        },
+        {
+          "label": "Husband",
+          "href": "/cakes/for-husband"
+        },
+        {
+          "label": "Kids",
+          "href": "/cakes/for-kids"
+        },
+        {
+          "label": "Mother",
+          "href": "/cakes/for-mother"
+        },
+        {
+          "label": "Sister",
+          "href": "/cakes/for-sister"
+        },
+        {
+          "label": "Wife",
+          "href": "/cakes/for-wife"
+        }
+      ]
+    },
+    {
+      "heading": "TRENDING",
+      "links": [
+        {
+          "label": "Gift Hampers",
+          "href": "/gift-hampers"
+        },
+        {
+          "label": "Gourmet Cakes",
+          "href": "/gourmet-cakes"
+        },
+        {
+          "label": "Make Your Own Hamper",
+          "href": "/p/bakery-baskets/make-your-own-hamper-hamp4315"
+        },
+        {
+          "label": "Bento Cakes",
+          "href": "/bento-cakes"
+        },
+        {
+          "label": "Labubu Cakes",
+          "href": "/designer-cakes/labubu-cakes"
+        }
+      ]
+    }
+  ],
+  "seoHeading": ""
+}

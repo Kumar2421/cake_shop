@@ -1,0 +1,175 @@
+{
+  "url": "https://www.bakingo.com/p/cake/kitkat-chocolate-cake-cake1119choco",
+  "sku": "cake1119choc",
+  "title": "Choco Truffle Cake made With KitKat",
+  "rating": "4.9",
+  "reviewCount": "(1.0K Reviews)",
+  "price": "649(Inclusive of GST)",
+  "description": "A moist chocolate cake layered with crispy KitKat® bits. Every forkful is filled with smooth, rich chocolate and satisfying crispy bites.",
+  "chefTitle": "\"In Our Chef's Word\"",
+  "chefWord": "Rich in melt-in-mouth chocolates, layered with Inside- Chocolate Truffle With Chopped Kitkat and chu...Read more",
+  "weights": [
+    {
+      "raw": "0.5 Kg4 - 5 People",
+      "selected": false
+    },
+    {
+      "raw": "1 Kg",
+      "selected": false
+    },
+    {
+      "raw": "1.5 Kg",
+      "selected": false
+    },
+    {
+      "raw": "2 Kg",
+      "selected": false
+    },
+    {
+      "raw": "4 Kg",
+      "selected": false
+    }
+  ],
+  "servingInfo": "Serving info",
+  "gallery": [
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-AAA.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-AAA.jpg.jpg",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-BBB.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-BBB.jpg.jpg",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-CCC.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-CCC.jpg.jpg",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-DDD.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-DDD.jpg.jpg",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-EEE.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-EEE.jpg.jpg",
+      "alt": "Choco Truffle Cake made With KitKat"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-AAA.jpg.jpg?tr=w-665,h-665,dpr-1&q=50",
+      "alt": "Zoomable image"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Home",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Cake Delivery",
+      "href": "/cakes"
+    },
+    {
+      "label": "Cake Delivery",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Choco Truffle Cake made With KitKat",
+      "href": null
+    }
+  ],
+  "alsoLike": [
+    {
+      "name": "Roll Up Chocolate Truffle Cake",
+      "href": "https://www.bakingo.com/p/cake/round-shaped-chocolate-cake-1-cake0653choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Whipped Cream Pineapple Cake",
+      "href": "https://www.bakingo.com/p/cake/pineapple-cake0022pifr",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Classic Black Forest Cake",
+      "href": "/p/cake/black-forest-cake0001chbl",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Blueberry Delight Drip Cake",
+      "href": "/p/cake/blueberry-cake0002frui",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Rich Chocolate Truffle Cake",
+      "href": "/p/cake/choco-truffle-cake0005choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Chocolate Vanilla Half & Half Cake",
+      "href": "/p/cake/choco-vanilla-cake0006chva",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Butterscotch Chocolate Cake",
+      "href": "/p/cake/chocolate-butterscotch-cake0007chbu",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Choco Chip Truffle Cake",
+      "href": "/p/cake/chocolate-chip-cake0008choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Vanilla Latte Cake",
+      "href": "/p/cake/coffee-cake0010coff",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Coffee Walnut Cream Cake",
+      "href": "/p/cake/coffee-walnut-cake0012exco",
+      "img": "",
+      "price": "649"
+    }
+  ],
+  "reviewsRaw": "Ratings & Reviews4.9/5+95",
+  "listingHref": "/p/cake/kitkat-chocolate-cake-cake1119choco",
+  "slug": "kitkat-chocolate-cake-cake1119choco"
+}

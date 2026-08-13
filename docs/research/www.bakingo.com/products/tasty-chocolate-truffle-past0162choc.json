@@ -1,0 +1,195 @@
+{
+  "url": "https://www.bakingo.com/p/pastry/tasty-chocolate-truffle-past0162choc",
+  "sku": "past0162choc",
+  "title": "Classic Chocolate Truffle Pastry",
+  "rating": "4.9",
+  "reviewCount": "(461 Reviews)",
+  "price": "99(Inclusive of GST)",
+  "description": "Chocolate truffle pastry layered to perfection, ensuring every bite brings the same rich, indulgent taste. Travel-safe and celebration ready.",
+  "chefTitle": "",
+  "chefWord": "",
+  "weights": [
+    {
+      "raw": "1 piece",
+      "selected": false
+    },
+    {
+      "raw": "2 pieces",
+      "selected": false
+    },
+    {
+      "raw": "4 pieces",
+      "selected": false
+    },
+    {
+      "raw": "6 pieces",
+      "selected": false
+    },
+    {
+      "raw": "12 pieces",
+      "selected": false
+    }
+  ],
+  "servingInfo": "",
+  "gallery": [
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-AAAA_0.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Classic Chocolate Truffle Pastry"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-AAAA_0.jpg",
+      "alt": "Classic Chocolate Truffle Pastry"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-BBBB_0.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Top View of Classic Chocolate Truffle Pastry"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-BBBB_0.jpg",
+      "alt": "Top View of Classic Chocolate Truffle Pastry"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-CCCC_0.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Front View of Classic Chocolate Truffle Pastry"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-CCCC_0.jpg",
+      "alt": "Front View of Classic Chocolate Truffle Pastry"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-AAAA_0.jpg?tr=w-665,h-665,dpr-1&q=50",
+      "alt": "Zoomable image"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Home",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Pastries",
+      "href": "/pastries"
+    },
+    {
+      "label": "Pastries",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Classic Chocolate Truffle Pastry",
+      "href": null
+    }
+  ],
+  "alsoLike": [
+    {
+      "name": "Ferrero Infused Celebration Cake",
+      "href": "https://www.bakingo.com/p/cake/ferrero-rocher-cake0013exot",
+      "img": "",
+      "price": "779"
+    },
+    {
+      "name": "Marble Chocolate Cake",
+      "href": "https://www.bakingo.com/p/cake/chocolicious-marble-cake-cake2615choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Chocolate Mud Cake",
+      "href": "https://www.bakingo.com/p/cake/chocolate-mud-cake0035choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Glazed German Black Forest Cake",
+      "href": "https://www.bakingo.com/p/cake/a-classic-german-treat-cake3212germ",
+      "img": "",
+      "price": "599"
+    },
+    {
+      "name": "Happy Birthday Personalised Cupcakes",
+      "href": "https://www.bakingo.com/p/cupcake/happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav",
+      "img": "",
+      "price": "279"
+    },
+    {
+      "name": "Joyful Photo Birthday Cake",
+      "href": "https://www.bakingo.com/p/photo-cake/birthday-photo-cake-rectangle-shape-phot0271flav",
+      "img": "",
+      "price": "689"
+    },
+    {
+      "name": "Blueberry Vanilla Cake",
+      "href": "https://www.bakingo.com/p/cake/blueberry-cake-1-cake889blue",
+      "img": "",
+      "price": "599"
+    },
+    {
+      "name": "Barbie Floral Gown Cake",
+      "href": "https://www.bakingo.com/p/theme-cake/barbie-doll-cream-cake-them1045flav",
+      "img": "",
+      "price": "1569"
+    },
+    {
+      "name": "Classic Choco Chip Pastry",
+      "href": "/p/pastry/overwhelming-choco-chip-pastries-past0208choc",
+      "img": "",
+      "price": "99"
+    },
+    {
+      "name": "Choco Truffle Pastry Made With KitKat",
+      "href": "/p/pastry/scrumptious-kit-kat-pastries-past0211choc",
+      "img": "",
+      "price": "99"
+    },
+    {
+      "name": "Classic Butterscotch Pastry",
+      "href": "/p/pastry/enchanting-butterscotch-pastries-past0213butt",
+      "img": "",
+      "price": "99"
+    },
+    {
+      "name": "Happy Birthday Chocolate Pastries",
+      "href": "/p/pastry/set-of-two-happy-birthday-pastry-past2345choc",
+      "img": "",
+      "price": "199"
+    },
+    {
+      "name": "Tropical Pineapple Pastry",
+      "href": "/p/pastry/sweet-n-fresh-pineapple-pastry-past2505pine",
+      "img": "",
+      "price": "99"
+    },
+    {
+      "name": "Choco Trio Mousse",
+      "href": "/p/pastry/magical-trio-mousse-past2862choc",
+      "img": "",
+      "price": "119"
+    },
+    {
+      "name": "New York Baked Cheesecake Slice",
+      "href": "/p/pastry/new-york-bake-cheesecake-slice-past4309chesse",
+      "img": "",
+      "price": "199"
+    },
+    {
+      "name": "Lemon Cheesecake Mousse Verrine Cup",
+      "href": "/p/pastry/lemon-cheesecake-mousse-past5277lem",
+      "img": "",
+      "price": "159"
+    }
+  ],
+  "reviewsRaw": "Ratings & Reviews4.9/5+21",
+  "listingHref": "/p/pastry/tasty-chocolate-truffle-past0162choc",
+  "slug": "tasty-chocolate-truffle-past0162choc"
+}

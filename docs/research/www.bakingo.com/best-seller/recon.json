@@ -1,0 +1,5273 @@
+{
+  "url": "https://www.bakingo.com/best-seller",
+  "docHeight": 7426,
+  "meta": {
+    "title": "Best Seller Desserts | Buy Your Favourite Desserts Online Now",
+    "description": "Explore these best seller desserts of Bakingo and order your best dessert online and send to your loved ones in India. ✓Free Delivery ✓Same Day and Midnight Delivery",
+    "og": [
+      {
+        "p": "og:description",
+        "c": "Explore these best seller desserts of Bakingo and order your best dessert online and send to your loved ones in India. ✓Free Delivery ✓Same Day and Midnight Delivery"
+      },
+      {
+        "p": "og:email",
+        "c": ""
+      },
+      {
+        "p": "og:title",
+        "c": "Best Seller Desserts | Buy Your Favourite Desserts Online Now"
+      },
+      {
+        "p": "og:type",
+        "c": "Website"
+      },
+      {
+        "p": "og:url",
+        "c": "https://www.bakingo.com/best-seller"
+      },
+      {
+        "p": "og:image",
+        "c": "https://bkmedia.bakingo.com/ssr-static/Bakingo.jpg"
+      }
+    ],
+    "themeColor": "#000000",
+    "lang": "en"
+  },
+  "fonts": [
+    "sans-serif",
+    "\"Isidora Sans Alt\""
+  ],
+  "fontLinks": [],
+  "fontFaces": [
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "900",
+      "style": "normal",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Black.c1f5e07a.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Black.026dc7e9.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "900",
+      "style": "italic",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BlackItalic.2481cf28.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BlackItalic.3d92b455.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "700",
+      "style": "normal",
+      "src": "url(\"https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-Bold.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Bold.455edb37.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "700",
+      "style": "italic",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BoldItalic.794f1171.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BoldItalic.91803594.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "300",
+      "style": "normal",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Light.2eadf98d.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Light.33b2a513.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "300",
+      "style": "italic",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-LightItalic.ef6bc3c9.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-LightItalic.c75df732.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "500",
+      "style": "normal",
+      "src": "url(\"https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-Medium.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Medium.d4fea0fa.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "500",
+      "style": "italic",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-MediumItalic.dd9b1706.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-MediumItalic.4bcbea11.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "400",
+      "style": "normal",
+      "src": "url(\"https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-Regular.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Regular.3b59a45b.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "400",
+      "style": "italic",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-RegularItalic.9871fcee.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-RegularItalic.3b302406.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "600",
+      "style": "normal",
+      "src": "url(\"https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-SemiBold.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-SemiBold.aff6389d.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "600",
+      "style": "italic",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-SemiBoldItalic.38797fd1.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-SemiBoldItalic.0132d45f.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "100",
+      "style": "normal",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Thin.e278174e.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Thin.6b91fd2a.woff\") format(\"woff\")"
+    },
+    {
+      "family": "\"Isidora Sans Alt\"",
+      "weight": "100",
+      "style": "italic",
+      "src": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-ThinItalic.3fe8d511.woff2\") format(\"woff2\"), url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-ThinItalic.89740062.woff\") format(\"woff\")"
+    }
+  ],
+  "favicons": [
+    {
+      "rel": "icon",
+      "href": "https://bkmedia.bakingo.com/bkssr/fav_1.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-precomposed",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-precomposed.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-57x57",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-57x57.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-57x57-precomposed",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-57x57-precomposed.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-76x76",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-76x76.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-76x76-precomposed",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-76x76-precomposed.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-114x114",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-114x114.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-114x114-precomposed",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-114x114-precomposed.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-120x120",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-120x120.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-120x120-precomposed",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-120x120-precomposed.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-152x152",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-152x152.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-152x152-precomposed",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-152x152-precomposed.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-180x180",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-180x180.png",
+      "sizes": ""
+    },
+    {
+      "rel": "apple-touch-icon-180x180-precomposed",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-180x180-precomposed.png",
+      "sizes": ""
+    },
+    {
+      "rel": "manifest",
+      "href": "https://bkassets.bakingo.com/bakingo-ssr/manifest.json",
+      "sizes": ""
+    }
+  ],
+  "colors": [
+    [
+      "color:rgb(33, 37, 41)",
+      1559
+    ],
+    [
+      "color:rgb(7, 7, 7)",
+      511
+    ],
+    [
+      "color:rgb(0, 0, 0)",
+      204
+    ],
+    [
+      "bg:rgb(255, 255, 255)",
+      153
+    ],
+    [
+      "bg:rgb(248, 249, 250)",
+      137
+    ],
+    [
+      "border:rgba(0, 0, 0, 0)",
+      137
+    ],
+    [
+      "color:rgb(81, 81, 81)",
+      117
+    ],
+    [
+      "bg:rgb(252, 0, 21)",
+      49
+    ],
+    [
+      "color:rgb(0, 123, 255)",
+      42
+    ],
+    [
+      "border:rgb(0, 166, 81)",
+      40
+    ],
+    [
+      "bg:rgb(0, 166, 81)",
+      40
+    ],
+    [
+      "color:rgb(28, 149, 80)",
+      39
+    ],
+    [
+      "bg:rgb(246, 179, 8)",
+      17
+    ],
+    [
+      "bg:rgb(255, 242, 233)",
+      15
+    ],
+    [
+      "color:rgb(255, 255, 255)",
+      11
+    ],
+    [
+      "color:rgb(28, 33, 32)",
+      7
+    ],
+    [
+      "border:rgb(184, 183, 183)",
+      7
+    ],
+    [
+      "color:rgb(40, 40, 40)",
+      4
+    ],
+    [
+      "color:rgb(216, 45, 55)",
+      4
+    ],
+    [
+      "color:rgb(252, 0, 21)",
+      2
+    ],
+    [
+      "border:rgb(235, 235, 235)",
+      1
+    ],
+    [
+      "bg:rgb(244, 244, 244)",
+      1
+    ],
+    [
+      "bg:rgba(199, 199, 199, 0.1)",
+      1
+    ],
+    [
+      "bg:rgba(255, 185, 202, 0.5)",
+      1
+    ]
+  ],
+  "typography": [
+    [
+      "li \"Isidora Sans Alt\" 16px/24px w400 lsnormal",
+      294
+    ],
+    [
+      "button \"Isidora Sans Alt\" 16px/0px w400 lsnormal",
+      178
+    ],
+    [
+      "a \"Isidora Sans Alt\" 13px/normal w600 ls0.25px",
+      162
+    ],
+    [
+      "span \"Isidora Sans Alt\" 13px/normal w600 ls0.25px",
+      162
+    ],
+    [
+      "span \"Isidora Sans Alt\" 16px/16px w500 lsnormal",
+      151
+    ],
+    [
+      "a \"Isidora Sans Alt\" 15px/22.5px w400 lsnormal",
+      98
+    ],
+    [
+      "span \"Isidora Sans Alt\" 14px/14.98px w600 lsnormal",
+      56
+    ],
+    [
+      "a \"Isidora Sans Alt\" 16px/24px w400 lsnormal",
+      53
+    ],
+    [
+      "p \"Isidora Sans Alt\" 17.28px/17.28px w600 ls-0.22px",
+      50
+    ],
+    [
+      "span \"Isidora Sans Alt\" 18px/18px w600 ls-0.24px",
+      50
+    ],
+    [
+      "span \"Isidora Sans Alt\" 16px/16px w600 lsnormal",
+      50
+    ],
+    [
+      "span \"Isidora Sans Alt\" 12px/12.84px w500 lsnormal",
+      33
+    ],
+    [
+      "span \"Isidora Sans Alt\" 12.96px/19.44px w600 ls-0.12px",
+      21
+    ],
+    [
+      "span \"Isidora Sans Alt\" 10px/10.7px w500 lsnormal",
+      20
+    ],
+    [
+      "a \"Isidora Sans Alt\" 12px/normal w600 lsnormal",
+      18
+    ],
+    [
+      "span \"Isidora Sans Alt\" 16px/20px w500 lsnormal",
+      17
+    ],
+    [
+      "li \"Isidora Sans Alt\" 14px/normal w700 lsnormal",
+      14
+    ],
+    [
+      "span \"Isidora Sans Alt\" 18px/normal w500 lsnormal",
+      13
+    ],
+    [
+      "a \"Isidora Sans Alt\" 14px/21px w400 lsnormal",
+      8
+    ],
+    [
+      "a \"Isidora Sans Alt\" 16px/24px w600 lsnormal",
+      6
+    ],
+    [
+      "span \"Isidora Sans Alt\" 16px/24px w600 lsnormal",
+      6
+    ],
+    [
+      "span \"Isidora Sans Alt\" 15px/16.5px w500 lsnormal",
+      5
+    ],
+    [
+      "span \"Isidora Sans Alt\" 13px/13px w600 ls-0.15px",
+      5
+    ],
+    [
+      "span \"Isidora Sans Alt\" 16px/24px w400 lsnormal",
+      5
+    ],
+    [
+      "p \"Isidora Sans Alt\" 16px/20px w500 lsnormal",
+      5
+    ],
+    [
+      "span \"Isidora Sans Alt\" 12px/normal w600 ls0.12px",
+      3
+    ],
+    [
+      "span \"Isidora Sans Alt\" 16px/normal w500 lsnormal",
+      2
+    ],
+    [
+      "h2 \"Isidora Sans Alt\" 22px/22px w600 ls-0.22px",
+      2
+    ],
+    [
+      "span \"Isidora Sans Alt\" 18px/normal w600 lsnormal",
+      1
+    ],
+    [
+      "a \"Isidora Sans Alt\" 18px/normal w600 lsnormal",
+      1
+    ],
+    [
+      "h1 \"Isidora Sans Alt\" 32px/36px w700 ls-0.32px",
+      1
+    ],
+    [
+      "li \"Isidora Sans Alt\" 18px/27px w400 lsnormal",
+      1
+    ],
+    [
+      "a \"Isidora Sans Alt\" 18px/27px w400 lsnormal",
+      1
+    ],
+    [
+      "li \"Isidora Sans Alt\" 18px/27px w700 lsnormal",
+      1
+    ],
+    [
+      "a \"Isidora Sans Alt\" 18px/27px w700 lsnormal",
+      1
+    ],
+    [
+      "a \"Isidora Sans Alt\" 14px/14px w600 ls-0.14px",
+      1
+    ],
+    [
+      "a \"Isidora Sans Alt\" 12px/normal w500 lsnormal",
+      1
+    ],
+    [
+      "span \"Isidora Sans Alt\" 12px/normal w500 lsnormal",
+      1
+    ],
+    [
+      "h2 \"Isidora Sans Alt\" 22px/25.08px w600 ls-0.22px",
+      1
+    ],
+    [
+      "h4 \"Isidora Sans Alt\" 32px/normal w700 lsnormal",
+      1
+    ],
+    [
+      "label \"Isidora Sans Alt\" 13px/normal w600 lsnormal",
+      1
+    ]
+  ],
+  "cssVars": {
+    "--white-color": "#fff",
+    "--light": "#f8f9fa",
+    "--tw-ring-offset-shadow": "0 0 transparent",
+    "--yellow": "#ffc107",
+    "--toastify-color-warning": "#f1c40f",
+    "--header-color": "#fc0015",
+    "--tw-ring-shadow": "0 0 transparent",
+    "--primary-color": "#fff",
+    "--danger-color": "#dc3545",
+    "--success-color": "#28a745",
+    "--secondary-color": "#6c757d",
+    "--toastify-spinner-color": "#616161",
+    "--pink": "#e83e8c",
+    "--secondary-red-color": "#d82d37",
+    "--breakpoint-xs": "0",
+    "--hover-bg-color": "rgba(255,185,202,0.18)",
+    "--toastify-z-index": "9999",
+    "--gray-dark": "#343a40",
+    "--toastify-text-color-error": "#fff",
+    "--toastify-color-info": "#3498db",
+    "--white": "#fff",
+    "--warning-color": "#ffc107",
+    "--success": "#28a745",
+    "--tw-ring-inset": "",
+    "--red": "#dc3545",
+    "--breakpoint-xl": "1200px",
+    "--font-family-sans-serif": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"",
+    "--indigo": "#6610f2",
+    "--toastify-text-color-warning": "#fff",
+    "--toastify-toast-max-height": "800px",
+    "--border-color": "#b8b7b7",
+    "--toastify-color-transparent": "hsla(0,0%,100%,0.7)",
+    "--eggless-color": "#00a651",
+    "--tw-ring-color": "rgba(59,130,246,0.5)",
+    "--toastify-font-family": "sans-serif",
+    "--breakpoint-lg": "992px",
+    "--toastify-color-progress-error": "#e74c3c",
+    "--blue": "#4780c0",
+    "--toastify-text-color-light": "#757575",
+    "--warning": "#ffc107",
+    "--toastify-color-progress-info": "#3498db",
+    "--black-color": "#000",
+    "--toastify-color-progress-success": "#07bc0c",
+    "--toastify-color-dark": "#121212",
+    "--info": "#17a2b8",
+    "--banner-background-color": "#ffe8ee",
+    "--orange": "#fd7e14",
+    "--tw-ring-offset-color": "#fff",
+    "--info-color": "#17a2b8",
+    "--toastify-icon-color-success": "#07bc0c",
+    "--toastify-color-progress-dark": "#bb86fc",
+    "--green": "#28a745",
+    "--toastify-toast-min-height": "64px",
+    "--button-bg-color": "#fc0015",
+    "--toastify-color-progress-warning": "#f1c40f",
+    "--toastify-color-light": "#fff",
+    "--toastify-text-color-success": "#fff",
+    "--toastify-toast-width": "320px",
+    "--teal": "#20c997",
+    "--breakpoint-md": "768px",
+    "--toastify-color-success": "#07bc0c",
+    "--danger": "#dc3545",
+    "--tw-shadow": "0 0 transparent",
+    "--tw-ring-offset-width": "0px",
+    "--gray": "#6c757d",
+    "--toastify-text-color-dark": "#fff",
+    "--cyan": "#17a2b8",
+    "--dark": "#343a40",
+    "--toastify-color-progress-light": "linear-gradient(90deg,#4cd964,#5ac8fa,#007aff,#34aadc,#5856d6,#ff2d55)",
+    "--font-family-monospace": "SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace",
+    "--text-color": "#070707",
+    "--toastify-color-error": "#e74c3c",
+    "--secondary-yellow-color": "#fecc29",
+    "--heading-color": "#fc0015",
+    "--toastify-toast-background": "#fff",
+    "--toastify-icon-color-error": "#e74c3c",
+    "--category-card-color": "#ffb9ca",
+    "--purple": "#6f42c1",
+    "--subheading-color": "#515151",
+    "--toastify-icon-color-info": "#3498db",
+    "--breakpoint-sm": "576px",
+    "--tw-border-opacity": "1",
+    "--primary": "#007bff",
+    "--bg-color": "rgba(252,0,21,0.08)",
+    "--toastify-text-color-info": "#fff",
+    "--toastify-icon-color-warning": "#f1c40f",
+    "--toastify-spinner-color-empty-area": "#e0e0e0",
+    "--secondary": "#6c757d",
+    "--primary-font-family": "\"Isidora Sans Alt\""
+  },
+  "stack": {
+    "next": false,
+    "nuxt": false,
+    "react": false,
+    "angular": false,
+    "jquery": false,
+    "lenis": false,
+    "locomotive": false,
+    "gsap": false,
+    "swiper": false,
+    "slick": false,
+    "owl": false,
+    "bootstrap": true,
+    "tailwind": false,
+    "scripts": [
+      "https://s3.ap-south-1.amazonaws.com/cdn.limechat.ai/packs/js/LC_sdk/v1/sdk.js",
+      "https://cse.expertrec.com/js/ci_ecomSearch_separate.1771936235707.min.js",
+      "https://cse.expertrec.com/api/js/ci_common.js?id=42bae629e8c14b648063eb2f20082e41",
+      "https://www.googletagmanager.com/gtag/js?id=AW-10859022602",
+      "https://www.googletagmanager.com/gtag/js?id=G-8CFQ42GSBS",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/js/5.581660c9.chunk.js",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601969253&cv=11&fst=1786601969253&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601969487&cv=11&fst=1786601969487&bg=ffffff&guid=ON&async=1&en=shown&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=%2Fbest-seller&top=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dshown%3Bsection_name%3DExplore%20More%3Bscreen_name%3DBest%20Seller%3Bheading%3Dexplore_more_shown%3Bsub_heading%3DBento%20Cakes%7CTheme%20Cakes%7CPhoto%20Cakes%7CDesserts%7CGourmet%20Cakes%7CCheese%20Cakes%3Bsub_sub_heading%3D&ept=9&rfmt=3&fmt=4",
+      "https://dynamic.criteo.com/js/ld/ld.js?a=49593",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601972073&cv=11&fst=1786601972073&bg=ffffff&guid=ON&async=1&en=shown&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=%2Fbest-seller&top=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dshown%3Bsection_name%3D%3Bscreen_name%3DBest%20Seller%3Bheading%3Dbanner_shown%3Bsub_heading%3D%3Bsub_sub_heading%3D&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601972594&cv=11&fst=1786601972594&bg=ffffff&guid=ON&async=1&en=shown&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=%2Fbest-seller&top=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dshown%3Bsection_name%3D%3Bscreen_name%3DBest%20Seller%3Bheading%3Dpagination_shown%3Bsub_heading%3D%3Bsub_sub_heading%3D&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601972605&cv=11&fst=1786601972605&bg=ffffff&guid=ON&async=1&en=shown&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=%2Fbest-seller&top=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dshown%3Bsection_name%3D%3Bscreen_name%3DBest%20Sellers%3Bheading%3Dtop_reviews_listing_shown%3Bsub_heading%3D%3Bsub_sub_heading%3Dnon_logged_in&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601972866&cv=11&fst=1786601972866&bg=ffffff&guid=ON&async=1&en=shown&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=%2Fbest-seller&top=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dshown%3Bsection_name%3D%3Bscreen_name%3Dlisting_page%3Bheading%3Dbreadcrumb_shown%3Bsub_heading%3DHome%2FBest%20Seller%3Bsub_sub_heading%3D&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601972877&cv=11&fst=1786601972877&bg=ffffff&guid=ON&async=1&en=shown&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=%2Fbest-seller&top=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dshown%3Bheading%3Dfooter_shown%3Bscreen_name%3D&ept=9&rfmt=3&fmt=4",
+      "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/10859022602/?random=1786601973703&cv=11&fst=1786601973703&bg=ffffff&guid=ON&async=1&en=view_item_list&gtm=45be68b1v9170315802za200zd9170315802xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~118897920~118897930~119367802~119367810~119404701~119527020~119896802~120315584~120385423&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.bakingo.com%2Fbest-seller&rcb=4&frm=0&tiba=Best%20Seller%20Desserts%20%7C%20Buy%20Your%20Favourite%20Desserts%20Online%20Now&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=1912773090.1786601969&uaa=x86&uab=64&uafvl=Not%253DA%253FBrand%3B99.0.0.0%7CHeadlessChrome%3B151.0.7922.34%7CChromium%3B151.0.7922.34&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dview_item_list%3Bitem_list_name%3D%2Fbest-seller%3Bu_type%3D%3Bid%3Dcake0005choc%2Ccake0014frui%2Ccake5911butt%2Ccake0022pifr%2Ccake0008choc%2Ccake3550rash%2Ccake0653choc%2Ccake2859blue%2Ccake0001chbl%2Ccake1119choc%2Ccake3217beli%2Ccake0654choc%2Cthem5739flav%2Ccake3750drea%2Ccake1095redv%2Crosecake2561vani%2Ccake2161choc%2Ccake888blac%2Cthem2655flav%2Ccake0028choc%2Ccake0033hech_0%2Cphot0275flav_0%2Ccake2370rasm%2Ccake0040rchc%2Ccake896choc%2Cpast2345choc%2Cjar1288redv%2Cthem3340flav%2Cthem1045flav%2Ccake889blue%2Cphot0271flav_0%2Ccake0016pifr%2Ccake0035choc%2Ccupc1320flav%2Ccake3212germ%2Cpast0162choc%2Ccake2615choc%2Ccake0013exot%2Ccake2571choc%2Ccake2297redv%2Ccake894frui%2Ccake2858choc%2Ccake3542butt%2Ccake3171pine%2Ccake3454choc%2Cpina1810choc%2Ccake1637redv%2Ccake4693mangcheesecake%2Ccake4692mang_1&ept=9&rfmt=3&fmt=4",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/js/AppContainer.49d2e290.chunk.js",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/js/ListingPage.222f0b2d.chunk.js",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/js/Pagination.8aadb775.chunk.js",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/js/74.510f1282.chunk.js",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/js/main.53e8b96d.chunk.js"
+    ],
+    "stylesheets": [
+      "https://bkassets.bakingo.com/bakingo-ssr/static/css/5.5deb587c.chunk.css"
+    ]
+  },
+  "counts": {
+    "images": 271,
+    "videos": 0,
+    "svg": 103,
+    "bg": 191
+  },
+  "images": [
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/bakingo-logo-re.svg",
+      "alt": "Bakingo",
+      "w": 135,
+      "h": 40,
+      "loading": "eager",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "relative",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/search_black.png",
+      "alt": "search icon",
+      "w": 57,
+      "h": 57,
+      "loading": "eager",
+      "parentClasses": "search desktop-search",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/track-order.svg",
+      "alt": "Track Shipment",
+      "w": 28,
+      "h": 30,
+      "loading": "eager",
+      "parentClasses": "track-order-link",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/shopping-cart.svg",
+      "alt": "Shopping cart",
+      "w": 30,
+      "h": 28,
+      "loading": "eager",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/user-profile.svg",
+      "alt": "Profile",
+      "w": 21,
+      "h": 27,
+      "loading": "eager",
+      "parentClasses": " ",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+      "alt": "star icon",
+      "w": 100,
+      "h": 98,
+      "loading": "lazy",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/upDownIcon.cfbe7839.svg",
+      "alt": "button icon",
+      "w": 24,
+      "h": 17,
+      "loading": "auto",
+      "parentClasses": "border-button-container sortByTitle sort-button ",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rich Chocolate Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "eager",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Rich Chocolate Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Rich Chocolate Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-A.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "eager",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-B.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-C.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/butterscotch-crunch-cake-cake5911butt-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Butterscotch Crunch Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "eager",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/butterscotch-crunch-cake-cake5911butt-BBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Butterscotch Crunch Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/butterscotch-crunch-cake-cake5911butt-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Fronf View of Butterscotch Crunch Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-pineapple-cake0022pifr-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Whipped Cream Pineapple Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "eager",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-pineapple-cake0022pifr-BBBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Whipped Cream Pineapple Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-pineapple-cake0022pifr-CCCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Whipped Cream Pineapple Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/D_BENTO1.jpg",
+      "alt": "dummy-image",
+      "w": 312,
+      "h": 312,
+      "loading": "auto",
+      "parentClasses": "explore-more-item-desktop",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/D_THEME.jpg",
+      "alt": "dummy-image",
+      "w": 312,
+      "h": 312,
+      "loading": "auto",
+      "parentClasses": "explore-more-item-desktop",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/D_PHOTOCAKE1.jpg",
+      "alt": "dummy-image",
+      "w": 312,
+      "h": 312,
+      "loading": "auto",
+      "parentClasses": "explore-more-item-desktop",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://media.bakingo.com/Desserts.jpg",
+      "alt": "dummy-image",
+      "w": 312,
+      "h": 312,
+      "loading": "auto",
+      "parentClasses": "explore-more-item-desktop",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/D_GOURMET.jpg",
+      "alt": "dummy-image",
+      "w": 312,
+      "h": 312,
+      "loading": "auto",
+      "parentClasses": "explore-more-item-desktop",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/ssr-static/D_CHEESECAKE.jpg",
+      "alt": "dummy-image",
+      "w": 312,
+      "h": 312,
+      "loading": "auto",
+      "parentClasses": "explore-more-item-desktop",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Choco Chip Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "eager",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Choco Chip Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-CCCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front Angled View of Choco Chip Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-DDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Choco Chip Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rose Petals N Pistachio Rasmalai Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "eager",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Rose Petals N Pistachio Rasmalai Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Rose Petals N Pistachio Rasmalai Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-DD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rose Petals N Pistachio Rasmalai Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-AAAAA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Vanilla Half & Half Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "eager",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-BBBBB_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Chocolate Vanilla Half & Half Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-CCCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Chocolate Vanilla Half & Half Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-DDDDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Chocolate Vanilla Half & Half Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Cake with Swirling Design",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Chocolate Cake with Swirling Design",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Chocolate Cake with Swirling Design",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-D.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Chocolate Cake with Swirling Design",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/viscous-blueberry-cheesecake-cake2859blue-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Blueberry Cheesecake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/viscous-blueberry-cheesecake-cake2859blue-BB_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Blueberry Cheesecake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/viscous-blueberry-cheesecake-cake2859blue-CC_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Blueberry Cheesecake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-BBBB1.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-CCCC1.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-AAA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-BBB.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-CCC.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-DDD.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-EEE.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Belgian Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Belgian Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-BBBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View Belgian Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-DDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Belgian Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-AA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Ganache Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-AE.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Chocolate Ganache Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Chocolate Ganache Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Chocolate Ganache Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/rosy-petals-valentines-heart-cake-them5739flav-A.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rosy Petals Heart Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/rosy-petals-valentines-heart-cake-them5739flav-B.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Rosy Petals Heart Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/rosy-petals-valentines-heart-cake-them5739flav-C.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front Angled View of Rosy Petals Heart Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": " Choco Dream Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of  Choco Dream Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of  Choco Dream Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-DDDDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/heart-shaped-red-velvet-cake-cake1095redv-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Heart Shaped Red Velvet Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/heart-shaped-red-velvet-cake-cake1095redv-b.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Heart Shaped Red Velvet Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/heart-shaped-red-velvet-cake-cake1095redv-c.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Heart Shaped Red Velvet Cake ",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-AAAA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Vanilla Rose Cake ",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Vanilla Rose Cake ",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Creamy Vanilla Rose Cake ",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-DDDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-lip-smacking-chocolate-truffle-cake-cake2161choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-lip-smacking-chocolate-truffle-cake-cake2161choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Chocolate Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-lip-smacking-chocolate-truffle-cake-cake2161choc-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front Angled View of Chocolate Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-choco-black-forest-cake-cake888blac-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "German Black Forest Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-choco-black-forest-cake-cake888blac-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of German Black Forest Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-choco-black-forest-cake-cake888blac-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of German Black Forest Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/fantasy-barbie-cake-bg-them2655flav-A_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Pink Princess Barbie Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/fantasy-barbie-cake-bg-them2655flav-B_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Pink Princess Barbie Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Loaded Glazed Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-BBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Chocolate Loaded Glazed Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-CCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Chocolate Loaded Glazed Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-DDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Chocolate Loaded Glazed Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-choco-truffle-heart-shape-cake0033hech-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Heart Shaped Choco Truffle Cake ",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-choco-truffle-heart-shape-cake0033hech-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Heart Shaped Choco Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-choco-truffle-heart-shape-cake0033hech-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Heart Shaped Choco Truffle Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-_birthday-exuberance-phot0275flav-301217-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Birthday Photo Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-_birthday-exuberance-phot0275flav-301217-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Birthday Photo Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/squ-_birthday-exuberance-phot0275flav-301217-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Birthday Photo Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rasmalai Pista Whipped Cream Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-b.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Round Luscious Rasmalai Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-c.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Round Luscious Rasmalai Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-d.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Slice of Relish Rasmalai Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-A_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Red Velvet Coffee Drip Cream Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-B_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Red Velvet Coffee Drip Cream Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-C_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Slice View of Red Velvet Coffee Drip Cream Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-A_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Truffle Symphony Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-B_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front Angled View of Chocolate Truffle Symphony Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-C_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Chocolate Truffle Symphony Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-DDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Chocolate Truffle Symphony Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-EEE.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Zoomed View of Sliced Chocolate Truffle Symphony Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-set-of-two-happy-birthday-pastry-past2345choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Set of Two Happy Birthday Pastry",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-set-of-two-happy-birthday-pastry-past2345choc-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Set of Two Happy Birthday Pastry",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-set-of-two-happy-birthday-pastry-past2345choc-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Set of Two Happy Birthday Pastry",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/red-velvet-single-jar-cake-jar1288redv-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Velvety Blast Cake - Red Velvet Single Jar Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/red-velvet-single-jar-cake-jar1288redv-c.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Velvety Blast Cake - Red Velvet Single Jar Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/red-velvet-single-jar-cake-jar1288redv-b.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Close view of Red Velvet Single Jar Cake ",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/jungle-paradise-theme-cake-bg-them3340flav-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Jungle Paradise Theme Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/jungle-paradise-theme-cake-bg-them3340flav-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Front Angled View of Jungle Paradise Theme Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/jungle-paradise-theme-cake-bg-them3340flav-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front Angled View of Jungle Paradise Theme Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-AA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Barbie Floral Gown Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-BB_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Barbie Floral Gown Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-CC_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Barbie Floral Gown Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-DD_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Back View of Barbie Floral Gown Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/blueberry-cake-1-cake889blue-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Blueberry Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/blueberry-cake-1-cake889blue-b.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Blueberry Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/blueberry-cake-1-cake889blue-c.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Blueberry Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-celestial-beauty-phot0271flav-301217-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Order Photo Cake for Birthday",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-celestial-beauty-phot0271flav-301217-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Celestial Beauty photo cake for birthday",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-celestial-beauty-phot0271flav-301217-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Celestial Beauty photo cake for birthday",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AB.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AC.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AD.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AE.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-mud-cake0035choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Mud Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-mud-cake0035choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Choco-Thrill Chocolate Mud Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolate-mud-cake0035choc-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Choco-Thrill Chocolate Mud Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav-A_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Happy Birthday Personalised Cupcakes 2 Pieces",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav-B_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top view of Happy Birthday Personalised Cupcakes 2 Pieces",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav-C_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Packed Happy Birthday Personalised Cupcakes 2 Pieces",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "German Black Forest Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of German Black Forest Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-CCCC.jpg",
+      "alt": "Front View of German Black Forest Cake",
+      "w": 0,
+      "h": 0,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-DDDD_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of German Black Forest Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-AAAA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Classic Chocolate Truffle Pastry",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-BBBB_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Classic Chocolate Truffle Pastry",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-CCCC_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Classic Chocolate Truffle Pastry",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Marble Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Marble Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Marble Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-DDDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Marble Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Ferrero Rocher Almonds Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Chocolate Ferrero Rocher Almonds Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Chocolate Ferrero Rocher Almonds Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-D_0.jpg",
+      "alt": "Sliced View of Chocolate Ferrero Rocher Almonds Cake",
+      "w": 0,
+      "h": 0,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-E_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Ferrero Rocher Cake Onlien",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Round Chocolate Cake for Anniversary",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Round Chocolate Cake for Love",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-CCCC.jpg",
+      "alt": "Round Chocolate Cake for Anniversary",
+      "w": 0,
+      "h": 0,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-DDDDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Round Chocolate Cake for Anniversary",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-dripping-with-deliciousness-red-velvet-cake-cake2297redv-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Pink & Orange Red Velvet Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-dripping-with-deliciousness-red-velvet-cake-cake2297redv-BBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Pink & Orange Red Velvet Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-dripping-with-deliciousness-red-velvet-cake-cake2297redv-CCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Pink & Orange Red Velvet Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Fruits & Sprinkles Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Fruits & Sprinkles Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Fruits & Sprinkles Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-DDDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Fruits & Sprinkles Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-E.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Description of Fruits & Sprinkles Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Trio Mousse Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Trio Mousse Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Trio Mousse Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-DDD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Trio Mousse Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-AA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-BB.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-CC.jpg.jpg",
+      "alt": "",
+      "w": 0,
+      "h": 0,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-DD.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/essence-of-love-vday-cake-cake3171pine-AAA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Love N Rose Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/essence-of-love-vday-cake-cake3171pine-BB.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Love N Rose Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/essence-of-love-vday-cake-cake3171pine-CCC.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Love N Rose Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Choco Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Side View of Choco Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Choco Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-D.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Sliced View of Round Choco Vanilla Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Ferrero Rocher and Kitkat Pinata Ball Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-BB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Ferrero Rocher and Kitkat Pinata Ball Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-CC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Smashing Ferrero Rocher and Kitkat Pinata Ball Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-DD.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Smashing Ferrero Rocher and Kitkat Pinata Ball Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Red Velvet Chocolate Cake ",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv--BBBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Red Velvet Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv-CCCC.jpg",
+      "alt": "Top View of Red Velvet Chocolate Cake",
+      "w": 0,
+      "h": 0,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv-E.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Product Ingredients of Red Velvet Chocolate Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tropical-escape-mango-cheesecake-cake4693mangcheesecake-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Tropical Escape Mango Cheesecake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tropical-escape-mango-cheesecake-cake4693mangcheesecake-BBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Tropical Escape Mango Cheesecake Order Online",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/tropical-escape-mango-cheesecake-cake4693mangcheesecake-CCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/mango-naked-cake-cake4692mang-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Naked Mango Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/mango-naked-cake-cake4692mang-BBB.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Top View of Naked Mango Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/mango-naked-cake-cake4692mang-CCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Naked Mango Cake",
+      "w": 400,
+      "h": 400,
+      "loading": "lazy",
+      "parentClasses": "image-gallery-image",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+      "alt": "wishlist",
+      "w": 29,
+      "h": 28,
+      "loading": "auto",
+      "parentClasses": "wishlist-container listing red-heart",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/verifiedUser.855045f5.svg",
+      "alt": "Verified User",
+      "w": 14,
+      "h": 14,
+      "loading": "auto",
+      "parentClasses": "reviewUserName",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "alt": "reviewDot",
+      "w": 5,
+      "h": 5,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "alt": "reviewDot",
+      "w": 5,
+      "h": 5,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/verifiedUser.855045f5.svg",
+      "alt": "Verified User",
+      "w": 14,
+      "h": 14,
+      "loading": "auto",
+      "parentClasses": "reviewUserName",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "alt": "reviewDot",
+      "w": 5,
+      "h": 5,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "alt": "reviewDot",
+      "w": 5,
+      "h": 5,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/verifiedUser.855045f5.svg",
+      "alt": "Verified User",
+      "w": 14,
+      "h": 14,
+      "loading": "auto",
+      "parentClasses": "reviewUserName",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "alt": "reviewDot",
+      "w": 5,
+      "h": 5,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "alt": "reviewDot",
+      "w": 5,
+      "h": 5,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/subscribe-arrow.6ada1d89.svg",
+      "alt": "subscribe",
+      "w": 29,
+      "h": 13,
+      "loading": "auto",
+      "parentClasses": "subscribe-form",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/bakingo.8d020708.svg",
+      "alt": "Bakingo Logo",
+      "w": 202,
+      "h": 60,
+      "loading": "auto",
+      "parentClasses": "bakingo-image-year",
+      "siblingImgs": 6,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/fb.a669391b.svg",
+      "alt": "Facebook",
+      "w": 14,
+      "h": 26,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/insta.5b618928.svg",
+      "alt": "Instagram",
+      "w": 23,
+      "h": 24,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/twitter.2c75e3c0.svg",
+      "alt": "Twitter",
+      "w": 25,
+      "h": 24,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/linked.8efee685.svg",
+      "alt": "LinkedIn",
+      "w": 22,
+      "h": 22,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/yt.49863f07.svg",
+      "alt": "YouTube",
+      "w": 25,
+      "h": 18,
+      "loading": "auto",
+      "parentClasses": "",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://media.limechat.in/lc-crm-media/uploads/b3dc88ee-768d-49e3-8370-9f2e5c7cfdf5/cropped_circle_image.png",
+      "alt": "bubble-icon",
+      "w": 1024,
+      "h": 1024,
+      "loading": "auto",
+      "parentClasses": "woot-widget-bubble woot-widget--standard_medium",
+      "siblingImgs": 1,
+      "position": "static",
+      "zIndex": "auto"
+    }
+  ],
+  "videos": [],
+  "backgroundImages": [
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/search-mob.svg\")",
+      "element": "img.header-search-icon",
+      "size": "auto",
+      "repeat": "no-repeat",
+      "position": "0% 0%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg\")",
+      "element": "div.header-orders-icon",
+      "size": "1440%",
+      "repeat": "no-repeat",
+      "position": "-2px -15px"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg\")",
+      "element": "div.wish-list-icon-desk",
+      "size": "1400%",
+      "repeat": "no-repeat",
+      "position": "-78px -15px"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg\")",
+      "element": "div.occasion-icon-desk",
+      "size": "1440%",
+      "repeat": "no-repeat",
+      "position": "-40px -15px"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg\")",
+      "element": "div.header-address-icon",
+      "size": "1440%",
+      "repeat": "no-repeat",
+      "position": "-119px -15px"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg\")",
+      "element": "div.wallet-header-icon",
+      "size": "1440%",
+      "repeat": "no-repeat",
+      "position": "-159px -15px"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg\")",
+      "element": "div.header-reviews-icon",
+      "size": "1440%",
+      "repeat": "no-repeat",
+      "position": "-201px -15px"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg\")",
+      "element": "div.header-need-help-us-desk",
+      "size": "1440%",
+      "repeat": "no-repeat",
+      "position": "-240px -15px"
+    },
+    {
+      "url": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/Logout.4d8bbc08.svg\")",
+      "element": "div.header-logout-icon",
+      "size": "auto",
+      "repeat": "no-repeat",
+      "position": "7px 0px"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkmedia.bakingo.com/ssr-static/image_placeholder.svg\")",
+      "element": "img.product-img",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "50% 50%"
+    },
+    {
+      "url": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/listingReviewCrop.efafc22f.svg\")",
+      "element": "div.reviewCardContainer",
+      "size": "contain",
+      "repeat": "no-repeat",
+      "position": "0% 0%"
+    },
+    {
+      "url": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/footer-background.0f80c8bb.svg\")",
+      "element": "div.footer-container",
+      "size": "cover",
+      "repeat": "no-repeat",
+      "position": "0% 0%"
+    },
+    {
+      "url": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/insta.5b618928.svg\")",
+      "element": "img.footer-instagram",
+      "size": "auto",
+      "repeat": "no-repeat",
+      "position": "0% 0%"
+    },
+    {
+      "url": "url(\"https://bkassets.bakingo.com/bakingo-ssr/static/media/insta.5b618928.svg\")",
+      "element": "span.footer-instagram",
+      "size": "auto",
+      "repeat": "no-repeat",
+      "position": "0% 0%"
+    }
+  ],
+  "topoRootSelector": "body",
+  "sections": [
+    {
+      "index": 0,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 1,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 2,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 3,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 4,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 5,
+      "tag": "div",
+      "id": "bakingoApp",
+      "classes": "",
+      "top": 0,
+      "height": 7426,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block",
+      "childCount": 1,
+      "heading": "Best Sellers",
+      "imgCount": 270,
+      "linkCount": 455,
+      "text": "Delivering to Track OrderCartLogin/SignupMy OrdersMy FavouritesMy OccasionsManage AddressMy WalletMy ReviewsWhatsAppLogoutCakesTrending Cakes60 Minutes Delivery Fresh Drops Football Cakes Fire Cakes B"
+    },
+    {
+      "index": 6,
+      "tag": "script",
+      "id": "_BAKINGO_REFERRER_",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "undefined"
+    },
+    {
+      "index": 7,
+      "tag": "script",
+      "id": "__PRELOADED_STATE__",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "{\"router\":{\"location\":{\"pathname\":\"/best-seller\",\"search\":\"\",\"hash\":\"\",\"key\":\"b7m7uc\",\"query\":{}},\"action\":\"POP\"},\"auth\":{},\"product\":{\"productList\":[{\"node_id\":956,\"sku\":\"cake0005choc\",\"product_type\""
+    },
+    {
+      "index": 8,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag(\"js\",new Date)"
+    },
+    {
+      "index": 9,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "function loadGtagScripts(t){const a=t.map(t=>{const a=document.createElement(\"script\");return a.async=!0,a.src=\"https://www.googletagmanager.com/gtag/js?id=\"+t,a});let n=0;const o=()=>{n++,n===a.lengt"
+    },
+    {
+      "index": 10,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "let prodExpertrecKey=\"42bae629e8c14b648063eb2f20082e41\",stagingExpertrecKey=\"b8c71f6f0fdb451a835d2c209efa6c3b\",isSearchStaging=window.location.hostname.includes(\"bktest\")||window.location.hostname.inc"
+    },
+    {
+      "index": 11,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "function imageInit(){for(var t=document.getElementsByTagName(\"img\"),e=0;e<t.length;e++)t[e]&&t[e].getAttribute(\"data-src\")&&t[e].getAttribute(\"data-src\")!=t[e].getAttribute(\"src\")&&t[e].setAttribute(\""
+    },
+    {
+      "index": 12,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "window.addEventListener(\"load\",()=>{window.NREUM||(NREUM={}),NREUM.init={distributed_tracing:{enabled:!0},privacy:{cookies_enabled:!0},ajax:{deny_list:[\"bam.nr-data.net\"]}},window.NREUM||(NREUM={}),__"
+    },
+    {
+      "index": 13,
+      "tag": "script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "!function(e){function a(a){for(var r,n,i=a[0],f=a[1],d=a[2],s=0,l=[];s<i.length;s++)n=i[s],Object.prototype.hasOwnProperty.call(o,n)&&o[n]&&l.push(o[n][0]),o[n]=0;for(r in f)Object.prototype.hasOwnPro"
+    },
+    {
+      "index": 14,
+      "tag": "div",
+      "classes": "ReactModalPortal",
+      "top": 7426,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 15,
+      "tag": "div",
+      "classes": "ReactModalPortal",
+      "top": 7426,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 16,
+      "tag": "div",
+      "classes": "ReactModalPortal",
+      "top": 7426,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 17,
+      "tag": "script",
+      "id": "limechat-script",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": "(function(d,t) { var BASE_URL=\"https://app.limechat.ai\"; var g=d.createElement(t),s=d.getElementsByTagName(t)[0]; g.src=\"https://s3.ap-south-1.amazonaws.com/cdn.limechat.ai/packs/js/LC_sdk/v1/sdk.js\";"
+    },
+    {
+      "index": 18,
+      "tag": "div",
+      "id": "criteo-tags-div",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 1,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    },
+    {
+      "index": 19,
+      "tag": "style",
+      "classes": "",
+      "top": 0,
+      "height": 0,
+      "position": "static",
+      "zIndex": "auto",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 0,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ".woot-widget-holder { box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 40px; opacity: 1; overflow: hidden !important; position: fixed !important; transition-duration: 0.5s, 0.5s; transition-property: opacity, "
+    },
+    {
+      "index": 20,
+      "tag": "div",
+      "classes": " woot--bubble-holder",
+      "top": 0,
+      "height": 0,
+      "position": "fixed",
+      "zIndex": "2147483647",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "none",
+      "childCount": 2,
+      "heading": "Hey, need any help?",
+      "imgCount": 1,
+      "linkCount": 0,
+      "text": "✕Hey, need any help?"
+    },
+    {
+      "index": 21,
+      "tag": "div",
+      "classes": " woot-widget-holder woot--hide woot-elements--right",
+      "top": 20170,
+      "height": 730,
+      "position": "fixed",
+      "zIndex": "-1",
+      "background": "rgba(0, 0, 0, 0)",
+      "display": "block",
+      "childCount": 1,
+      "imgCount": 0,
+      "linkCount": 0,
+      "text": ""
+    }
+  ]
+}

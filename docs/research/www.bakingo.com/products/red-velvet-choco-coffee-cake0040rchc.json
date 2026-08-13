@@ -1,0 +1,195 @@
+{
+  "url": "https://www.bakingo.com/p/cake/red-velvet-choco-coffee-cake0040rchc",
+  "sku": "cake0040rchc",
+  "title": "Red Velvet Coffee Drip Cream Cake",
+  "rating": "4.8",
+  "reviewCount": "(304 Reviews)",
+  "price": "599(Inclusive of GST)",
+  "description": "Our signature Red velvet cake comes with a twist of coffee glaze on the top, with red velvet shavings & creamy coffee-flavored frosting as garnish.",
+  "chefTitle": "\"In Our Chef's Word\"",
+  "chefWord": "Experience the best of both worlds: red velvet and coffee with this fusion cake? whipped cream cake ...Read more",
+  "weights": [
+    {
+      "raw": "0.5 Kg4 - 5 People",
+      "selected": false
+    },
+    {
+      "raw": "1 Kg",
+      "selected": false
+    },
+    {
+      "raw": "1.5 Kg",
+      "selected": false
+    },
+    {
+      "raw": "2 Kg",
+      "selected": false
+    },
+    {
+      "raw": "4 Kg",
+      "selected": false
+    }
+  ],
+  "servingInfo": "Serving info",
+  "gallery": [
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-A_1.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Red Velvet Coffee Drip Cream Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-A_1.jpg",
+      "alt": "Red Velvet Coffee Drip Cream Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-B_1.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Front View of Red Velvet Coffee Drip Cream Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-B_1.jpg",
+      "alt": "Front View of Red Velvet Coffee Drip Cream Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-C_1.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Slice View of Red Velvet Coffee Drip Cream Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-C_1.jpg",
+      "alt": "Slice View of Red Velvet Coffee Drip Cream Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-A_1.jpg?tr=w-665,h-665,dpr-1&q=50",
+      "alt": "Zoomable image"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Home",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Cake Delivery",
+      "href": "/cakes"
+    },
+    {
+      "label": "Cake Delivery",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Red Velvet Coffee Drip Cream Cake",
+      "href": null
+    }
+  ],
+  "alsoLike": [
+    {
+      "name": "Rasmalai Pista Whipped Cream Cake",
+      "href": "https://www.bakingo.com/p/cake/round-luscious-rasmalai-cake-cake2370rasm",
+      "img": "",
+      "price": "675"
+    },
+    {
+      "name": "Birthday Photo Cake",
+      "href": "https://www.bakingo.com/p/photo-cake/birthday-photo-cake-round-shape-phot0275flav",
+      "img": "",
+      "price": "689"
+    },
+    {
+      "name": "Rosey Heart Choco Truffle Cake",
+      "href": "https://www.bakingo.com/p/cake/choco-truffle-heart-shape-cake0033hech",
+      "img": "",
+      "price": "749"
+    },
+    {
+      "name": "Chocolate Snicker Cake",
+      "href": "https://www.bakingo.com/p/cake/snicker-chocolate-cake0028choc",
+      "img": "",
+      "price": "649"
+    },
+    {
+      "name": "Pink Princess Barbie Cake",
+      "href": "https://www.bakingo.com/p/theme-cake/fantasy-barbie-cake-them2655flav",
+      "img": "",
+      "price": "1479"
+    },
+    {
+      "name": "German Black Forest Cake",
+      "href": "https://www.bakingo.com/p/cake/choco-black-forest-cake-cake888blac",
+      "img": "",
+      "price": "559"
+    },
+    {
+      "name": "Velvet Chocolate Truffle Cake",
+      "href": "https://www.bakingo.com/p/cake/lip-smacking-chocolate-truffle-cake-cake2161choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Roses Topped Vanilla Cream Cake",
+      "href": "https://www.bakingo.com/p/cake/round-pink-roses-vanilla-cake-rosecake2561vani",
+      "img": "",
+      "price": "1149"
+    },
+    {
+      "name": "Classic Black Forest Cake",
+      "href": "/p/cake/black-forest-cake0001chbl",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Blueberry Delight Drip Cake",
+      "href": "/p/cake/blueberry-cake0002frui",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Rich Chocolate Truffle Cake",
+      "href": "/p/cake/choco-truffle-cake0005choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Chocolate Vanilla Half & Half Cake",
+      "href": "/p/cake/choco-vanilla-cake0006chva",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Butterscotch Chocolate Cake",
+      "href": "/p/cake/chocolate-butterscotch-cake0007chbu",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Choco Chip Truffle Cake",
+      "href": "/p/cake/chocolate-chip-cake0008choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Vanilla Latte Cake",
+      "href": "/p/cake/coffee-cake0010coff",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Coffee Walnut Cream Cake",
+      "href": "/p/cake/coffee-walnut-cake0012exco",
+      "img": "",
+      "price": "649"
+    }
+  ],
+  "reviewsRaw": "Ratings & Reviews4.8/5+24",
+  "listingHref": "/p/cake/red-velvet-choco-coffee-cake0040rchc",
+  "slug": "red-velvet-choco-coffee-cake0040rchc"
+}

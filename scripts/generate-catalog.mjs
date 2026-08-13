@@ -1,0 +1,199 @@
+/**
+ * Merge the listing extraction and the per-product crawl into a typed catalog
+ * under src/data/, downloading any image not already in public/.
+ * Usage: node scripts/generate-catalog.mjs
+ */
+import fs from 'node:fs/promises';
+import fss from 'node:fs';
+import path from 'node:path';
+
+const HOST = process.env.TARGET_HOST || 'www.bakingo.com';
+const LISTING = process.env.LISTING_SLUG || 'best-seller';
+const RES = path.join('docs', 'research', HOST);
+const LISTING_DIR = path.join(RES, LISTING);
+const PRODUCTS_DIR = path.join(RES, 'products');
+const DATA = path.join('src', 'data');
+
+const slugFile = (u) =>
+  path.basename(new URL(u).pathname).replace(/\.(?=[^.]*\.)/g, '-').replace(/[^a-zA-Z0-9._-]/g, '-').toLowerCase();
+
+const localFor = (u) => {
+  if (!u || !u.startsWith('http')) return u || '';
+  const dir = /cdninstagram/.test(new URL(u).hostname) ? 'images/instagram' : 'images';
+  return `/${dir}/${slugFile(u)}`;
+};
+
+const ensureLocal = async (u) => {
+  if (!u || !u.startsWith('http')) return u || '';
+  const rel = localFor(u);
+  const file = path.join('public', rel.slice(1));
+  if (fss.existsSync(file)) return rel;
+  try {
+    const res = await fetch(u, { headers: { Referer: `https://${HOST}/` } });
+    if (!res.ok) return rel;
+    await fs.mkdir(path.dirname(file), { recursive: true });
+    await fs.writeFile(file, Buffer.from(await res.arrayBuffer()));
+    return rel;
+  } catch {
+    return rel;
+  }
+};
+
+/** "0.5 Kg4 - 5 People" -> { label: "0.5 Kg", serving: "4 - 5 People" } */
+const parseWeight = (raw) => {
+  const m = raw.match(/^([\d.]+\s*Kg)\s*(.*)$/i);
+  return m ? { label: m[1].trim(), serving: m[2].trim() } : { label: raw.trim(), serving: '' };
+};
+
+/** "649(Inclusive of GST)" -> { amount: "₹649", note: "(Inclusive of GST)" } */
+const parsePrice = (raw) => {
+  const m = raw.match(/^([\d,]+)\s*(\(.*\))?$/);
+  return m
+    ? { amount: `₹${m[1]}`, note: m[2] || '' }
+    : { amount: raw.startsWith('₹') ? raw : `₹${raw}`, note: '' };
+};
+
+const clean = (s) => (s || '').replace(/\s*\.\.\.\s*Read more$/i, '').trim();
+
+/** Breadcrumb trails repeat each label; keep the first of each and drop ">" separators. */
+const dedupeCrumbs = (crumbs) => {
+  const out = [];
+  for (const c of crumbs) {
+    if (c.label === '>' || !c.label) continue;
+    const prev = out[out.length - 1];
+    if (prev && prev.label === c.label) {
+      if (!prev.href && c.href) prev.href = c.href;
+      continue;
+    }
+    out.push({ label: c.label, href: c.href });
+  }
+  return out;
+};
+
+const ts = (name, type, value) => `export const ${name}: ${type} = ${JSON.stringify(value, null, 2)};\n`;
+
+const run = async () => {
+  const listing = JSON.parse(await fs.readFile(path.join(LISTING_DIR, 'content.json'), 'utf8'));
+  const files = (await fs.readdir(PRODUCTS_DIR)).filter((f) => f.endsWith('.json'));
+
+  const details = new Map();
+  for (const f of files) {
+    const d = JSON.parse(await fs.readFile(path.join(PRODUCTS_DIR, f), 'utf8'));
+    details.set(d.slug, d);
+  }
+
+  const products = [];
+  for (const p of listing.products) {
+    if (!p.href) continue;
+    const slug = p.href.split('/').filter(Boolean).pop();
+    if (products.some((x) => x.slug === slug)) continue;
+    const d = details.get(slug);
+    const category = p.href.split('/').filter(Boolean)[1] || 'cake';
+
+    // Thumbnails and the main shot differ only by query string, so dedupe after
+    // localization — several remote URLs collapse onto one local file.
+    const gallerySrcs = [...new Set((d?.gallery || []).map((g) => g.src).filter(Boolean))];
+    const gallery = [];
+    for (const g of gallerySrcs) {
+      const local = await ensureLocal(g);
+      if (local && !gallery.includes(local)) gallery.push(local);
+    }
+
+    const price = parsePrice(d?.price || p.price || '');
+
+    products.push({
+      slug,
+      category,
+      href: `/p/${category}/${slug}`,
+      sourceHref: p.href,
+      name: d?.title || p.name,
+      image: await ensureLocal(p.img),
+      alt: p.alt || p.name,
+      gallery: gallery.length ? gallery : [await ensureLocal(p.img)],
+      price: price.amount,
+      priceNote: price.note,
+      rating: d?.rating || p.rating || '',
+      reviews: (d?.reviewCount || p.reviews || '').replace(/[()]/g, '').replace(/\s*Reviews?$/i, ''),
+      eggless: !!p.eggless,
+      tag: p.tag || '',
+      sku: d?.sku || '',
+      description: clean(d?.description),
+      chefTitle: clean(d?.chefTitle),
+      chefWord: clean(d?.chefWord),
+      weights: (d?.weights || []).map((w) => parseWeight(w.raw)),
+      servingInfoLabel: d?.servingInfo || 'Serving info',
+      breadcrumbs: dedupeCrumbs(d?.breadcrumbs || []),
+      alsoLike: (d?.alsoLike || [])
+        .map((a) => a.href?.split('/').filter(Boolean).pop())
+        .filter(Boolean),
+    });
+  }
+
+  const banner = (what, types) =>
+    `/**\n * ${what}\n * Extracted verbatim from https://${HOST}/ — generated by scripts/generate-catalog.mjs.\n */\n` +
+    (types.length ? `import type { ${types.join(', ')} } from "@/types/bakingo";\n\n` : '\n');
+
+  const catalog =
+    banner('Product catalog: listing rows joined with each SKU detail page.', ['CatalogProduct']) +
+    ts('catalog', 'CatalogProduct[]', products) +
+    `
+/** Look a product up by its URL slug. */
+export function getProduct(slug: string): CatalogProduct | undefined {
+  return catalog.find((p) => p.slug === slug);
+}
+
+/** Resolve the "You may also like" slugs of a product to full catalog rows. */
+export function getRelated(slug: string, limit = 8): CatalogProduct[] {
+  const product = getProduct(slug);
+  const related = (product?.alsoLike ?? [])
+    .map((s) => getProduct(s))
+    .filter((p): p is CatalogProduct => Boolean(p) && p!.slug !== slug);
+  if (related.length >= limit) return related.slice(0, limit);
+  // Pad with other catalog entries so the rail is never short.
+  const filler = catalog.filter(
+    (p) => p.slug !== slug && !related.some((r) => r.slug === p.slug),
+  );
+  return [...related, ...filler].slice(0, limit);
+}
+`;
+
+  const listingMeta =
+    banner('The /best-seller listing page: title, filter chips, review strip, quick links.', [
+      'ListingChip',
+      'QuickLinkGroup',
+      'NavLink',
+    ]) +
+    ts('listingTitle', 'string', listing.title) +
+    '\n' +
+    ts('listingChips', 'ListingChip[]', listing.chips.filter((c) => !/^sort$/i.test(c.label)).map((c) => ({ label: c.label }))) +
+    '\n' +
+    ts('listingSortLabel', 'string', 'Sort') +
+    '\n' +
+    ts('listingBreadcrumbs', 'NavLink[]', dedupeCrumbs(listing.breadcrumbs)) +
+    '\n' +
+    ts('listingSeoHeading', 'string', listing.seoHeading) +
+    '\n' +
+    ts('listingSeoParagraphs', 'string[]', listing.seoParagraphs) +
+    '\n' +
+    ts('quickLinksHeading', 'string', listing.quickLinksHeading) +
+    '\n' +
+    ts(
+      'quickLinkGroups',
+      'QuickLinkGroup[]',
+      listing.quickLinkGroups.map((g) => ({
+        heading: g.heading,
+        links: g.links.filter((l) => l.label && l.label !== g.heading),
+      })),
+    );
+
+  await fs.mkdir(DATA, { recursive: true });
+  await fs.writeFile(path.join(DATA, 'catalog.ts'), catalog, 'utf8');
+  await fs.writeFile(path.join(DATA, 'listing.ts'), listingMeta, 'utf8');
+
+  const withDetail = products.filter((p) => p.sku).length;
+  console.log(`catalog: ${products.length} products (${withDetail} with detail pages)`);
+  console.log('chips:', listing.chips.map((c) => c.label).join(', '));
+  console.log('quick link groups:', listing.quickLinkGroups.length);
+};
+
+run().catch((e) => { console.error('FAILED:', e.message); process.exit(1); });

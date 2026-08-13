@@ -1,0 +1,307 @@
+[
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/bakingo-logo-re.svg",
+    "file": "public/images/bakingo-logo-re.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/search_black.png",
+    "file": "public/images/search_black.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/track-order.svg",
+    "file": "public/images/track-order.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/shopping-cart.svg",
+    "file": "public/images/shopping-cart.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/user-profile.svg",
+    "file": "public/images/user-profile.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/re-star.png",
+    "file": "public/images/re-star.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/subscribe-arrow.6ada1d89.svg",
+    "file": "public/images/subscribe-arrow-6ada1d89.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/bakingo.8d020708.svg",
+    "file": "public/images/bakingo-8d020708.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/fb.a669391b.svg",
+    "file": "public/images/fb-a669391b.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/insta.5b618928.svg",
+    "file": "public/images/insta-5b618928.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/twitter.2c75e3c0.svg",
+    "file": "public/images/twitter-2c75e3c0.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/linked.8efee685.svg",
+    "file": "public/images/linked-8efee685.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/yt.49863f07.svg",
+    "file": "public/images/yt-49863f07.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/search-mob.svg",
+    "file": "public/images/search-mob.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/sprite-icons.svg",
+    "file": "public/images/sprite-icons.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/Logout.4d8bbc08.svg",
+    "file": "public/images/logout-4d8bbc08.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/footer-background.0f80c8bb.svg",
+    "file": "public/images/footer-background-0f80c8bb.svg",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Black.c1f5e07a.woff2",
+    "file": "public/fonts/isidorasansalt-black-c1f5e07a.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Black.026dc7e9.woff",
+    "file": "public/fonts/isidorasansalt-black-026dc7e9.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BlackItalic.2481cf28.woff2",
+    "file": "public/fonts/isidorasansalt-blackitalic-2481cf28.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BlackItalic.3d92b455.woff",
+    "file": "public/fonts/isidorasansalt-blackitalic-3d92b455.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-Bold.woff2",
+    "file": "public/fonts/isidorasansalt-bold.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Bold.455edb37.woff",
+    "file": "public/fonts/isidorasansalt-bold-455edb37.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BoldItalic.794f1171.woff2",
+    "file": "public/fonts/isidorasansalt-bolditalic-794f1171.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-BoldItalic.91803594.woff",
+    "file": "public/fonts/isidorasansalt-bolditalic-91803594.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Light.2eadf98d.woff2",
+    "file": "public/fonts/isidorasansalt-light-2eadf98d.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Light.33b2a513.woff",
+    "file": "public/fonts/isidorasansalt-light-33b2a513.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-LightItalic.ef6bc3c9.woff2",
+    "file": "public/fonts/isidorasansalt-lightitalic-ef6bc3c9.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-LightItalic.c75df732.woff",
+    "file": "public/fonts/isidorasansalt-lightitalic-c75df732.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-Medium.woff2",
+    "file": "public/fonts/isidorasansalt-medium.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Medium.d4fea0fa.woff",
+    "file": "public/fonts/isidorasansalt-medium-d4fea0fa.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-MediumItalic.dd9b1706.woff2",
+    "file": "public/fonts/isidorasansalt-mediumitalic-dd9b1706.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-MediumItalic.4bcbea11.woff",
+    "file": "public/fonts/isidorasansalt-mediumitalic-4bcbea11.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-Regular.woff2",
+    "file": "public/fonts/isidorasansalt-regular.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Regular.3b59a45b.woff",
+    "file": "public/fonts/isidorasansalt-regular-3b59a45b.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-RegularItalic.9871fcee.woff2",
+    "file": "public/fonts/isidorasansalt-regularitalic-9871fcee.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-RegularItalic.3b302406.woff",
+    "file": "public/fonts/isidorasansalt-regularitalic-3b302406.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/ssr-static/IsidoraSansAlt-SemiBold.woff2",
+    "file": "public/fonts/isidorasansalt-semibold.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-SemiBold.aff6389d.woff",
+    "file": "public/fonts/isidorasansalt-semibold-aff6389d.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-SemiBoldItalic.38797fd1.woff2",
+    "file": "public/fonts/isidorasansalt-semibolditalic-38797fd1.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-SemiBoldItalic.0132d45f.woff",
+    "file": "public/fonts/isidorasansalt-semibolditalic-0132d45f.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Thin.e278174e.woff2",
+    "file": "public/fonts/isidorasansalt-thin-e278174e.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-Thin.6b91fd2a.woff",
+    "file": "public/fonts/isidorasansalt-thin-6b91fd2a.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-ThinItalic.3fe8d511.woff2",
+    "file": "public/fonts/isidorasansalt-thinitalic-3fe8d511.woff2",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/static/media/IsidoraSansAlt-ThinItalic.89740062.woff",
+    "file": "public/fonts/isidorasansalt-thinitalic-89740062.woff",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkmedia.bakingo.com/bkssr/fav_1.png",
+    "file": "public/seo/fav_1.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon.png",
+    "file": "public/seo/apple-touch-icon.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-precomposed.png",
+    "file": "public/seo/apple-touch-icon-precomposed.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-57x57.png",
+    "file": "public/seo/apple-touch-icon-57x57.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-57x57-precomposed.png",
+    "file": "public/seo/apple-touch-icon-57x57-precomposed.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-76x76.png",
+    "file": "public/seo/apple-touch-icon-76x76.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-76x76-precomposed.png",
+    "file": "public/seo/apple-touch-icon-76x76-precomposed.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-114x114.png",
+    "file": "public/seo/apple-touch-icon-114x114.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-114x114-precomposed.png",
+    "file": "public/seo/apple-touch-icon-114x114-precomposed.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-120x120.png",
+    "file": "public/seo/apple-touch-icon-120x120.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-120x120-precomposed.png",
+    "file": "public/seo/apple-touch-icon-120x120-precomposed.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-152x152.png",
+    "file": "public/seo/apple-touch-icon-152x152.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-152x152-precomposed.png",
+    "file": "public/seo/apple-touch-icon-152x152-precomposed.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-180x180.png",
+    "file": "public/seo/apple-touch-icon-180x180.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/apple-touch-icon-180x180-precomposed.png",
+    "file": "public/seo/apple-touch-icon-180x180-precomposed.png",
+    "status": "cached"
+  },
+  {
+    "url": "https://bkassets.bakingo.com/bakingo-ssr/manifest.json",
+    "file": "public/seo/manifest.json",
+    "status": "cached"
+  }
+]

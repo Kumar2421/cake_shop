@@ -1,0 +1,150 @@
+{
+  "desktop": {
+    "docHeight": 4214,
+    "sections": [
+      {
+        "tag": "section",
+        "top": 0,
+        "h": 673,
+        "w": 1440
+      },
+      {
+        "tag": "section",
+        "top": 673,
+        "h": 586,
+        "w": 1440
+      },
+      {
+        "tag": "section",
+        "top": 1259,
+        "h": 655,
+        "w": 1440
+      },
+      {
+        "tag": "section",
+        "top": 1914,
+        "h": 430,
+        "w": 1440
+      },
+      {
+        "tag": "section",
+        "top": 2344,
+        "h": 577,
+        "w": 1440
+      },
+      {
+        "tag": "section",
+        "top": 2921,
+        "h": 756,
+        "w": 1440
+      },
+      {
+        "tag": "section",
+        "top": 3677,
+        "h": 100,
+        "w": 1440
+      }
+    ],
+    "headerHeight": 128,
+    "footerHeight": 436
+  },
+  "headerAfterScroll": 74,
+  "tablet": {
+    "docHeight": 3882,
+    "sections": [
+      {
+        "tag": "section",
+        "top": 0,
+        "h": 673,
+        "w": 768
+      },
+      {
+        "tag": "section",
+        "top": 673,
+        "h": 586,
+        "w": 768
+      },
+      {
+        "tag": "section",
+        "top": 1259,
+        "h": 655,
+        "w": 768
+      },
+      {
+        "tag": "section",
+        "top": 1914,
+        "h": 353,
+        "w": 768
+      },
+      {
+        "tag": "section",
+        "top": 2267,
+        "h": 332,
+        "w": 768
+      },
+      {
+        "tag": "section",
+        "top": 2599,
+        "h": 756,
+        "w": 768
+      },
+      {
+        "tag": "section",
+        "top": 3355,
+        "h": 100,
+        "w": 768
+      }
+    ],
+    "headerHeight": 128,
+    "footerHeight": 427
+  },
+  "mobile": {
+    "docHeight": 5150,
+    "sections": [
+      {
+        "tag": "section",
+        "top": 56,
+        "h": 597,
+        "w": 390
+      },
+      {
+        "tag": "section",
+        "top": 653,
+        "h": 1555,
+        "w": 390
+      },
+      {
+        "tag": "section",
+        "top": 2208,
+        "h": 633,
+        "w": 390
+      },
+      {
+        "tag": "section",
+        "top": 2841,
+        "h": 530,
+        "w": 390
+      },
+      {
+        "tag": "section",
+        "top": 3371,
+        "h": 219,
+        "w": 390
+      },
+      {
+        "tag": "section",
+        "top": 3590,
+        "h": 566,
+        "w": 390
+      },
+      {
+        "tag": "section",
+        "top": 4156,
+        "h": 100,
+        "w": 390
+      }
+    ],
+    "headerHeight": 128,
+    "footerHeight": 894
+  }
+}

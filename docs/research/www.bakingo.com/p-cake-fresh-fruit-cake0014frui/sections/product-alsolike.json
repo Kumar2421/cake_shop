@@ -1,0 +1,648 @@
+{
+  "key": "product-alsolike",
+  "selector": ".more-prods-container",
+  "tree": {
+    "tag": "div",
+    "classes": "more-prods-container",
+    "styles": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "fontFamily": "\"Isidora Sans Alt\"",
+      "lineHeight": "24px",
+      "color": "rgb(33, 37, 41)",
+      "textAlign": "left",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "margin": "55px 0px 100px",
+      "marginTop": "55px",
+      "marginBottom": "100px",
+      "width": "1440px",
+      "height": "410px",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexWrap": "nowrap",
+      "gap": "40px",
+      "border": "0px none rgb(229, 231, 235)",
+      "borderTop": "0px none rgb(229, 231, 235)",
+      "borderBottom": "0px none rgb(229, 231, 235)",
+      "borderLeft": "0px none rgb(229, 231, 235)",
+      "borderRight": "0px none rgb(229, 231, 235)",
+      "opacity": "1",
+      "transition": "all",
+      "objectFit": "fill",
+      "objectPosition": "50% 50%",
+      "textOverflow": "clip"
+    },
+    "childCount": 1,
+    "children": [
+      {
+        "tag": "div",
+        "classes": "re-recently-viewed detail_page",
+        "id": "detail_page_youMayAlsoLike",
+        "styles": {
+          "fontSize": "16px",
+          "fontWeight": "400",
+          "fontFamily": "\"Isidora Sans Alt\"",
+          "lineHeight": "24px",
+          "color": "rgb(33, 37, 41)",
+          "textAlign": "left",
+          "backgroundColor": "rgb(255, 255, 255)",
+          "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+          "margin": "0px 72px",
+          "marginRight": "72px",
+          "marginLeft": "72px",
+          "width": "1296px",
+          "height": "410px",
+          "display": "block",
+          "flexDirection": "row",
+          "flexWrap": "nowrap",
+          "border": "0px none rgb(229, 231, 235)",
+          "borderTop": "0px none rgb(229, 231, 235)",
+          "borderBottom": "0px none rgb(229, 231, 235)",
+          "borderLeft": "0px none rgb(229, 231, 235)",
+          "borderRight": "0px none rgb(229, 231, 235)",
+          "opacity": "1",
+          "transition": "all",
+          "objectFit": "fill",
+          "objectPosition": "50% 50%",
+          "textOverflow": "clip"
+        },
+        "childCount": 2,
+        "children": [
+          {
+            "tag": "div",
+            "classes": "recently-view-title",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "\"Isidora Sans Alt\"",
+              "lineHeight": "24px",
+              "color": "rgb(33, 37, 41)",
+              "textAlign": "left",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "margin": "0px 0px 36px",
+              "marginBottom": "36px",
+              "width": "1296px",
+              "height": "32px",
+              "display": "flex",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "justifyContent": "space-between",
+              "alignItems": "center",
+              "border": "0px none rgb(229, 231, 235)",
+              "borderTop": "0px none rgb(229, 231, 235)",
+              "borderBottom": "0px none rgb(229, 231, 235)",
+              "borderLeft": "0px none rgb(229, 231, 235)",
+              "borderRight": "0px none rgb(229, 231, 235)",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 2,
+            "children": [
+              {
+                "tag": "span",
+                "classes": "",
+                "text": "You may also like",
+                "styles": {
+                  "fontSize": "28px",
+                  "fontWeight": "600",
+                  "fontFamily": "\"Isidora Sans Alt\"",
+                  "lineHeight": "32px",
+                  "color": "rgb(30, 30, 30)",
+                  "textTransform": "capitalize",
+                  "textAlign": "left",
+                  "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                  "width": "235.031px",
+                  "height": "32px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "border": "0px none rgb(229, 231, 235)",
+                  "borderTop": "0px none rgb(229, 231, 235)",
+                  "borderBottom": "0px none rgb(229, 231, 235)",
+                  "borderLeft": "0px none rgb(229, 231, 235)",
+                  "borderRight": "0px none rgb(229, 231, 235)",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip"
+                },
+                "childCount": 0,
+                "children": []
+              },
+              {
+                "tag": "label",
+                "classes": "",
+                "text": "View All",
+                "styles": {
+                  "fontSize": "20px",
+                  "fontWeight": "600",
+                  "fontFamily": "\"Isidora Sans Alt\"",
+                  "color": "rgb(71, 128, 192)",
+                  "textTransform": "uppercase",
+                  "textDecoration": "underline",
+                  "textAlign": "center",
+                  "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                  "width": "89.1719px",
+                  "height": "28px",
+                  "display": "block",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "border": "0px none rgb(229, 231, 235)",
+                  "borderTop": "0px none rgb(229, 231, 235)",
+                  "borderBottom": "0px none rgb(229, 231, 235)",
+                  "borderLeft": "0px none rgb(229, 231, 235)",
+                  "borderRight": "0px none rgb(229, 231, 235)",
+                  "opacity": "1",
+                  "transition": "all",
+                  "cursor": "pointer",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip"
+                },
+                "childCount": 0,
+                "children": []
+              }
+            ]
+          },
+          {
+            "tag": "div",
+            "classes": "recently-view-container-wrapper",
+            "styles": {
+              "fontSize": "16px",
+              "fontWeight": "400",
+              "fontFamily": "\"Isidora Sans Alt\"",
+              "lineHeight": "24px",
+              "color": "rgb(33, 37, 41)",
+              "textAlign": "left",
+              "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+              "margin": "0px 0px 0px -72px",
+              "marginLeft": "-72px",
+              "width": "1440px",
+              "height": "342px",
+              "display": "block",
+              "flexDirection": "row",
+              "flexWrap": "nowrap",
+              "border": "0px none rgb(229, 231, 235)",
+              "borderTop": "0px none rgb(229, 231, 235)",
+              "borderBottom": "0px none rgb(229, 231, 235)",
+              "borderLeft": "0px none rgb(229, 231, 235)",
+              "borderRight": "0px none rgb(229, 231, 235)",
+              "opacity": "1",
+              "transition": "all",
+              "objectFit": "fill",
+              "objectPosition": "50% 50%",
+              "textOverflow": "clip"
+            },
+            "childCount": 1,
+            "children": [
+              {
+                "tag": "div",
+                "classes": "recently-view-container",
+                "styles": {
+                  "fontSize": "16px",
+                  "fontWeight": "400",
+                  "fontFamily": "\"Isidora Sans Alt\"",
+                  "lineHeight": "24px",
+                  "color": "rgb(33, 37, 41)",
+                  "textAlign": "left",
+                  "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                  "padding": "0px 65px 0px 0px",
+                  "paddingRight": "65px",
+                  "margin": "0px 0px 0px 74.875px",
+                  "marginLeft": "74.875px",
+                  "width": "1365.12px",
+                  "height": "342px",
+                  "display": "flex",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "justifyContent": "flex-start",
+                  "gap": "25px",
+                  "border": "0px none rgb(229, 231, 235)",
+                  "borderTop": "0px none rgb(229, 231, 235)",
+                  "borderBottom": "0px none rgb(229, 231, 235)",
+                  "borderLeft": "0px none rgb(229, 231, 235)",
+                  "borderRight": "0px none rgb(229, 231, 235)",
+                  "opacity": "1",
+                  "transition": "all",
+                  "objectFit": "fill",
+                  "objectPosition": "50% 50%",
+                  "textOverflow": "clip"
+                },
+                "childCount": 8,
+                "children": [
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  },
+                  {
+                    "tag": "div",
+                    "classes": "",
+                    "styles": {
+                      "fontSize": "16px",
+                      "fontWeight": "400",
+                      "fontFamily": "\"Isidora Sans Alt\"",
+                      "lineHeight": "24px",
+                      "color": "rgb(33, 37, 41)",
+                      "textAlign": "left",
+                      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+                      "width": "274px",
+                      "height": "342px",
+                      "display": "block",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "border": "0px none rgb(229, 231, 235)",
+                      "borderTop": "0px none rgb(229, 231, 235)",
+                      "borderBottom": "0px none rgb(229, 231, 235)",
+                      "borderLeft": "0px none rgb(229, 231, 235)",
+                      "borderRight": "0px none rgb(229, 231, 235)",
+                      "opacity": "1",
+                      "transition": "all",
+                      "objectFit": "fill",
+                      "objectPosition": "50% 50%",
+                      "textOverflow": "clip"
+                    },
+                    "childCount": 1,
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "text": [
+    "You may also like",
+    "View All",
+    "Classic Black Forest Cake",
+    "549",
+    "Blueberry Delight Drip Cake",
+    "Rich Chocolate Truffle Cake",
+    "Best Seller",
+    "Chocolate Vanilla Half & Half Cake",
+    "Butterscotch Chocolate Cake",
+    "Choco Chip Truffle Cake",
+    "Vanilla Latte Cake",
+    "Coffee Walnut Cream Cake",
+    "649"
+  ],
+  "assets": {
+    "imgs": [
+      {
+        "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Classic Black Forest Cake",
+        "w": 272,
+        "h": 272,
+        "cls": "product-img",
+        "parentCls": "product-card-image",
+        "rect": {
+          "w": 272,
+          "h": 272
+        }
+      },
+      {
+        "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+        "alt": "wishlist",
+        "w": 29,
+        "h": 28,
+        "cls": "wish-whiteHeart",
+        "parentCls": "wishlist-container detail_page red-heart",
+        "rect": {
+          "w": 20,
+          "h": 20
+        }
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/sq-blueberry-cake0002frui-A_0.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Blueberry Delight Drip Cake",
+        "w": 272,
+        "h": 272,
+        "cls": "product-img",
+        "parentCls": "product-card-image",
+        "rect": {
+          "w": 272,
+          "h": 272
+        }
+      },
+      {
+        "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+        "alt": "wishlist",
+        "w": 29,
+        "h": 28,
+        "cls": "wish-whiteHeart",
+        "parentCls": "wishlist-container detail_page red-heart",
+        "rect": {
+          "w": 20,
+          "h": 20
+        }
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-AA.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Rich Chocolate Truffle Cake",
+        "w": 272,
+        "h": 272,
+        "cls": "product-img",
+        "parentCls": "product-card-image",
+        "rect": {
+          "w": 272,
+          "h": 272
+        }
+      },
+      {
+        "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+        "alt": "wishlist",
+        "w": 29,
+        "h": 28,
+        "cls": "wish-whiteHeart",
+        "parentCls": "wishlist-container detail_page red-heart",
+        "rect": {
+          "w": 20,
+          "h": 20
+        }
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-AAAAA_0.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Chocolate Vanilla Half & Half Cake",
+        "w": 272,
+        "h": 272,
+        "cls": "product-img",
+        "parentCls": "product-card-image",
+        "rect": {
+          "w": 272,
+          "h": 272
+        }
+      },
+      {
+        "src": "https://bkassets.bakingo.com/bakingo-ssr/static/media/heart-white.0cd76d24.svg",
+        "alt": "wishlist",
+        "w": 29,
+        "h": 28,
+        "cls": "wish-whiteHeart",
+        "parentCls": "wishlist-container detail_page red-heart",
+        "rect": {
+          "w": 20,
+          "h": 20
+        }
+      },
+      {
+        "src": "https://bkmedia.bakingo.com/sq-chocolate-butterscotch-cake0007chbu-AA.jpg.jpg?tr=w-272,dpr-1&q=50",
+        "alt": "Butterscotch Chocolate Cake",
+        "w": 272,
+        "h": 272,
+        "cls": "product-img",
+        "parentCls": "product-card-image",
+        "rect": {
+          "w": 272,
+          "h": 272
+        }
+      }
+    ],
+    "bgs": [],
+    "svgs": [],
+    "links": [
+      {
+        "href": "/p/cake/black-forest-cake0001chbl",
+        "text": "Classic Black Forest Cake"
+      },
+      {
+        "href": "/p/cake/blueberry-cake0002frui",
+        "text": "Blueberry Delight Drip Cake"
+      },
+      {
+        "href": "/p/cake/choco-truffle-cake0005choc",
+        "text": "Rich Chocolate Truffle Cake"
+      },
+      {
+        "href": "/p/cake/choco-vanilla-cake0006chva",
+        "text": "Chocolate Vanilla Half & Half Cake"
+      },
+      {
+        "href": "/p/cake/chocolate-butterscotch-cake0007chbu",
+        "text": "Butterscotch Chocolate Cake"
+      },
+      {
+        "href": "/p/cake/chocolate-chip-cake0008choc",
+        "text": "Choco Chip Truffle Cake"
+      },
+      {
+        "href": "/p/cake/coffee-cake0010coff",
+        "text": "Vanilla Latte Cake"
+      },
+      {
+        "href": "/p/cake/coffee-walnut-cake0012exco",
+        "text": "Coffee Walnut Cream Cake"
+      }
+    ]
+  }
+}

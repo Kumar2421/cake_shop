@@ -1,0 +1,167 @@
+{
+  "url": "https://www.bakingo.com/p/cake/black-forest-cake0001chbl",
+  "sku": "cake0001chbl",
+  "title": "Classic Black Forest Cake",
+  "rating": "4.9",
+  "reviewCount": "(1.0K Reviews)",
+  "price": "549(Inclusive of GST)",
+  "description": "Experience the timeless delight of the original black forest cake. Topped with cherries and chocolate shavings, this classic treat is perfect for any ... Read more",
+  "chefTitle": "\"In Our Chef's Word\"",
+  "chefWord": "Rich, delicious,classic dessert made with several layers of chocolate all covered in whipped cream a...Read more",
+  "weights": [
+    {
+      "raw": "0.5 Kg4 - 5 People",
+      "selected": false
+    },
+    {
+      "raw": "1 Kg",
+      "selected": false
+    },
+    {
+      "raw": "1.5 Kg",
+      "selected": false
+    },
+    {
+      "raw": "2 Kg",
+      "selected": false
+    },
+    {
+      "raw": "4 Kg",
+      "selected": false
+    }
+  ],
+  "servingInfo": "Serving info",
+  "gallery": [
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/cake0001chbl-A.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/cake0001chbl-A.jpg",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-BBBB1.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-BBBB1.jpg.jpg",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-CCCC1.jpg.jpg?tr=w-160,h-160,dpr-1&q=50",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-CCCC1.jpg.jpg",
+      "alt": "Classic Black Forest Cake"
+    },
+    {
+      "src": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg?tr=w-665,h-665,dpr-1&q=50",
+      "alt": "Zoomable image"
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Home",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Cake Delivery",
+      "href": "/cakes"
+    },
+    {
+      "label": "Cake Delivery",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Classic Black Forest Cake",
+      "href": null
+    }
+  ],
+  "alsoLike": [
+    {
+      "name": "Roll Up Chocolate Truffle Cake",
+      "href": "https://www.bakingo.com/p/cake/round-shaped-chocolate-cake-1-cake0653choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Whipped Cream Pineapple Cake",
+      "href": "https://www.bakingo.com/p/cake/pineapple-cake0022pifr",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Classic Black Forest Cake",
+      "href": "/p/cake/black-forest-cake0001chbl",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Blueberry Delight Drip Cake",
+      "href": "/p/cake/blueberry-cake0002frui",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Rich Chocolate Truffle Cake",
+      "href": "/p/cake/choco-truffle-cake0005choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Chocolate Vanilla Half & Half Cake",
+      "href": "/p/cake/choco-vanilla-cake0006chva",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Butterscotch Chocolate Cake",
+      "href": "/p/cake/chocolate-butterscotch-cake0007chbu",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Choco Chip Truffle Cake",
+      "href": "/p/cake/chocolate-chip-cake0008choc",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Vanilla Latte Cake",
+      "href": "/p/cake/coffee-cake0010coff",
+      "img": "",
+      "price": "549"
+    },
+    {
+      "name": "Coffee Walnut Cream Cake",
+      "href": "/p/cake/coffee-walnut-cake0012exco",
+      "img": "",
+      "price": "649"
+    }
+  ],
+  "reviewsRaw": "Ratings & Reviews4.9/5+76",
+  "listingHref": "/p/cake/black-forest-cake0001chbl",
+  "slug": "black-forest-cake0001chbl"
+}

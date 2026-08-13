@@ -1,0 +1,850 @@
+{
+  "headerScroll": {
+    ".bk-header": {
+      "diff0to400": {
+        "_rect": {
+          "before": {
+            "top": 0,
+            "h": 128,
+            "w": 1440
+          },
+          "after": {
+            "top": 0,
+            "h": 74,
+            "w": 1440
+          }
+        },
+        "height": {
+          "before": "128px",
+          "after": "74px"
+        },
+        "bottom": {
+          "before": "772px",
+          "after": "826px"
+        }
+      },
+      "diff400to1200": {},
+      "state0": {
+        "_rect": {
+          "top": 0,
+          "h": 128,
+          "w": 1440
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "\"Isidora Sans Alt\"",
+        "lineHeight": "24px",
+        "color": "rgb(33, 37, 41)",
+        "textAlign": "left",
+        "backgroundColor": "rgb(252, 0, 21)",
+        "background": "rgb(252, 0, 21) none repeat scroll 0% 0% / auto padding-box border-box",
+        "width": "1440px",
+        "height": "128px",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexWrap": "nowrap",
+        "border": "0px none rgb(229, 231, 235)",
+        "borderTop": "0px none rgb(229, 231, 235)",
+        "borderBottom": "0px none rgb(229, 231, 235)",
+        "borderLeft": "0px none rgb(229, 231, 235)",
+        "borderRight": "0px none rgb(229, 231, 235)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "fixed",
+        "bottom": "772px",
+        "zIndex": "99",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    ".bk-header > div": {
+      "diff0to400": {},
+      "diff400to1200": {},
+      "state0": {
+        "_rect": {
+          "top": 0,
+          "h": 74,
+          "w": 1296
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "\"Isidora Sans Alt\"",
+        "lineHeight": "24px",
+        "color": "rgb(33, 37, 41)",
+        "textAlign": "left",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "margin": "0px 72px",
+        "marginRight": "72px",
+        "marginLeft": "72px",
+        "width": "1296px",
+        "height": "74px",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexWrap": "nowrap",
+        "alignItems": "center",
+        "border": "0px none rgb(229, 231, 235)",
+        "borderTop": "0px none rgb(229, 231, 235)",
+        "borderBottom": "0px none rgb(229, 231, 235)",
+        "borderLeft": "0px none rgb(229, 231, 235)",
+        "borderRight": "0px none rgb(229, 231, 235)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    },
+    ".header-container": {
+      "diff0to400": {},
+      "diff400to1200": {},
+      "state0": {
+        "_rect": {
+          "top": 0,
+          "h": 74,
+          "w": 1296
+        },
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "fontFamily": "\"Isidora Sans Alt\"",
+        "lineHeight": "24px",
+        "color": "rgb(33, 37, 41)",
+        "textAlign": "left",
+        "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+        "margin": "0px 72px",
+        "marginRight": "72px",
+        "marginLeft": "72px",
+        "width": "1296px",
+        "height": "74px",
+        "display": "flex",
+        "flexDirection": "row",
+        "flexWrap": "nowrap",
+        "alignItems": "center",
+        "border": "0px none rgb(229, 231, 235)",
+        "borderTop": "0px none rgb(229, 231, 235)",
+        "borderBottom": "0px none rgb(229, 231, 235)",
+        "borderLeft": "0px none rgb(229, 231, 235)",
+        "borderRight": "0px none rgb(229, 231, 235)",
+        "overflow": "visible",
+        "overflowX": "visible",
+        "overflowY": "visible",
+        "position": "static",
+        "opacity": "1",
+        "transition": "all",
+        "objectFit": "fill",
+        "objectPosition": "50% 50%",
+        "textOverflow": "clip"
+      }
+    }
+  },
+  "headerThreshold": {
+    "baseHeight": 128,
+    "changedAt": null
+  },
+  "globalScroll": {
+    "htmlScrollBehavior": "auto",
+    "bodyScrollSnap": "none",
+    "hasLenis": false,
+    "animated": [
+      {
+        "sel": "html.",
+        "transition": "all"
+      },
+      {
+        "sel": "head.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "script.",
+        "transition": "all"
+      },
+      {
+        "sel": "script.",
+        "transition": "all"
+      },
+      {
+        "sel": "script.",
+        "transition": "all"
+      },
+      {
+        "sel": "script.",
+        "transition": "all"
+      },
+      {
+        "sel": "script.",
+        "transition": "all"
+      },
+      {
+        "sel": "script.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "meta.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      },
+      {
+        "sel": "link.",
+        "transition": "all"
+      }
+    ],
+    "keyframes": [
+      "@-webkit-keyframes Toastify__trackProgress { \n  0% { transform: scaleX(1); }\n  100% { transform: scaleX(0); }\n}",
+      "@keyframes Toastify__trackProgress { \n  0% { transform: scaleX(1); }\n  100% { transform: scaleX(0); }\n}",
+      "@-webkit-keyframes Toastify__bounceInRight { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(3000px, 0px, 0px); }\n  60% { opacity: 1; transform: translate3d(-25px, 0px, 0px); }\n  75% { transform: translate3d(10px, 0px, 0px); }\n  90% { transform: translate3d(-5px, 0px, 0px); }\n  100% { transform: none; }\n}",
+      "@keyframes Toastify__bounceInRight { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(3000px, 0px, 0px); }\n  60% { opacity: 1; transform: translate3d(-25px, 0px, 0px); }\n  75% { transform: translate3d(10px, 0px, 0px); }\n  90% { transform: translate3d(-5px, 0px, 0px); }\n  100% { transform: none; }\n}",
+      "@-webkit-keyframes Toastify__bounceOutRight { \n  20% { opacity: 1; transform: translate3d(-20px, 0px, 0px); }\n  100% { opacity: 0; transform: translate3d(2000px, 0px, 0px); }\n}",
+      "@keyframes Toastify__bounceOutRight { \n  20% { opacity: 1; transform: translate3d(-20px, 0px, 0px); }\n  100% { opacity: 0; transform: translate3d(2000px, 0px, 0px); }\n}",
+      "@-webkit-keyframes Toastify__bounceInLeft { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(-3000px, 0px, 0px); }\n  60% { opacity: 1; transform: translate3d(25px, 0px, 0px); }\n  75% { transform: translate3d(-10px, 0px, 0px); }\n  90% { transform: translate3d(5px, 0px, 0px); }\n  100% { transform: none; }\n}",
+      "@keyframes Toastify__bounceInLeft { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(-3000px, 0px, 0px); }\n  60% { opacity: 1; transform: translate3d(25px, 0px, 0px); }\n  75% { transform: translate3d(-10px, 0px, 0px); }\n  90% { transform: translate3d(5px, 0px, 0px); }\n  100% { transform: none; }\n}",
+      "@-webkit-keyframes Toastify__bounceOutLeft { \n  20% { opacity: 1; transform: translate3d(20px, 0px, 0px); }\n  100% { opacity: 0; transform: translate3d(-2000px, 0px, 0px); }\n}",
+      "@keyframes Toastify__bounceOutLeft { \n  20% { opacity: 1; transform: translate3d(20px, 0px, 0px); }\n  100% { opacity: 0; transform: translate3d(-2000px, 0px, 0px); }\n}",
+      "@-webkit-keyframes Toastify__bounceInUp { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(0px, 3000px, 0px); }\n  60% { opacity: 1; transform: translate3d(0px, -20px, 0px); }\n  75% { transform: translate3d(0px, 10px, 0px); }\n  90% { transform: translate3d(0px, -5px, 0px); }\n  100% { transform: translateZ(0px); }\n}",
+      "@keyframes Toastify__bounceInUp { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(0px, 3000px, 0px); }\n  60% { opacity: 1; transform: translate3d(0px, -20px, 0px); }\n  75% { transform: translate3d(0px, 10px, 0px); }\n  90% { transform: translate3d(0px, -5px, 0px); }\n  100% { transform: translateZ(0px); }\n}",
+      "@-webkit-keyframes Toastify__bounceOutUp { \n  20% { transform: translate3d(0px, -10px, 0px); }\n  40%, 45% { opacity: 1; transform: translate3d(0px, 20px, 0px); }\n  100% { opacity: 0; transform: translate3d(0px, -2000px, 0px); }\n}",
+      "@keyframes Toastify__bounceOutUp { \n  20% { transform: translate3d(0px, -10px, 0px); }\n  40%, 45% { opacity: 1; transform: translate3d(0px, 20px, 0px); }\n  100% { opacity: 0; transform: translate3d(0px, -2000px, 0px); }\n}",
+      "@-webkit-keyframes Toastify__bounceInDown { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(0px, -3000px, 0px); }\n  60% { opacity: 1; transform: translate3d(0px, 25px, 0px); }\n  75% { transform: translate3d(0px, -10px, 0px); }\n  90% { transform: translate3d(0px, 5px, 0px); }\n  100% { transform: none; }\n}",
+      "@keyframes Toastify__bounceInDown { \n  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }\n  0% { opacity: 0; transform: translate3d(0px, -3000px, 0px); }\n  60% { opacity: 1; transform: translate3d(0px, 25px, 0px); }\n  75% { transform: translate3d(0px, -10px, 0px); }\n  90% { transform: translate3d(0px, 5px, 0px); }\n  100% { transform: none; }\n}",
+      "@-webkit-keyframes Toastify__bounceOutDown { \n  20% { transform: translate3d(0px, 10px, 0px); }\n  40%, 45% { opacity: 1; transform: translate3d(0px, -20px, 0px); }\n  100% { opacity: 0; transform: translate3d(0px, 2000px, 0px); }\n}",
+      "@keyframes Toastify__bounceOutDown { \n  20% { transform: translate3d(0px, 10px, 0px); }\n  40%, 45% { opacity: 1; transform: translate3d(0px, -20px, 0px); }\n  100% { opacity: 0; transform: translate3d(0px, 2000px, 0px); }\n}",
+      "@-webkit-keyframes Toastify__zoomIn { \n  0% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }\n  50% { opacity: 1; }\n}",
+      "@keyframes Toastify__zoomIn { \n  0% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }\n  50% { opacity: 1; }\n}",
+      "@-webkit-keyframes Toastify__zoomOut { \n  0% { opacity: 1; }\n  50% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }\n  100% { opacity: 0; }\n}",
+      "@keyframes Toastify__zoomOut { \n  0% { opacity: 1; }\n  50% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }\n  100% { opacity: 0; }\n}",
+      "@-webkit-keyframes Toastify__flipIn { \n  0% { transform: perspective(400px) rotateX(90deg); animation-timing-function: ease-in; opacity: 0; }\n  40% { transform: perspective(400px) rotateX(-20deg); animation-timing-function: ease-in; }\n  60% { transform: perspective(400px) rotateX(10deg); opacity: 1; }\n  80% { transform: perspective(400px) rotateX(-5deg); }\n  100% { transform: perspective(400px); }\n}",
+      "@keyframes Toastify__flipIn { \n  0% { transform: perspective(400px) rotateX(90deg); animation-timing-function: ease-in; opacity: 0; }\n  40% { transform: perspective(400px) rotateX(-20deg); animation-timing-function: ease-in; }\n  60% { transform: perspective(400px) rotateX(10deg); opacity: 1; }\n  80% { transform: perspective(400px) rotateX(-5deg); }\n  100% { transform: perspective(400px); }\n}",
+      "@-webkit-keyframes Toastify__flipOut { \n  0% { transform: perspective(400px); }\n  30% { transform: perspective(400px) rotateX(-20deg); opacity: 1; }\n  100% { transform: perspective(400px) rotateX(90deg); opacity: 0; }\n}"
+    ],
+    "sticky": [
+      {
+        "sel": "body.ReactModal__Body--open.popup_pos_fixed",
+        "pos": "fixed",
+        "top": "0px",
+        "z": "auto"
+      },
+      {
+        "sel": "div.bk-header",
+        "pos": "fixed",
+        "top": "0px",
+        "z": "99"
+      },
+      {
+        "sel": "div.ReactModal__Overlay.ReactModal__Overlay--after-open",
+        "pos": "fixed",
+        "top": "0px",
+        "z": "999"
+      },
+      {
+        "sel": "div..woot--bubble-holder",
+        "pos": "fixed",
+        "top": "828px",
+        "z": "2147483647"
+      },
+      {
+        "sel": "div..woot-widget-holder",
+        "pos": "fixed",
+        "top": "20170px",
+        "z": "-1"
+      }
+    ]
+  },
+  "heroCarousel": {
+    "autoplayChanged": true,
+    "t0": {
+      "imgs": [
+        {
+          "src": "https://bkmedia.bakingo.com/anniversary-desktop_0.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Anniversary Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/Gaourmet-Banner-web_desktop-banner_1.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Gourmet Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/3668X1714-Theme-Cake%20(2).png?tr=w-1920,dpr-1&q=50",
+          "alt": "Theme Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/Banner-Birthday-web.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Birthday Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/regular-cake-desktop%20(1).png?tr=w-1920,dpr-1&q=50",
+          "alt": "Regular Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/anniversary-desktop_0.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Anniversary Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/Gaourmet-Banner-web_desktop-banner_1.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Gourmet Cakes"
+        }
+      ],
+      "counter": "4 of 5",
+      "transform": "matrix(1, 0, 0, 1, -5760, 0)",
+      "html": "home-content-container content_7  undefined"
+    },
+    "t5": {
+      "imgs": [
+        {
+          "src": "https://bkmedia.bakingo.com/anniversary-desktop_0.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Anniversary Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/Gaourmet-Banner-web_desktop-banner_1.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Gourmet Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/3668X1714-Theme-Cake%20(2).png?tr=w-1920,dpr-1&q=50",
+          "alt": "Theme Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/Banner-Birthday-web.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Birthday Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/regular-cake-desktop%20(1).png?tr=w-1920,dpr-1&q=50",
+          "alt": "Regular Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/anniversary-desktop_0.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Anniversary Cakes"
+        },
+        {
+          "src": "https://bkmedia.bakingo.com/Gaourmet-Banner-web_desktop-banner_1.png?tr=w-1920,dpr-1&q=50",
+          "alt": "Gourmet Cakes"
+        }
+      ],
+      "counter": "5 of 5",
+      "transform": "matrix(1, 0, 0, 1, -7200, 0)",
+      "html": "home-content-container content_7  undefined"
+    },
+    "dots": 8,
+    "arrows": [
+      "control-arrow control-prev control-disabled",
+      "control-arrow control-next control-disabled"
+    ],
+    "classes": "home-content-container content_7  undefined"
+  },
+  "hover": {
+    "productCard": "hover failed: page.hover: Timeout 5000ms exceeded.",
+    "categoryTile": "hover failed: page.hover: Timeout 5000ms exceeded.",
+    "navItem": "hover failed: page.hover: Timeout 5000ms exceeded.",
+    "footerLink": "hover failed: page.hover: Timeout 5000ms exceeded."
+  },
+  "clickables": [
+    {
+      "tag": "ul",
+      "classes": "control-dots",
+      "text": "",
+      "cursor": "auto",
+      "rectTop": 754
+    },
+    {
+      "tag": "li",
+      "classes": "dot ",
+      "text": "",
+      "cursor": "pointer",
+      "rectTop": 763
+    },
+    {
+      "tag": "li",
+      "classes": "dot ",
+      "text": "",
+      "cursor": "pointer",
+      "rectTop": 763
+    },
+    {
+      "tag": "li",
+      "classes": "dot ",
+      "text": "",
+      "cursor": "pointer",
+      "rectTop": 763
+    },
+    {
+      "tag": "li",
+      "classes": "dot selected",
+      "text": "",
+      "cursor": "pointer",
+      "rectTop": 763
+    },
+    {
+      "tag": "li",
+      "classes": "dot ",
+      "text": "",
+      "cursor": "pointer",
+      "rectTop": 763
+    },
+    {
+      "tag": "ul",
+      "classes": "control-dots",
+      "text": "",
+      "cursor": "auto",
+      "rectTop": 2194
+    },
+    {
+      "tag": "li",
+      "classes": "dot selected",
+      "text": "",
+      "cursor": "pointer",
+      "rectTop": 2203
+    },
+    {
+      "tag": "li",
+      "classes": "dot ",
+      "text": "",
+      "cursor": "pointer",
+      "rectTop": 2203
+    }
+  ],
+  "responsive": {
+    "desktop": {
+      ".bk-header": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "128px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 1440,
+          "h": 128,
+          "top": 0
+        },
+        "visibleChildren": 2
+      },
+      ".content_7": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "672.75px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 1440,
+          "h": 673,
+          "top": 128
+        },
+        "visibleChildren": 1
+      },
+      ".content_4": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "52px 0px",
+        "height": "586px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 1440,
+          "h": 586,
+          "top": 801
+        },
+        "visibleChildren": 2
+      },
+      ".content_9": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "52px 0px",
+        "height": "882.75px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 1440,
+          "h": 883,
+          "top": 1387
+        },
+        "visibleChildren": 4
+      },
+      ".content_1": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "41px 0px 77px",
+        "height": "426px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 1440,
+          "h": 426,
+          "top": 2270
+        },
+        "visibleChildren": 2
+      },
+      ".content_6": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "52px 0px",
+        "height": "577.172px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 1440,
+          "h": 577,
+          "top": 2696
+        },
+        "visibleChildren": 1
+      },
+      ".footer-container": {
+        "display": "flex",
+        "flexDirection": "row",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "465.219px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 1440,
+          "h": 465,
+          "top": 4183
+        },
+        "visibleChildren": 1
+      }
+    },
+    "tablet": {
+      ".bk-header": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "56px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 768,
+          "h": 56,
+          "top": 0
+        },
+        "visibleChildren": 1
+      },
+      ".content_7": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "597px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 768,
+          "h": 597,
+          "top": 98
+        },
+        "visibleChildren": 1
+      },
+      ".content_4": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "52px 0px 31px",
+        "height": "939.906px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 768,
+          "h": 940,
+          "top": 695
+        },
+        "visibleChildren": 2
+      },
+      ".content_9": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "50px 0px 45px",
+        "height": "604.922px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 768,
+          "h": 605,
+          "top": 1635
+        },
+        "visibleChildren": 4
+      },
+      ".content_1": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "19px",
+        "padding": "44px 0px 21px",
+        "height": "303.812px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 768,
+          "h": 304,
+          "top": 2240
+        },
+        "visibleChildren": 2
+      },
+      ".content_6": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "45px 17px 45px 20px",
+        "height": "356.891px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 768,
+          "h": 357,
+          "top": 2544
+        },
+        "visibleChildren": 1
+      },
+      ".footer-container": {
+        "display": "flex",
+        "flexDirection": "row",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "538.25px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 768,
+          "h": 538,
+          "top": 3637
+        },
+        "visibleChildren": 1
+      }
+    },
+    "mobile": {
+      ".bk-header": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "56px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 390,
+          "h": 56,
+          "top": 0
+        },
+        "visibleChildren": 1
+      },
+      ".content_7": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "597px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 390,
+          "h": 597,
+          "top": 98
+        },
+        "visibleChildren": 1
+      },
+      ".content_4": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "52px 0px 31px",
+        "height": "623.547px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 390,
+          "h": 624,
+          "top": 695
+        },
+        "visibleChildren": 2
+      },
+      ".content_9": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "50px 0px 45px",
+        "height": "552.781px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 390,
+          "h": 553,
+          "top": 1319
+        },
+        "visibleChildren": 4
+      },
+      ".content_1": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "19px",
+        "padding": "44px 0px 21px",
+        "height": "321.812px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 390,
+          "h": 322,
+          "top": 1871
+        },
+        "visibleChildren": 2
+      },
+      ".content_6": {
+        "display": "flex",
+        "flexDirection": "column",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "45px 17px 45px 20px",
+        "height": "218.875px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 390,
+          "h": 219,
+          "top": 2193
+        },
+        "visibleChildren": 1
+      },
+      ".footer-container": {
+        "display": "flex",
+        "flexDirection": "row",
+        "gridTemplateColumns": "none",
+        "gap": "normal",
+        "padding": "0px",
+        "height": "944.125px",
+        "fontSize": "16px",
+        "rect": {
+          "w": 390,
+          "h": 944,
+          "top": 3148
+        },
+        "visibleChildren": 1
+      }
+    }
+  }
+}

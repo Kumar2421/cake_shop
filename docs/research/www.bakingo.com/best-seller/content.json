@@ -1,0 +1,1408 @@
+{
+  "url": "https://www.bakingo.com/best-seller",
+  "title": "Best Sellers",
+  "filters": [
+    {
+      "text": "SortPineappleButterscotchFruitChocolateRed velvet60 Minute Delivery",
+      "cls": "listing-quick-filter-container",
+      "isSort": true
+    }
+  ],
+  "chips": [
+    {
+      "label": "Sort",
+      "href": null,
+      "cls": "border-button-container sortByTitle sort-button "
+    },
+    {
+      "label": "Pineapple",
+      "href": null,
+      "cls": "border-button-container sortByTitle "
+    },
+    {
+      "label": "Butterscotch",
+      "href": null,
+      "cls": "border-button-container sortByTitle "
+    },
+    {
+      "label": "Fruit",
+      "href": null,
+      "cls": "border-button-container sortByTitle "
+    },
+    {
+      "label": "Chocolate",
+      "href": null,
+      "cls": "border-button-container sortByTitle "
+    },
+    {
+      "label": "Red velvet",
+      "href": null,
+      "cls": "border-button-container sortByTitle "
+    },
+    {
+      "label": "60 Minute Delivery",
+      "href": null,
+      "cls": "border-button-container sortByTitle "
+    }
+  ],
+  "sortButton": {
+    "label": "Sort",
+    "icon": "https://bkassets.bakingo.com/bakingo-ssr/static/media/upDownIcon.cfbe7839.svg"
+  },
+  "productCount": 50,
+  "products": [
+    {
+      "name": "Rich Chocolate Truffle Cake",
+      "href": "/p/cake/choco-truffle-cake0005choc",
+      "img": "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rich Chocolate Truffle Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(8.8K Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-truffle-cake0005choc-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Tropical Fruit n Almond Cake",
+      "href": "/p/cake/fresh-fruit-cake0014frui",
+      "img": "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-A.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "price": "649",
+      "rating": "4.9",
+      "reviews": "(2.4K Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-A.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-B.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/fresh-fruit-cake0014fruit-C.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Butterscotch Crunch Cake",
+      "href": "/p/cake/butterscotch-crunch-cake-cake5911butt",
+      "img": "https://bkmedia.bakingo.com/butterscotch-crunch-cake-cake5911butt-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Butterscotch Crunch Cake",
+      "price": "529",
+      "rating": "5",
+      "reviews": "(31 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/butterscotch-crunch-cake-cake5911butt-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/butterscotch-crunch-cake-cake5911butt-BBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/butterscotch-crunch-cake-cake5911butt-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Whipped Cream Pineapple Cake",
+      "href": "/p/cake/pineapple-cake0022pifr",
+      "img": "https://bkmedia.bakingo.com/sq-pineapple-cake0022pifr-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Whipped Cream Pineapple Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(1.8K Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-pineapple-cake0022pifr-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-pineapple-cake0022pifr-BBBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-pineapple-cake0022pifr-CCCCC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Choco Chip Truffle Cake",
+      "href": "/p/cake/chocolate-chip-cake0008choc",
+      "img": "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Choco Chip Truffle Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(1.6K Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-CCCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-chip-cake0008choc-DDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Rose Petals N Pistachio Rasmalai Cake",
+      "href": "/p/cake/pista-topped-rasmalai-cake-cake3550rash",
+      "img": "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rose Petals N Pistachio Rasmalai Cake",
+      "price": "699",
+      "rating": "4.8",
+      "reviews": "(596 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-CC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/pista-topped-rasmalai-cake-cake3550rash-DD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Chocolate Vanilla Half & Half Cake",
+      "href": "/p/cake/choco-vanilla-cake0006chva",
+      "img": "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-AAAAA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Vanilla Half & Half Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(3.1K Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-AAAAA_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-BBBBB_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-CCCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-vanilla-cake0006chva-DDDDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Roll Up Chocolate Truffle Cake",
+      "href": "/p/cake/round-shaped-chocolate-cake-1-cake0653choc",
+      "img": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Cake with Swirling Design",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(1.5K Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-CC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-1-cake0653choc-D.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Blueberry Cheesecake",
+      "href": "/p/cake/viscous-blueberry-cheesecake-cake2859blue",
+      "img": "https://bkmedia.bakingo.com/viscous-blueberry-cheesecake-cake2859blue-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Blueberry Cheesecake",
+      "price": "779",
+      "rating": "4.9",
+      "reviews": "(831 Reviews)",
+      "eggless": true,
+      "tag": "Gourmet",
+      "tagKind": "ticker-container gourmet",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/viscous-blueberry-cheesecake-cake2859blue-AAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/viscous-blueberry-cheesecake-cake2859blue-BB_1.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/viscous-blueberry-cheesecake-cake2859blue-CC_1.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Classic Black Forest Cake",
+      "href": "/p/cake/black-forest-cake0001chbl",
+      "img": "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(1.0K Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/black-forest-cake0001chbl-AAAA1.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/black-forest-cake0001chbl-BBBB1.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/black-forest-cake0001chbl-CCCC1.jpg.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Choco Truffle Cake made With KitKat",
+      "href": "/p/cake/kitkat-chocolate-cake-cake1119choco",
+      "img": "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-AAA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "price": "649",
+      "rating": "4.9",
+      "reviews": "(1.0K Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-AAA.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-BBB.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-CCC.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-DDD.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/kitkat-chocolate-cake-cake1119choco-EEE.jpg.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Belgian Chocolate Cake",
+      "href": "/p/cake/belgium-chocolate-mousse-cake-cake3217beli",
+      "img": "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Belgian Chocolate Cake",
+      "price": "649",
+      "rating": "4.9",
+      "reviews": "(588 Reviews)",
+      "eggless": true,
+      "tag": "Gourmet",
+      "tagKind": "ticker-container gourmet",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-CCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-BBBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/belgium-chocolate-mousse-cake-cake3217beli-DDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Chocolate Ganache Truffle Cake",
+      "href": "/p/cake/round-shaped-chocolate-cake-2-cake0654choc",
+      "img": "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-AA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Ganache Truffle Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(939 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-AA_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-AE.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-shaped-chocolate-cake-2-cake0654choc-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Rosy Petals Heart Cake",
+      "href": "/p/theme-cake/rosy-petals-valentines-heart-cake-them5739flav",
+      "img": "https://bkmedia.bakingo.com/rosy-petals-valentines-heart-cake-them5739flav-A.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rosy Petals Heart Cake",
+      "price": "749",
+      "rating": "5",
+      "reviews": "(116 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/rosy-petals-valentines-heart-cake-them5739flav-A.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/rosy-petals-valentines-heart-cake-them5739flav-B.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/rosy-petals-valentines-heart-cake-them5739flav-C.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Choco Dream Cake",
+      "href": "/p/cake/chocolate-dream-cake-cake3750drea",
+      "img": "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": " Choco Dream Cake",
+      "price": "649",
+      "rating": "4.9",
+      "reviews": "(1.0K Reviews)",
+      "eggless": true,
+      "tag": "Gourmet",
+      "tagKind": "ticker-container gourmet",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-CCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-dream-cake-cake3750drea-DDDDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Red Velvet Heart Shape Cake",
+      "href": "/p/cake/heart-shaped-red-velvet-cake-cake1095redv",
+      "img": "https://bkmedia.bakingo.com/heart-shaped-red-velvet-cake-cake1095redv-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Heart Shaped Red Velvet Cake",
+      "price": "799",
+      "rating": "4.9",
+      "reviews": "(314 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/heart-shaped-red-velvet-cake-cake1095redv-a.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/heart-shaped-red-velvet-cake-cake1095redv-b.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/heart-shaped-red-velvet-cake-cake1095redv-c.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Roses Topped Vanilla Cream Cake",
+      "href": "/p/cake/round-pink-roses-vanilla-cake-rosecake2561vani",
+      "img": "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-AAAA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Vanilla Rose Cake ",
+      "price": "1149",
+      "rating": "4.9",
+      "reviews": "(253 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-AAAA_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-CCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-pink-roses-vanilla-cake-rosecake2561vani-DDDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Velvet Chocolate Truffle Cake",
+      "href": "/p/cake/lip-smacking-chocolate-truffle-cake-cake2161choc",
+      "img": "https://bkmedia.bakingo.com/sq-lip-smacking-chocolate-truffle-cake-cake2161choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Truffle Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(524 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-lip-smacking-chocolate-truffle-cake-cake2161choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-lip-smacking-chocolate-truffle-cake-cake2161choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-lip-smacking-chocolate-truffle-cake-cake2161choc-CCCC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "German Black Forest Cake",
+      "href": "/p/cake/choco-black-forest-cake-cake888blac",
+      "img": "https://bkmedia.bakingo.com/squ-choco-black-forest-cake-cake888blac-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "German Black Forest Cake",
+      "price": "559",
+      "rating": "4.9",
+      "reviews": "(284 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/squ-choco-black-forest-cake-cake888blac-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/squ-choco-black-forest-cake-cake888blac-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/squ-choco-black-forest-cake-cake888blac-CCCC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Pink Princess Barbie Cake",
+      "href": "/p/theme-cake/fantasy-barbie-cake-them2655flav",
+      "img": "https://bkmedia.bakingo.com/fantasy-barbie-cake-bg-them2655flav-A_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Pink Princess Barbie Cake",
+      "price": "1479",
+      "rating": "4.9",
+      "reviews": "(243 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/fantasy-barbie-cake-bg-them2655flav-A_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/fantasy-barbie-cake-bg-them2655flav-B_0.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Chocolate Snicker Cake",
+      "href": "/p/cake/snicker-chocolate-cake0028choc",
+      "img": "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Loaded Glazed Cake",
+      "price": "649",
+      "rating": "4.9",
+      "reviews": "(1.1K Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-AAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-BBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-CCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-snicker-chocolate-cake0028choc-DDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Rosey Heart Choco Truffle Cake",
+      "href": "/p/cake/choco-truffle-heart-shape-cake0033hech",
+      "img": "https://bkmedia.bakingo.com/squ-choco-truffle-heart-shape-cake0033hech-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Heart Shaped Choco Truffle Cake ",
+      "price": "749",
+      "rating": "4.9",
+      "reviews": "(628 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/squ-choco-truffle-heart-shape-cake0033hech-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/squ-choco-truffle-heart-shape-cake0033hech-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/squ-choco-truffle-heart-shape-cake0033hech-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Birthday Photo Cake",
+      "href": "/p/photo-cake/birthday-photo-cake-round-shape-phot0275flav",
+      "img": "https://bkmedia.bakingo.com/squ-_birthday-exuberance-phot0275flav-301217-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Birthday Photo Cake",
+      "price": "689",
+      "rating": "4.9",
+      "reviews": "(374 Reviews)",
+      "eggless": true,
+      "tag": "Personalised",
+      "tagKind": "ticker-container personalised",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/squ-_birthday-exuberance-phot0275flav-301217-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/squ-_birthday-exuberance-phot0275flav-301217-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/squ-_birthday-exuberance-phot0275flav-301217-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Rasmalai Pista Whipped Cream Cake",
+      "href": "/p/cake/round-luscious-rasmalai-cake-cake2370rasm",
+      "img": "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Rasmalai Pista Whipped Cream Cake",
+      "price": "675",
+      "rating": "4.9",
+      "reviews": "(1.1K Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-a.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-b.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-c.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-round-luscious-rasmalai-cake-cake2370rasm-d.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Red Velvet Coffee Drip Cream Cake",
+      "href": "/p/cake/red-velvet-choco-coffee-cake0040rchc",
+      "img": "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-A_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Red Velvet Coffee Drip Cream Cake",
+      "price": "599",
+      "rating": "4.8",
+      "reviews": "(304 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-A_1.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-B_1.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-red-velvet-choco-coffee-cake0040rchc-C_1.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Velvety Chocolate Truffle Cake",
+      "href": "/p/cake/choco-truffle-cake-2-cake896choc",
+      "img": "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-A_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Truffle Symphony Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(656 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-A_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-B_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-C_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-DDD.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/choco-truffle-cake-2-cake896choc-EEE.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Happy Birthday Chocolate Pastries",
+      "href": "/p/pastry/set-of-two-happy-birthday-pastry-past2345choc",
+      "img": "https://bkmedia.bakingo.com/sq-set-of-two-happy-birthday-pastry-past2345choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Set of Two Happy Birthday Pastry",
+      "price": "199",
+      "rating": "4.9",
+      "reviews": "(286 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-set-of-two-happy-birthday-pastry-past2345choc-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-set-of-two-happy-birthday-pastry-past2345choc-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-set-of-two-happy-birthday-pastry-past2345choc-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Red Velvet Jar Cake",
+      "href": "/p/jar-cakes/red-velvet-single-jar-cake-jar1288redv",
+      "img": "https://bkmedia.bakingo.com/red-velvet-single-jar-cake-jar1288redv-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Velvety Blast Cake - Red Velvet Single Jar Cake",
+      "price": "139",
+      "rating": "4.9",
+      "reviews": "(1.9K Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/red-velvet-single-jar-cake-jar1288redv-a.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/red-velvet-single-jar-cake-jar1288redv-c.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/red-velvet-single-jar-cake-jar1288redv-b.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Jungle Paradise Theme Cake",
+      "href": "/p/theme-cake/jungle-paradise-theme-cake-them3340flav",
+      "img": "https://bkmedia.bakingo.com/jungle-paradise-theme-cake-bg-them3340flav-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Jungle Paradise Theme Cake",
+      "price": "1499",
+      "rating": "4.8",
+      "reviews": "(367 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/jungle-paradise-theme-cake-bg-them3340flav-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/jungle-paradise-theme-cake-bg-them3340flav-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/jungle-paradise-theme-cake-bg-them3340flav-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Barbie Floral Gown Cake",
+      "href": "/p/theme-cake/barbie-doll-cream-cake-them1045flav",
+      "img": "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-AA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Barbie Floral Gown Cake",
+      "price": "1569",
+      "rating": "4.9",
+      "reviews": "(55 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-AA_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-BB_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-CC_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/barbie-doll-cream-cake-bg-them1045flav-DD_0.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Blueberry Vanilla Cake",
+      "href": "/p/cake/blueberry-cake-1-cake889blue",
+      "img": "https://bkmedia.bakingo.com/blueberry-cake-1-cake889blue-a.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Blueberry Vanilla Cake",
+      "price": "599",
+      "rating": "4.9",
+      "reviews": "(472 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/blueberry-cake-1-cake889blue-a.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/blueberry-cake-1-cake889blue-b.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/blueberry-cake-1-cake889blue-c.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Joyful Photo Birthday Cake",
+      "href": "/p/photo-cake/birthday-photo-cake-rectangle-shape-phot0271flav",
+      "img": "https://bkmedia.bakingo.com/sq-celestial-beauty-phot0271flav-301217-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Order Photo Cake for Birthday",
+      "price": "689",
+      "rating": "4.9",
+      "reviews": "(121 Reviews)",
+      "eggless": true,
+      "tag": "Personalised",
+      "tagKind": "ticker-container personalised",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-celestial-beauty-phot0271flav-301217-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-celestial-beauty-phot0271flav-301217-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-celestial-beauty-phot0271flav-301217-CC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Pineapple Vanilla Caramel Crunch Cake",
+      "href": "/p/cake/hawaiian-pineapple-cake0016pifr",
+      "img": "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "price": "549",
+      "rating": "4.8",
+      "reviews": "(290 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AA.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AB.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AC.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AD.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-hawaiian-pineapple-cake0016pifr-AE.jpg.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Chocolate Mud Cake",
+      "href": "/p/cake/chocolate-mud-cake0035choc",
+      "img": "https://bkmedia.bakingo.com/chocolate-mud-cake0035choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Mud Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(533 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/chocolate-mud-cake0035choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-mud-cake0035choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolate-mud-cake0035choc-CCCC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Happy Birthday Personalised Cupcakes",
+      "href": "/p/cupcake/happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav",
+      "img": "https://bkmedia.bakingo.com/sq-happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav-A_1.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Happy Birthday Personalised Cupcakes 2 Pieces",
+      "price": "279",
+      "rating": "4.9",
+      "reviews": "(174 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav-A_1.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav-B_1.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-happy-birthday-personalised-cupcakes-2-pieces-cupc1320flav-C_1.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Glazed German Black Forest Cake",
+      "href": "/p/cake/a-classic-german-treat-cake3212germ",
+      "img": "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "German Black Forest Cake",
+      "price": "599",
+      "rating": "4.9",
+      "reviews": "(480 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-CCCC.jpg",
+        "https://bkmedia.bakingo.com/a-classic-german-treat-cake3212germ-DDDD_0.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Classic Chocolate Truffle Pastry",
+      "href": "/p/pastry/tasty-chocolate-truffle-past0162choc",
+      "img": "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-AAAA_0.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Classic Chocolate Truffle Pastry",
+      "price": "99",
+      "rating": "4.9",
+      "reviews": "(461 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-AAAA_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-BBBB_0.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/tasty-chocolate-truffle-past0162choc-CCCC_0.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Marble Chocolate Cake",
+      "href": "/p/cake/chocolicious-marble-cake-cake2615choc",
+      "img": "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Marble Chocolate Cake",
+      "price": "549",
+      "rating": "4.9",
+      "reviews": "(557 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-CCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/chocolicious-marble-cake-cake2615choc-DDDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Ferrero Infused Celebration Cake",
+      "href": "/p/cake/ferrero-rocher-cake0013exot",
+      "img": "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Chocolate Ferrero Rocher Almonds Cake",
+      "price": "779",
+      "rating": "4.9",
+      "reviews": "(671 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-CC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-D_0.jpg",
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-cake0013exot-E_0.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Hearts Of Love Chocolate Cake",
+      "href": "/p/cake/gooey-round-chocolate-love-cake-cake2571choc",
+      "img": "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Round Chocolate Cake for Anniversary",
+      "price": "749",
+      "rating": "4.9",
+      "reviews": "(136 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-CCCC.jpg",
+        "https://bkmedia.bakingo.com/sq-gooey-round-chocolate-love-cake-cake2571choc-DDDDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Pink & Orange Red Velvet Cake",
+      "href": "/p/cake/dripping-with-deliciousness-red-velvet-cake-cake2297redv",
+      "img": "https://bkmedia.bakingo.com/sq-dripping-with-deliciousness-red-velvet-cake-cake2297redv-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Pink & Orange Red Velvet Cake",
+      "price": "689",
+      "rating": "4.9",
+      "reviews": "(194 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-dripping-with-deliciousness-red-velvet-cake-cake2297redv-AAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-dripping-with-deliciousness-red-velvet-cake-cake2297redv-BBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-dripping-with-deliciousness-red-velvet-cake-cake2297redv-CCC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Fruits & Sprinkles Vanilla Cake",
+      "href": "/p/cake/vanilla-fruit-cake-cake894frui",
+      "img": "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Fruits & Sprinkles Vanilla Cake",
+      "price": "649",
+      "rating": "4.9",
+      "reviews": "(398 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-CCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-DDDD.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-vanilla-fruit-cake-cake894frui-E.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Trio Mousse Cake",
+      "href": "/p/cake/trippy-trio-cake-cake2858choc",
+      "img": "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-CCCC.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Trio Mousse Cake",
+      "price": "649",
+      "rating": "4.9",
+      "reviews": "(537 Reviews)",
+      "eggless": false,
+      "tag": "Gourmet",
+      "tagKind": "ticker-container gourmet",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-CCCC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/trippy-trio-cake-cake2858choc-DDD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Butterscotch Crunch Designer Cake",
+      "href": "/p/cake/heavenly-butterscotch-crunch-cake-cake3542butt",
+      "img": "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-AA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "",
+      "price": "549",
+      "rating": "4.8",
+      "reviews": "(204 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-AA.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-BB.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-CC.jpg.jpg",
+        "https://bkmedia.bakingo.com/heavenly-butterscotch-crunch-cake-cake3542butt-DD.jpg.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Love N Rose Cake",
+      "href": "/p/cake/essence-of-love-vday-cake-cake3171pine",
+      "img": "https://bkmedia.bakingo.com/essence-of-love-vday-cake-cake3171pine-AAA.jpg.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Love N Rose Cake",
+      "price": "675",
+      "rating": "4.9",
+      "reviews": "(196 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/essence-of-love-vday-cake-cake3171pine-AAA.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/essence-of-love-vday-cake-cake3171pine-BB.jpg.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/essence-of-love-vday-cake-cake3171pine-CCC.jpg.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Choco Vanilla Delight Cake",
+      "href": "/p/cake/tempting-choco-vanilla-cake-cake3454choc",
+      "img": "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Choco Vanilla Cake",
+      "price": "549",
+      "rating": "4.8",
+      "reviews": "(202 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-CC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/tempting-choco-vanilla-cake-cake3454choc-D.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Ferrero Rocher Pinata Cake",
+      "href": "/p/cake/ferrero-rocher-pinata-cake-750gm-pina1810choc",
+      "img": "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-AA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Front View of Ferrero Rocher and Kitkat Pinata Ball Cake",
+      "price": "1289",
+      "rating": "4.9",
+      "reviews": "(384 Reviews)",
+      "eggless": true,
+      "tag": "Best Seller",
+      "tagKind": "ticker-container best_seller",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-AA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-BB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-CC.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-ferrero-rocher-pinata-cake-750gm-pina1810choc-DD.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Red Velvet Choco Truffle Cake",
+      "href": "/p/cake/red-velvet-chocolate-cake-cake1637redv",
+      "img": "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv-AAAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Red Velvet Chocolate Cake ",
+      "price": "599",
+      "rating": "4.9",
+      "reviews": "(736 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv-AAAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv--BBBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv-CCCC.jpg",
+        "https://bkmedia.bakingo.com/sq-red-velvet-chocolate-cake-cake1637redv-E.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Mango Cheesecake",
+      "href": "/p/cake/tropical-escape-mango-cheesecake-cake4693mangcheesecake",
+      "img": "https://bkmedia.bakingo.com/tropical-escape-mango-cheesecake-cake4693mangcheesecake-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Tropical Escape Mango Cheesecake",
+      "price": "789",
+      "rating": "4.9",
+      "reviews": "(40 Reviews)",
+      "eggless": true,
+      "tag": "Gourmet",
+      "tagKind": "ticker-container gourmet",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/tropical-escape-mango-cheesecake-cake4693mangcheesecake-AAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/tropical-escape-mango-cheesecake-cake4693mangcheesecake-BBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/tropical-escape-mango-cheesecake-cake4693mangcheesecake-CCC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    },
+    {
+      "name": "Naked Mango Cake",
+      "href": "/p/cake/juicy-mango-delight-cake-cake4692mang",
+      "img": "https://bkmedia.bakingo.com/mango-naked-cake-cake4692mang-AAA.jpg?tr=w-400,dpr-1&q=50",
+      "alt": "Naked Mango Cake",
+      "price": "559",
+      "rating": "4.9",
+      "reviews": "(84 Reviews)",
+      "eggless": true,
+      "tag": "",
+      "tagKind": "",
+      "galleryImages": [
+        "https://bkmedia.bakingo.com/mango-naked-cake-cake4692mang-AAA.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/mango-naked-cake-cake4692mang-BBB.jpg?tr=w-400,dpr-1&q=50",
+        "https://bkmedia.bakingo.com/mango-naked-cake-cake4692mang-CCC.jpg?tr=w-400,dpr-1&q=50"
+      ]
+    }
+  ],
+  "reviewCard": {
+    "score": "",
+    "raw": "4.9★(32.4K Reviews)View All\"Package, taste , quality everything is top notch. Loved the flavour\"Rich Chocolate Truffle CakeMonisha S VerifiedBangalore 10th Aug, 2026 Occassion: Birthday55\"Pineapple cake was fantastic!\"Whipped Cream Pineapple CakeGnaneshwar VerifiedBangalore 10th Aug, 2026 Occassion: Birthday55\"Both the cakes are top notch\"Whipped Cream Pineapple CakeShourya VerifiedBangalore 10th Aug, 2026 Occassion: Birthday55\"The cake was good quality prepared with accuracy. The taste was mixed vanilla chocolate. Thanks it offered lovely experience.\"Chocolate Vanilla Half & Half CakeSargam V",
+    "images": [
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/verifiedUser.855045f5.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/verifiedUser.855045f5.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/verifiedUser.855045f5.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg",
+      "https://bkassets.bakingo.com/bakingo-ssr/static/media/reviewDot.bbb7d7e7.svg"
+    ],
+    "viewAll": "View All"
+  },
+  "breadcrumbs": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Home",
+      "href": null
+    },
+    {
+      "label": ">",
+      "href": null
+    },
+    {
+      "label": "Best Seller",
+      "href": null
+    }
+  ],
+  "seoHeading": "Best Selling Products of Bakingo",
+  "seoParagraphs": [
+    "Bakingo is a reputed online bakery providing services in seven metro Indian cities of Bangalore, Hyderabad, Secunderabad, Delhi, Ghaziabad, Noida, and Gurgaon. So, it comes as no surprise that cakes and desserts top the list of best selling products. Ranging from designer cakes to jar cakes to photo cakes to cupcakes to heart-shaped cakes, we have countless cake options in the category of best seller desserts. We provide the delivery of best-selling cakes across several occasions like birthdays, anniversaries, Valentine’s Day, success parties, festivities, etc. So, why settle for less when you can have and treat your relatives with the best? Steal the heart of your partner by making him or her relish heartilicious heart-shaped cakes on the anniversary, Valentine’s Day, etc. that is most favoured by our thick base of customers. You can delight your little minion by sending him or her a cake on his or her birthday from the best-selling birthday cakes available at Bakingo. Keep scrolling until you find yours!",
+    "Bakingo is the bakery selling the best desserts to the ones born with sweet-tooth, online. A user-friendly experience awaits you at Bakingo.com. When you visit us to order bestselling anniversary cakes or bestseller cakes for any event, you will experience that cake shopping on Bakingo is smooth and seamless. Within a few clicks, you can order a cake for either yourself or your relatives. You can do all this without compromising on your comfort and convenience. Isn’t this amazing? And, very soon, Bakingo will be coming up with its mobile app that will take your experience to another level. Excited? Well, we are as much as you! Bakingo also provides online delivery options for best-selling cakes and desserts, so that you do not have to worry about its dispatch. Bakingo takes care of everything!",
+    "Bakingo provides three-delivery options, i.e., same-day, midnight, and instant. Our delivery services are prompt and timely across all the seven Indian cities. If you go with our instant delivery of valentine cakes, the cake will reach the designated doorstep within three hours of the order placed. Midnight delivery guarantees the arrival of the cake at midnight. If you choose the same-day delivery, Bakingo will deliver the cake on the selected date and time."
+  ],
+  "quickLinksHeading": "Quick Links",
+  "quickLinkGroups": [
+    {
+      "heading": "TOP CAKE DELIVERY CITIES",
+      "links": [
+        {
+          "label": "Delhi",
+          "href": "/cakes/delhi"
+        },
+        {
+          "label": "Bangalore",
+          "href": "/cakes/bangalore"
+        },
+        {
+          "label": "Gurgaon",
+          "href": "/cakes/gurgaon"
+        },
+        {
+          "label": "Noida",
+          "href": "/cakes/noida"
+        },
+        {
+          "label": "Ghaziabad",
+          "href": "/cakes/ghaziabad"
+        },
+        {
+          "label": "Hyderabad",
+          "href": "/cakes/hyderabad"
+        },
+        {
+          "label": "Kolkata",
+          "href": "/cakes/kolkata"
+        },
+        {
+          "label": "Chennai",
+          "href": "/cakes/chennai"
+        },
+        {
+          "label": "Mumbai",
+          "href": "/cakes/mumbai"
+        },
+        {
+          "label": "Pune",
+          "href": "/cakes/pune"
+        },
+        {
+          "label": "Secunderabad",
+          "href": "/cakes/secunderabad"
+        },
+        {
+          "label": "Coimbatore",
+          "href": "/cakes/coimbatore"
+        },
+        {
+          "label": "Kanpur",
+          "href": "/cakes/kanpur"
+        },
+        {
+          "label": "Jaipur",
+          "href": "/cakes/jaipur"
+        },
+        {
+          "label": "Faridabad",
+          "href": "/cakes/faridabad"
+        },
+        {
+          "label": "Ahmedabad",
+          "href": "/cakes/ahmedabad"
+        },
+        {
+          "label": "Lucknow",
+          "href": "/cakes/lucknow"
+        },
+        {
+          "label": "Ranchi",
+          "href": "/cakes/ranchi"
+        },
+        {
+          "label": "Ludhiana",
+          "href": "/cakes/ludhiana"
+        },
+        {
+          "label": "Chandigarh",
+          "href": "/cakes/chandigarh"
+        }
+      ]
+    },
+    {
+      "heading": "Birthday Cakes For",
+      "links": [
+        {
+          "label": "Father",
+          "href": "/cakes/for-father"
+        },
+        {
+          "label": "Mother",
+          "href": "/cakes/for-mother"
+        },
+        {
+          "label": "Kids",
+          "href": "/cakes/for-kids"
+        },
+        {
+          "label": "Wife",
+          "href": "/cakes/for-wife"
+        },
+        {
+          "label": "Husband",
+          "href": "/cakes/for-husband"
+        },
+        {
+          "label": "Friend",
+          "href": "/cakes/for-friend"
+        },
+        {
+          "label": "Her",
+          "href": "/cakes/for-her"
+        },
+        {
+          "label": "Him",
+          "href": "/cakes/for-him"
+        },
+        {
+          "label": "Brother",
+          "href": "/cakes/for-brother"
+        },
+        {
+          "label": "Sister",
+          "href": "/cakes/for-sister"
+        },
+        {
+          "label": "Boy",
+          "href": "/cakes/for-boy"
+        },
+        {
+          "label": "Girl",
+          "href": "/cakes/for-girl"
+        },
+        {
+          "label": "Boyfriend",
+          "href": "/cakes/for-boyfriend"
+        },
+        {
+          "label": "Girlfriend",
+          "href": "/cakes/for-girlfriend"
+        }
+      ]
+    },
+    {
+      "heading": "Theme Cakes",
+      "links": [
+        {
+          "label": "Car",
+          "href": "/designer-cakes/car-cakes"
+        },
+        {
+          "label": "Cartoon",
+          "href": "/designer-cakes/cartoon-cakes"
+        },
+        {
+          "label": "Spiderman",
+          "href": "/designer-cakes/spiderman-cakes"
+        },
+        {
+          "label": "Doraemon",
+          "href": "/designer-cakes/doraemon-cakes"
+        },
+        {
+          "label": "Princess",
+          "href": "/designer-cakes/princess-cakes"
+        },
+        {
+          "label": "Barbie",
+          "href": "/designer-cakes/barbie-cakes"
+        },
+        {
+          "label": "Butterfly",
+          "href": "/designer-cakes/butterfly-cakes"
+        },
+        {
+          "label": "Cricket",
+          "href": "/designer-cakes/cricket-cakes"
+        },
+        {
+          "label": "Avenger",
+          "href": "/designer-cakes/avenger-cakes"
+        },
+        {
+          "label": "Cocomelon",
+          "href": "/designer-cakes/cocomelon-cakes"
+        },
+        {
+          "label": "Baby Shower",
+          "href": "/designer-cakes/baby-shower-cakes"
+        },
+        {
+          "label": "Jungle Theme",
+          "href": "/designer-cakes/jungle-theme-cakes"
+        },
+        {
+          "label": "Free Fire",
+          "href": "/designer-cakes/free-fire-cakes"
+        },
+        {
+          "label": "Number",
+          "href": "/designer-cakes/number-cakes"
+        },
+        {
+          "label": "Hello Kitty",
+          "href": "/designer-cakes/hello-kitty-cakes"
+        },
+        {
+          "label": "Football",
+          "href": "/designer-cakes/football-cakes"
+        },
+        {
+          "label": "Mickey Mouse",
+          "href": "/designer-cakes/mickey-mouse-cakes"
+        },
+        {
+          "label": "Superhero",
+          "href": "/designer-cakes/superhero-cakes"
+        },
+        {
+          "label": "Beer",
+          "href": "/designer-cakes/beer-cakes"
+        },
+        {
+          "label": "Chota Bheem",
+          "href": "/designer-cakes/chota-bheem-cakes"
+        },
+        {
+          "label": "Dinosaur",
+          "href": "/designer-cakes/dinosaur-cakes"
+        },
+        {
+          "label": "Batman",
+          "href": "/designer-cakes/batman-cakes"
+        }
+      ]
+    },
+    {
+      "heading": "TRENDING CAKES BY TYPE",
+      "links": [
+        {
+          "label": "Pinata Cakes",
+          "href": "/pinata-cakes"
+        },
+        {
+          "label": "Pull Me Up Cakes",
+          "href": "/pull-me-up-cakes"
+        },
+        {
+          "label": "Half Cakes",
+          "href": "/half-cakes"
+        },
+        {
+          "label": "Party Cakes",
+          "href": "/party-cakes"
+        },
+        {
+          "label": "Cup Cakes",
+          "href": "/cup-cakes"
+        },
+        {
+          "label": "Photo Cakes",
+          "href": "/photo-cakes"
+        },
+        {
+          "label": "Jar Cakes",
+          "href": "/jar-cakes"
+        },
+        {
+          "label": "Plum Cakes",
+          "href": "/plum-cakes"
+        },
+        {
+          "label": "Eggless Cakes",
+          "href": "/eggless-cakes"
+        }
+      ]
+    },
+    {
+      "heading": "BEST CAKES BY FLAVOUR",
+      "links": [
+        {
+          "label": "Chocolate Cakes",
+          "href": "/chocolate-cakes"
+        },
+        {
+          "label": "Black Forest Cakes",
+          "href": "/black-forest-cakes"
+        },
+        {
+          "label": "Butterscotch Cakes",
+          "href": "/butterscotch-cakes"
+        },
+        {
+          "label": "Red Velvet Cakes",
+          "href": "/red-velvet-cakes"
+        },
+        {
+          "label": "Vanilla Cakes",
+          "href": "/vanilla-cakes"
+        },
+        {
+          "label": "Strawberry Cakes",
+          "href": "/strawberry-cakes"
+        },
+        {
+          "label": "Pineapple Cakes",
+          "href": "/pineapple-cakes"
+        },
+        {
+          "label": "Heart Shape Cakes",
+          "href": "/heart-shape-cakes"
+        },
+        {
+          "label": "Fruit Cakes",
+          "href": "/fruit-cakes"
+        },
+        {
+          "label": "Coffee Cakes",
+          "href": "/coffee-cakes"
+        }
+      ]
+    },
+    {
+      "heading": "Most Celebrated",
+      "links": [
+        {
+          "label": "Birthday Cakes",
+          "href": "/birthday-cakes"
+        },
+        {
+          "label": "First Birthday Cakes",
+          "href": "/1st-birthday-cakes"
+        },
+        {
+          "label": "Anniversary Cakes",
+          "href": "/anniversary-cakes"
+        },
+        {
+          "label": "Engagement Cakes",
+          "href": "/engagement-cakes"
+        },
+        {
+          "label": "Farewell Cakes",
+          "href": "/farewell-cakes"
+        },
+        {
+          "label": "Retirement Cakes",
+          "href": "/retirement-cakes"
+        }
+      ]
+    },
+    {
+      "heading": "Occasion Special Cakes",
+      "links": [
+        {
+          "label": "Valentine's Day Cakes",
+          "href": "/valentine-cakes"
+        },
+        {
+          "label": "Mother's Day Cakes",
+          "href": "/mothers-day-cakes"
+        },
+        {
+          "label": "Father's Day Cakes",
+          "href": "/fathers-day-cakes"
+        },
+        {
+          "label": "Friendship Day Cakes",
+          "href": "/friendship-day-cakes"
+        },
+        {
+          "label": "Rakhi Cakes",
+          "href": "/rakhi-with-cakes"
+        },
+        {
+          "label": "Rakhi Gift Hampers",
+          "href": "/rakhi-gift-hampers"
+        },
+        {
+          "label": "Women's Day Cakes",
+          "href": "/womens-day-cakes"
+        },
+        {
+          "label": "Halloween Cakes",
+          "href": "/halloween-cakes"
+        },
+        {
+          "label": "Christmas Cakes",
+          "href": "/christmas-cakes"
+        },
+        {
+          "label": "New Year Cakes",
+          "href": "/new-year-cakes"
+        },
+        {
+          "label": "Teacher's Day Cakes",
+          "href": "/teachers-day-cakes"
+        }
+      ]
+    },
+    {
+      "heading": "Top Searches",
+      "links": [
+        {
+          "label": "Gourmet Cakes",
+          "href": "/gourmet-cakes"
+        },
+        {
+          "label": "Designer Cakes",
+          "href": "/designer-cakes"
+        },
+        {
+          "label": "Bakery Basket",
+          "href": "/bakery-baskets"
+        },
+        {
+          "label": "Pastries",
+          "href": "/pastries"
+        },
+        {
+          "label": "Bento Cakes",
+          "href": "/bento-cakes"
+        },
+        {
+          "label": "Labubu Cakes",
+          "href": "/designer-cakes/labubu-cakes"
+        }
+      ]
+    }
+  ]
+}
