@@ -106,7 +106,7 @@ async function seedCategories() {
   }));
 
   // Dedupe by slug, preferring the leaf definition (it carries route_segment).
-  const bySlug = new Map<string, (typeof leaves)[number]>();
+  const bySlug = new Map<string, (typeof topLevel)[number]>();
   for (const row of [...topLevel, ...leaves]) bySlug.set(row.slug, row);
 
   const { error } = await db
