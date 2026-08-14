@@ -12,6 +12,7 @@ import {
 } from "@/components/icons";
 import { useCart } from "@/lib/cart";
 import { AuthMenu } from "@/components/auth/AuthMenu";
+import { LocationPicker } from "@/components/site/LocationPicker";
 
 /** Export header heights for page layout offset */
 export const HEADER_HEIGHT_EXPANDED = 128;
@@ -50,41 +51,8 @@ export function SiteHeader() {
           </Link>
         </div>
 
-        {/* Location Container */}
-        <div className="location-container-desktop ml-[33px] h-[26px] flex items-center cursor-pointer">
-          <svg
-            width="14"
-            height="17"
-            viewBox="0 0 14 17"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-            className="text-white"
-          >
-            <path
-              d="M7 0C4.239 0 2 2.239 2 5c0 2.761 5 12 5 12s5-9.239 5-12c0-2.761-2.239-5-5-5zm0 7.5c-.825 0-1.5-.675-1.5-1.5S6.175 3.5 7 3.5s1.5.675 1.5 1.5-.675 1.5-1.5 1.5z"
-              fill="white"
-            />
-          </svg>
-          <span className="location-text text-[18px] font-[600] text-white capitalize mx-[6px] ml-[8px] h-[26px] whitespace-nowrap overflow-hidden">
-            {headerContent.locationLabel}
-          </span>
-          <svg
-            width="12"
-            height="12"
-            viewBox="0 0 12 12"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-            className="text-white mt-[3px]"
-          >
-            <path
-              d="M1.5 4.5L6 9l4.5-4.5"
-              stroke="white"
-              strokeWidth="1.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-          </svg>
-        </div>
+        {/* Reads the saved area itself after hydration, so these pages stay static. */}
+        <LocationPicker fallbackLabel={headerContent.locationLabel} />
 
         {/* Right Section */}
         <div className="header-section-two ml-auto h-[49px] flex items-center gap-[46px]">
