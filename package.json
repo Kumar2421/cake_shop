@@ -34,7 +34,12 @@
     "typecheck": "tsc --noEmit",
     "check": "npm run lint && npm run typecheck && npm run build",
     "seed": "tsx scripts/seed-supabase.ts",
-    "create-admin": "tsx scripts/create-admin.ts"
+    "create-admin": "tsx scripts/create-admin.ts",
+    "docker:dev": "docker compose --env-file .env.local up dev",
+    "docker:build": "docker compose --env-file .env.local build app",
+    "docker:up": "docker compose --env-file .env.local up app -d",
+    "docker:down": "docker compose down",
+    "docker:logs": "docker compose logs -f"
   },
   "dependencies": {
     "@base-ui/react": "^1.3.0",

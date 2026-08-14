@@ -1,11 +1,20 @@
 services:
+  # Production-style container. Rebuild after code changes.
+  #   docker compose up app --build
   app:
     build:
       context: .
       dockerfile: Dockerfile
       target: runner
-    image: ai-website-cloner:latest
-    container_name: ai-website-cloner
+      args:
+        # Read from .env.local via the shell; NEXT_PUBLIC_* values are baked
+        # into the client bundle at build time and cannot be injected later.
+        NEXT_PUBLIC_SUPABASE_URL: ${NEXT_PUBLIC_SUPABASE_URL}
+        NEXT_PUBLIC_SUPABASE_ANON_KEY: ${NEXT_PUBLIC_SUPABASE_ANON_KEY}
+        NEXT_PUBLIC_SITE_URL: ${NEXT_PUBLIC_SITE_URL:-http://localhost:3000}
+        NEXT_PUBLIC_RAZORPAY_KEY_ID: ${NEXT_PUBLIC_RAZORPAY_KEY_ID:-}
+    image: cake-shop:latest
+    container_name: cake-shop
     restart: unless-stopped
     ports:
       - "${PORT:-3000}:3000"
@@ -15,39 +24,46 @@ services:
     env_file:
       - path: .env.local
         required: false
-      - path: .env
-        required: false
     healthcheck:
       test: ["CMD-SHELL", "wget -qO- http://localhost:3000/ || exit 1"]
       interval: 30s
       timeout: 10s
       retries: 3
-      start_period: 10s
+      start_period: 20s
 
+  # Hot-reloading container — the everyday replacement for `npm run dev`.
+  #   docker compose up dev
   dev:
     build:
       context: .
       dockerfile: Dockerfile.dev
-    image: ai-website-cloner:dev
-    container_name: ai-website-cloner-dev
+    image: cake-shop:dev
+    container_name: cake-shop-dev
     restart: unless-stopped
     ports:
-      - "${DEV_PORT:-3001}:3000"
+      - "${DEV_PORT:-3000}:3000"
     environment:
       - NODE_ENV=development
       - NEXT_TELEMETRY_DISABLED=1
+      # Turbopack plus this asset set exceeds Node's default heap and the
+      # server aborts with exit 134 partway through a session.
+      - NODE_OPTIONS=--max-old-space-size=4096
+      # Container filesystems often miss host file events; polling is slower
+      # but makes hot reload actually fire on Windows bind mounts.
+      - WATCHPACK_POLLING=true
+      - CHOKIDAR_USEPOLLING=true
     env_file:
       - path: .env.local
         required: false
-      - path: .env
-        required: false
     volumes:
       - .:/app
+      # Keep the image's own installs: host node_modules are built for Windows
+      # and .next artefacts must not leak between host and container.
       - /app/node_modules
       - /app/.next
     healthcheck:
       test: ["CMD-SHELL", "wget -qO- http://localhost:3000/ || exit 1"]
       interval: 30s
       timeout: 10s
-      retries: 3
-      start_period: 15s
+      retries: 5
+      start_period: 40s

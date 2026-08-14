@@ -65,11 +65,20 @@ export async function requestOtp(_prev: AuthState, formData: FormData): Promise<
   });
 
   if (error) {
-    // Rate limits are the common failure and worth naming precisely; anything
-    // else stays vague so we do not leak whether the address is registered.
-    const message = /rate|limit|seconds/i.test(error.message)
-      ? "Too many requests. Wait a minute and try again."
-      : "Could not send the code. Check the address and try again.";
+    // Rate limits and rejected addresses are actionable, so name them exactly.
+    // Everything else stays vague — a precise message would reveal whether the
+    // address is already registered.
+    let message = "Could not send the code. Try again in a moment.";
+
+    if (/rate|limit|seconds/i.test(error.message)) {
+      message = "Too many requests. Wait a minute and try again.";
+    } else if (/invalid/i.test(error.message)) {
+      // Supabase rejects disposable and test domains such as example.com.
+      message = "That email address was rejected. Use a real inbox you can open.";
+    } else if (/signups? not allowed|disabled/i.test(error.message)) {
+      message = "New sign-ups are disabled right now.";
+    }
+
     return { step: "email", email, error: message };
   }
 
