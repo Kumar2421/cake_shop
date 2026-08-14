@@ -37,10 +37,13 @@ export async function proxy(request: NextRequest) {
   } = await supabase.auth.getUser();
 
   const { pathname } = request.nextUrl;
+  const isAdminLogin = pathname === "/admin/login";
 
-  if (pathname.startsWith("/admin")) {
+  // The sign-in form itself must stay reachable, or the guard below would
+  // redirect anonymous staff to a page it also blocks.
+  if (pathname.startsWith("/admin") && !isAdminLogin) {
     if (!user) {
-      const loginUrl = new URL("/login", request.url);
+      const loginUrl = new URL("/admin/login", request.url);
       loginUrl.searchParams.set("next", pathname);
       return NextResponse.redirect(loginUrl);
     }
@@ -56,8 +59,18 @@ export async function proxy(request: NextRequest) {
     }
   }
 
-  if ((pathname === "/login" || pathname === "/signup") && user) {
-    return NextResponse.redirect(new URL("/", request.url));
+  // Customers sign in through a dialog, so there is no public login route to
+  // bounce them away from — only staff have a login page.
+  if (isAdminLogin && user) {
+    const { data: profile } = await supabase
+      .from("profiles")
+      .select("role")
+      .eq("id", user.id)
+      .single();
+
+    if (profile?.role === "admin") {
+      return NextResponse.redirect(new URL("/admin", request.url));
+    }
   }
 
   return response;

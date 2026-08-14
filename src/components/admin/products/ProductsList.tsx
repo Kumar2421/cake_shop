@@ -35,6 +35,8 @@ import {
 } from "@/components/ui/select";
 import { ProductDeleteDialog } from "./ProductDeleteDialog";
 import { ProductSearchInput } from "./ProductSearchInput";
+import { ProductCategoryFilter } from "./ProductCategoryFilter";
+import { ProductActiveToggle } from "./ProductActiveToggle";
 
 interface ProductsListContentProps {
   search?: string;
@@ -75,51 +77,7 @@ export async function ProductsListContent({
           <ProductSearchInput placeholder="Search by name or SKU..." />
         </div>
 
-        <div className="w-full sm:w-48">
-          <form
-            action={async (formData) => {
-              "use server";
-              const catId = formData.get("category");
-              if (catId) {
-                redirect(`/admin/products?category=${catId}`);
-              } else {
-                redirect(`/admin/products`);
-              }
-            }}
-          >
-            <Select
-              name="category"
-              defaultValue={categoryId?.toString() ?? ""}
-              onValueChange={(value: string | null) => {
-                const form = document.querySelector(
-                  'form'
-                ) as HTMLFormElement;
-                if (form) {
-                  const input = form.querySelector(
-                    'input[name="category"]'
-                  ) as HTMLInputElement;
-                  if (input) {
-                    input.value = value ?? "";
-                    form.requestSubmit();
-                  }
-                }
-              }}
-            >
-              <SelectTrigger size="sm">
-                <SelectValue placeholder="All categories" />
-              </SelectTrigger>
-              <SelectContent>
-                <SelectItem value="">All categories</SelectItem>
-                {categories?.map((cat: { id: number; name: string }) => (
-                  <SelectItem key={cat.id} value={cat.id.toString()}>
-                    {cat.name}
-                  </SelectItem>
-                ))}
-              </SelectContent>
-            </Select>
-            <input type="hidden" name="category" value={categoryId?.toString() ?? ""} />
-          </form>
-        </div>
+        <ProductCategoryFilter categories={categories ?? []} />
       </div>
 
       {/* Table */}
@@ -209,6 +167,7 @@ export async function ProductsListContent({
                     <TableCell className="text-center">
                       <ProductActiveToggle
                         productId={product.id}
+                        productName={product.name}
                         isActive={product.is_active}
                       />
                     </TableCell>
@@ -216,14 +175,13 @@ export async function ProductsListContent({
                     {/* Actions */}
                     <TableCell className="text-right">
                       <DropdownMenu>
-                        <DropdownMenuTrigger>
-                          <Button
-                            variant="ghost"
-                            size="sm"
-                            className="h-8 w-8 p-0"
-                          >
-                            <MoreVertical className="size-4" />
-                          </Button>
+                        {/* The trigger is already a button; nesting one inside
+                            is invalid HTML and breaks hydration. */}
+                        <DropdownMenuTrigger
+                          aria-label={`Actions for ${product.name}`}
+                          className="inline-flex size-11 cursor-pointer items-center justify-center rounded-lg text-ink-muted hover:bg-muted hover:text-ink focus-visible:ring-2 focus-visible:ring-brand-red/40 focus-visible:outline-none"
+                        >
+                          <MoreVertical className="size-4" />
                         </DropdownMenuTrigger>
                         <DropdownMenuContent align="end">
                           <DropdownMenuItem>
@@ -308,42 +266,3 @@ export async function ProductsListContent({
   );
 }
 
-/**
- * Client component for toggling product active status.
- */
-function ProductActiveToggle({
-  productId,
-  isActive,
-}: {
-  productId: number;
-  isActive: boolean;
-}) {
-  return (
-    <form
-      action={async () => {
-        "use server";
-        const { createClient } = await import("@/lib/supabase/server");
-        const { revalidatePath } = await import("next/cache");
-        const client = await createClient();
-
-        await client
-          .from("products")
-          .update({ is_active: !isActive })
-          .eq("id", productId);
-
-        revalidatePath("/admin/products");
-      }}
-    >
-      <Switch
-        checked={isActive}
-        onCheckedChange={() => {
-          const form = document.querySelector(
-            `form[data-product-id="${productId}"]`,
-          ) as HTMLFormElement;
-          if (form) form.requestSubmit();
-        }}
-        data-product-id={productId}
-      />
-    </form>
-  );
-}

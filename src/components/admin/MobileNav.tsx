@@ -13,14 +13,13 @@ import { AdminNav } from "@/components/admin/AdminNav";
 export function MobileNav() {
   return (
     <Sheet>
-      <SheetTrigger>
-        <button
-          type="button"
-          className="rounded-lg p-1.5 hover:bg-muted lg:hidden"
-          aria-label="Menu"
-        >
-          <Menu className="size-5" />
-        </button>
+      {/* SheetTrigger renders the button itself; wrapping another one inside
+          is invalid HTML and breaks hydration. */}
+      <SheetTrigger
+        aria-label="Menu"
+        className="flex size-11 cursor-pointer items-center justify-center rounded-lg hover:bg-muted focus-visible:ring-2 focus-visible:ring-brand-red/40 focus-visible:outline-none lg:hidden"
+      >
+        <Menu className="size-5" />
       </SheetTrigger>
       <SheetContent side="left" showCloseButton={true}>
         <SheetHeader>

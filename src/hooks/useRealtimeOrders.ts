@@ -30,8 +30,12 @@ export function useRealtimeOrders(): RealtimeStatus {
       refreshTimer.current = setTimeout(() => router.refresh(), 400);
     }
 
+    // A unique topic per mount. React runs effects twice in development, and a
+    // shared topic name means the second pass reuses the already-subscribed
+    // channel, which throws "cannot add postgres_changes callbacks ... after
+    // subscribe()".
     const channel = supabase
-      .channel("admin-orders")
+      .channel(`admin-orders-${crypto.randomUUID()}`)
       .on(
         "postgres_changes",
         { event: "INSERT", schema: "public", table: "orders" },

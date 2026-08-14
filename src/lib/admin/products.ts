@@ -488,6 +488,29 @@ export async function updateProduct(
  * Hard delete is avoided because order_items reference products.
  * Changing order history would destroy audit trails.
  */
+/**
+ * Toggle a product's visibility from the list view.
+ *
+ * The caller sends the value it wants rather than a flip, so a double-click or
+ * a stale row cannot invert the state it did not intend.
+ */
+export async function setProductActive(id: number, isActive: boolean): Promise<FormState> {
+  await requireAdmin();
+
+  const client = await createClient();
+  const { error } = await client
+    .from("products")
+    .update({ is_active: isActive })
+    .eq("id", id);
+
+  if (error) {
+    return { error: `Failed to update product: ${error.message}` };
+  }
+
+  revalidatePath("/admin/products");
+  return { success: true };
+}
+
 export async function deleteProduct(id: number): Promise<FormState> {
   await requireAdmin();
 
