@@ -11,6 +11,7 @@ import {
   TrackOrderIcon,
 } from "@/components/icons";
 import { useCart } from "@/lib/cart";
+import { AuthMenu } from "@/components/auth/AuthMenu";
 
 /** Export header heights for page layout offset */
 export const HEADER_HEIGHT_EXPANDED = 128;
@@ -100,6 +101,11 @@ export function SiteHeader() {
           {/* Profile Actions */}
           <div className="profile-container h-[49px] flex items-center justify-around gap-[26px]">
             {headerContent.actions.map((action, idx) => {
+              // Skip Login/Signup — it's rendered by AuthMenu below
+              if (action.label === "Login/Signup") {
+                return null;
+              }
+
               const wrapperClass =
                 "flex flex-col items-center text-white h-[49px] group relative cursor-pointer";
               const body = (
@@ -116,9 +122,6 @@ export function SiteHeader() {
                         </span>
                       ) : null}
                     </span>
-                  )}
-                  {action.label === "Login/Signup" && (
-                    <UserIcon width={21} height={27} />
                   )}
                   <span className="profileTitle text-[12px] font-[600] leading-[17px] text-white text-center mt-[4px] h-[17px]">
                     {action.label}
@@ -157,6 +160,8 @@ export function SiteHeader() {
                 </Link>
               );
             })}
+            {/* Resolves its own session client-side so these pages stay static. */}
+            <AuthMenu />
           </div>
         </div>
       </div>

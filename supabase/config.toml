@@ -231,7 +231,14 @@ max_frequency = "1s"
 # Number of characters used in the email OTP.
 otp_length = 6
 # Number of seconds before the email OTP expires (defaults to 1 hour).
-otp_expiry = 3600
+# 10 minutes: long enough for a slow inbox, short enough that a leaked code ages out.
+otp_expiry = 600
+
+# The storefront signs users in with a 6-digit code, so the magic-link template
+# renders {{ .Token }} instead of {{ .ConfirmationURL }}.
+[auth.email.template.magic_link]
+subject = "Your Bakingo sign-in code"
+content_path = "./supabase/templates/magic_link.html"
 
 # Use a production-ready SMTP server
 # [auth.email.smtp]
