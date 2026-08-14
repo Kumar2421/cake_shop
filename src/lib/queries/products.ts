@@ -1,6 +1,9 @@
 import "server-only";
 
-import { createClient } from "@/lib/supabase/server";
+// The catalog is world-readable, so these use the cookie-free client.
+// Reading cookies would opt every product page out of static rendering for
+// data that is identical for every visitor.
+import { createStaticClient } from "@/lib/supabase/static";
 import type { ProductImageRow, ProductVariantRow, ProductWithRelations } from "@/types/db";
 
 /** Product card needs: id, slug, name, price, rating/count, eggless, tag, flavour, category route_segment, and primary image. */
@@ -50,7 +53,7 @@ export async function getProducts(options?: {
   limit?: number;
   offset?: number;
 }): Promise<{ products: ProductListItem[]; total: number }> {
-  const client = await createClient();
+  const client = createStaticClient();
   const limit = options?.limit ?? 12;
   const offset = options?.offset ?? 0;
 
@@ -152,7 +155,7 @@ export async function getProducts(options?: {
  * Returns the full ProductWithRelations shape: product + images + variants + category.
  */
 export async function getProductBySlug(slug: string): Promise<ProductWithRelations | null> {
-  const client = await createClient();
+  const client = createStaticClient();
 
   try {
     const { data, error } = await client
@@ -218,7 +221,7 @@ export async function getRelatedProducts(
     return [];
   }
 
-  const client = await createClient();
+  const client = createStaticClient();
 
   try {
     const { data, error } = await client
@@ -277,7 +280,7 @@ export async function getRelatedProducts(
  * Ordered by review_count descending for popularity.
  */
 export async function getBestsellers(limit = 8): Promise<ProductListItem[]> {
-  const client = await createClient();
+  const client = createStaticClient();
 
   try {
     const { data, error } = await client

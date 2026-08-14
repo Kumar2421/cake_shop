@@ -4,15 +4,16 @@ import { useState } from "react";
 import Link from "next/link";
 import { useCart } from "@/lib/cart";
 import { HeartIcon } from "@/components/icons";
+import { formatPaise } from "@/types/db";
 import { cn } from "@/lib/utils";
-import type { CatalogProduct } from "@/types/bakingo";
+import type { ProductWithRelations } from "@/types/db";
 
 export function ProductPurchasePanel({
   product,
 }: {
-  product: CatalogProduct;
+  product: ProductWithRelations;
 }) {
-  const [selectedWeightIndex, setSelectedWeightIndex] = useState(0);
+  const [selectedVariantIndex, setSelectedVariantIndex] = useState(0);
   const [cakeMessage, setCakeMessage] = useState("");
   const [pincode, setPincode] = useState("");
   const [added, setAdded] = useState(false);
@@ -20,6 +21,13 @@ export function ProductPurchasePanel({
   const [deliveryStatus, setDeliveryStatus] = useState<
     "idle" | "success" | "error"
   >("idle");
+
+  const selectedVariant = product.product_variants[selectedVariantIndex];
+  const currentPrice = selectedVariant?.price_paise ?? product.base_price_paise;
+  const formattedRating = product.rating !== null ? product.rating.toFixed(1) : "N/A";
+  const reviewsDisplay = product.review_count > 999
+    ? `${(product.review_count / 1000).toFixed(1)}K`
+    : product.review_count.toString();
 
   const handleCheckAvailability = () => {
     const trimmed = pincode.trim();
@@ -39,7 +47,7 @@ export function ProductPurchasePanel({
 
       {/* Rating and reviews */}
       <div className="product__review-cnt mt-[11px] h-[17px] flex items-center gap-[8px] text-[14px]">
-        <span className="text-[#070707] font-medium">{product.rating}</span>
+        <span className="text-[#070707] font-medium">{formattedRating}</span>
         <a
           href="#reviews"
           className="text-[#fc0015] hover:underline"
@@ -51,7 +59,7 @@ export function ProductPurchasePanel({
             reviewSection?.scrollIntoView({ behavior: "smooth" });
           }}
         >
-          ({product.reviews} Reviews)
+          ({reviewsDisplay} Reviews)
         </a>
       </div>
 
@@ -59,10 +67,10 @@ export function ProductPurchasePanel({
       <div className="price-content mt-[11px] flex items-baseline justify-between gap-[16px]">
         <div className="flex flex-col">
           <span className="text-[20px] md:text-[24px] font-semibold text-[#070707]">
-            {product.price}
+            {formatPaise(currentPrice)}
           </span>
           <span className="text-[12px] text-[#515151]">
-            {product.priceNote}
+            {product.price_note}
           </span>
         </div>
         <button
@@ -78,44 +86,46 @@ export function ProductPurchasePanel({
         {product.description}
       </p>
 
-      {/* Weight selector */}
-      <div className="attr-container mt-[20px]">
-        <div className="flex items-center justify-between mb-[16px]">
-          <label className="text-[18px] font-semibold text-[#070707]">
-            Select Weight
-          </label>
-          <a
-            href="#"
-            onClick={(e) => e.preventDefault()}
-            className="text-[14px] text-[#fc0015] hover:underline"
-          >
-            {product.servingInfoLabel}
-          </a>
-        </div>
-
-        <div className="weight-attr-container flex flex-wrap gap-[12px]">
-          {product.weights.map((weight, index) => (
-            <button
-              key={index}
-              onClick={() => setSelectedWeightIndex(index)}
-              className={cn(
-                "rounded-[7px] border px-[16px] py-[8px] text-[16px] font-medium transition-all duration-200 flex flex-col items-center gap-[4px]",
-                selectedWeightIndex === index
-                  ? "border-[#fc0015] text-[#fc0015] bg-[#fff5ee]"
-                  : "border-[#ebebeb] text-[#070707] bg-white hover:border-[#fc0015]"
-              )}
-              aria-pressed={selectedWeightIndex === index}
+      {/* Weight/Variant selector */}
+      {product.product_variants.length > 0 && (
+        <div className="attr-container mt-[20px]">
+          <div className="flex items-center justify-between mb-[16px]">
+            <label className="text-[18px] font-semibold text-[#070707]">
+              Select Weight
+            </label>
+            <a
+              href="#"
+              onClick={(e) => e.preventDefault()}
+              className="text-[14px] text-[#fc0015] hover:underline"
             >
-              <span>{weight.label}</span>
-              {weight.serving && (
-                <span className="text-[12px] text-[#515151]">
-                  {weight.serving}
-                </span>
-              )}
-            </button>
-          ))}
+              Serving info
+            </a>
+          </div>
+
+          <div className="weight-attr-container flex flex-wrap gap-[12px]">
+            {product.product_variants.map((variant, index) => (
+              <button
+                key={variant.id}
+                onClick={() => setSelectedVariantIndex(index)}
+                className={cn(
+                  "rounded-[7px] border px-[16px] py-[8px] text-[16px] font-medium transition-all duration-200 flex flex-col items-center gap-[4px]",
+                  selectedVariantIndex === index
+                    ? "border-[#fc0015] text-[#fc0015] bg-[#fff5ee]"
+                    : "border-[#ebebeb] text-[#070707] bg-white hover:border-[#fc0015]"
+                )}
+                aria-pressed={selectedVariantIndex === index}
+              >
+                <span>{variant.weight_label}</span>
+                {variant.serving_label && (
+                  <span className="text-[12px] text-[#515151]">
+                    {variant.serving_label}
+                  </span>
+                )}
+              </button>
+            ))}
+          </div>
         </div>
-      </div>
+      )}
 
       {/* Cake message */}
       <div className="attr-container mt-[20px]">
@@ -198,7 +208,7 @@ export function ProductPurchasePanel({
           type="button"
           onClick={() => {
             addItem(product, {
-              weight: product.weights[selectedWeightIndex]?.label,
+              weight: selectedVariant?.weight_label,
               message: cakeMessage,
             });
             setAdded(true);
@@ -216,14 +226,14 @@ export function ProductPurchasePanel({
         </Link>
       </div>
 
-      {/* Chef's word section */}
-      {product.chefWord && (
+      {/* Chef&apos;s word section */}
+      {product.chef_word && (
         <div className="Rectangle-1510 mt-[20px] bg-[#fff5ee] rounded-[8px] p-[20px]">
           <h3 className="text-[16px] font-semibold text-[#070707] mb-[12px]">
-            {product.chefTitle}
+            In Our Chef&apos;s Word
           </h3>
           <p className="text-[14px] leading-[18px] text-[#515151]">
-            {product.chefWord}
+            {product.chef_word}
           </p>
         </div>
       )}

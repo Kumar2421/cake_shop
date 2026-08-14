@@ -56,7 +56,9 @@ export function OrdersListClient() {
   const [loading, setLoading] = useState(true);
   const [totalCount, setTotalCount] = useState(0);
 
-  const currentStatus = (searchParams.get("status") as OrderStatus | "all") || "pending";
+  // Default to every order. Defaulting to "pending" hid confirmed and paid
+  // orders behind a tab, so the board looked empty when work was waiting.
+  const currentStatus = (searchParams.get("status") as OrderStatus | "all") || "all";
   const searchQuery = searchParams.get("search") || "";
   const page = parseInt(searchParams.get("page") || "1", 10);
   const pageSize = 25;
@@ -112,7 +114,10 @@ export function OrdersListClient() {
           total_paise,
           created_at,
           delivery_slots(label)
-          `
+          `,
+          // Without this the row count comes back null and the pager reports
+          // "0 of 0" even when results are on screen.
+          { count: "exact" },
         );
 
       // Apply status filter

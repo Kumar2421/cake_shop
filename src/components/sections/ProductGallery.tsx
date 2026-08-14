@@ -3,18 +3,23 @@
 import { useState } from "react";
 import Image from "next/image";
 import { cn } from "@/lib/utils";
-import type { CatalogProduct } from "@/types/bakingo";
+import type { ProductWithRelations } from "@/types/db";
 
-export function ProductGallery({ product }: { product: CatalogProduct }) {
+export function ProductGallery({ product }: { product: ProductWithRelations }) {
   const [selectedIndex, setSelectedIndex] = useState(0);
-  const currentImage = product.gallery[selectedIndex] || product.image;
+
+  // Images are sorted by position in the query
+  const images = product.product_images;
+  const currentImage = images[selectedIndex];
+  const currentImageUrl = currentImage?.url || "";
+  const currentImageAlt = currentImage?.alt || product.name;
 
   return (
     <div className="cake-images relative flex gap-[19px] pr-[27px] md:pr-[27px] w-full md:w-[673.9px]">
       {/* Thumbnail rail */}
       <ol className="image-small mb-[16px] flex flex-col gap-[20px] overflow-y-auto w-[64px] h-[480px] md:w-[117.73px] md:h-[621px] min-w-[64px] md:min-w-[117.73px]">
-        {product.gallery.map((thumb, index) => (
-          <li key={index}>
+        {images.map((image, index) => (
+          <li key={image.id}>
             <button
               onClick={() => setSelectedIndex(index)}
               className={cn(
@@ -24,7 +29,7 @@ export function ProductGallery({ product }: { product: CatalogProduct }) {
               aria-label={`Select product image ${index + 1}`}
             >
               <Image
-                src={thumb}
+                src={image.url}
                 alt={`${product.name} thumbnail ${index + 1}`}
                 fill
                 className="object-cover"
@@ -38,8 +43,8 @@ export function ProductGallery({ product }: { product: CatalogProduct }) {
       {/* Main image with badges */}
       <div className="image-big relative flex-1 min-h-[400px] md:min-h-[621px] overflow-hidden rounded-[7px]">
         <Image
-          src={currentImage}
-          alt={product.name}
+          src={currentImageUrl}
+          alt={currentImageAlt}
           fill
           className="object-cover transition-all duration-200 hover:brightness-105 cursor-crosshair"
           sizes="(max-width: 768px) 100vw, 556px"
@@ -56,7 +61,7 @@ export function ProductGallery({ product }: { product: CatalogProduct }) {
         )}
 
         {/* Eggless badge */}
-        {product.eggless && (
+        {product.is_eggless && (
           <div className="absolute top-[16px] left-[16px] flex flex-col items-center gap-[3px] md:top-[20px] md:left-[20px]">
             {/* The target's mark: white square, green border, green dot. */}
             <span className="flex h-[20px] w-[20px] items-center justify-center border border-[#00a651] bg-white p-[2px] md:h-[24px] md:w-[24px]">

@@ -8,42 +8,72 @@ import { ProductPurchasePanel } from "@/components/sections/ProductPurchasePanel
 import { ProductReviews } from "@/components/sections/ProductReviews";
 import { RelatedRail } from "@/components/sections/RelatedRail";
 import { QuickLinks } from "@/components/sections/QuickLinks";
-import { catalog, getProduct, getRelated } from "@/data/catalog";
+import { getProductBySlug, getRelatedProducts } from "@/lib/queries/products";
+import { createStaticClient } from "@/lib/supabase/static";
 
 interface RouteParams {
   params: Promise<{ category: string; slug: string }>;
 }
 
-/** Every catalog SKU is prerendered — 50 pages, all from real extracted data. */
-export function generateStaticParams() {
-  return catalog.map((product) => ({
-    category: product.category,
+/** Generate static params from database product slugs. */
+export async function generateStaticParams() {
+  // Must not use the cookie-backed server client: generateStaticParams runs at
+  // build time with no HTTP request, and reading cookies there throws.
+  const db = createStaticClient();
+
+  const { data, error } = await db
+    .from("products")
+    .select("slug, categories(route_segment)")
+    .eq("is_active", true);
+
+  // A failed lookup should not fail the build; those routes still render
+  // on demand and are cached by the revalidate window below.
+  if (error || !data) return [];
+
+  return data.map((product) => ({
+    category: product.categories?.route_segment ?? "cake",
     slug: product.slug,
   }));
 }
 
+export const revalidate = 3600; // Revalidate every hour so new products appear
+
 export async function generateMetadata({ params }: RouteParams): Promise<Metadata> {
   const { slug } = await params;
-  const product = getProduct(slug);
-  if (!product) return { title: "Product not found | Bakingo" };
+  const product = await getProductBySlug(slug);
+
+  if (!product) {
+    return { title: "Product not found | Bakingo" };
+  }
+
+  const primaryImage = product.product_images[0]?.url || "";
 
   return {
     title: `${product.name} | Bakingo`,
-    description: product.description,
+    description: product.description || "",
     openGraph: {
       title: `${product.name} | Bakingo`,
-      description: product.description,
-      images: [product.image],
+      description: product.description || "",
+      images: primaryImage ? [primaryImage] : [],
     },
   };
 }
 
 export default async function ProductPage({ params }: RouteParams) {
   const { slug } = await params;
-  const product = getProduct(slug);
-  if (!product) notFound();
+  const product = await getProductBySlug(slug);
 
-  const related = getRelated(slug);
+  if (!product) {
+    notFound();
+  }
+
+  const related = await getRelatedProducts(product.id, product.category_id);
+
+  // Construct breadcrumbs dynamically
+  const breadcrumbs = [
+    { label: "Home", href: "/" },
+    { label: product.categories?.name || "Products", href: null },
+  ];
 
   return (
     <>
@@ -53,7 +83,7 @@ export default async function ProductPage({ params }: RouteParams) {
       >
         <div className="mx-auto w-full max-w-[1296px] px-[16px] md:px-[20px] lg:px-0">
           <div className="py-[14px]">
-            <Breadcrumbs items={product.breadcrumbs} />
+            <Breadcrumbs items={breadcrumbs} />
           </div>
 
           <div className="flex flex-col gap-[24px] lg:flex-row lg:gap-0">

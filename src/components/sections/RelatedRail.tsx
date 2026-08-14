@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { ProductCard } from "@/components/site/ProductCard";
-import type { CatalogProduct } from "@/types/bakingo";
+import type { ProductListItem } from "@/lib/queries/products";
 
 interface RelatedRailProps {
-  products: CatalogProduct[];
+  products: ProductListItem[];
   heading?: string;
   viewAllHref?: string;
 }
@@ -36,19 +36,7 @@ export function RelatedRail({
 
         <div className="flex gap-[16px] overflow-x-auto no-scrollbar md:gap-[29px]">
           {products.map((product) => (
-            <ProductCard
-              key={product.slug}
-              card={{
-                name: product.name,
-                href: product.href,
-                image: product.image,
-                alt: product.alt,
-                price: product.price,
-                rating: product.rating,
-                reviews: product.reviews,
-                eggless: product.eggless,
-              }}
-            />
+            <ProductCard key={product.slug} product={product} />
           ))}
         </div>
       </div>

@@ -78,7 +78,9 @@ export async function proxy(request: NextRequest) {
 
 export const config = {
   matcher: [
-    // Everything except static assets and image files.
-    "/((?!_next/static|_next/image|favicon.ico|images|videos|fonts|seo|.*\\.(?:svg|png|jpg|jpeg|gif|webp|avif|ico|mp4|woff2?)$).*)",
+    // Everything except static assets and machine-to-machine API routes.
+    // The Razorpay webhook carries no session cookie, so refreshing one would
+    // be a wasted Supabase round trip on every payment event.
+    "/((?!_next/static|_next/image|favicon.ico|api/|images|videos|fonts|seo|.*\\.(?:svg|png|jpg|jpeg|gif|webp|avif|ico|mp4|woff2?)$).*)",
   ],
 };

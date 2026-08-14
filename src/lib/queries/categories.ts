@@ -1,6 +1,9 @@
 import "server-only";
 
-import { createClient } from "@/lib/supabase/server";
+// The catalog is world-readable, so these use the cookie-free client.
+// Reading cookies would opt every category page out of static rendering for
+// data that is identical for every visitor.
+import { createStaticClient } from "@/lib/supabase/static";
 import type { CategoryRow } from "@/types/db";
 
 /** Category with optional children array for hierarchy. */
@@ -12,7 +15,7 @@ export interface CategoryWithChildren extends CategoryRow {
  * Fetch all active categories ordered by position.
  */
 export async function getCategories(): Promise<CategoryRow[]> {
-  const client = await createClient();
+  const client = createStaticClient();
 
   try {
     const { data, error } = await client
@@ -48,7 +51,7 @@ export async function getCategories(): Promise<CategoryRow[]> {
  * Built in one query then assembled in memory to avoid N+1.
  */
 export async function getCategoryTree(): Promise<CategoryWithChildren[]> {
-  const client = await createClient();
+  const client = createStaticClient();
 
   try {
     // Fetch all active categories in one query
@@ -108,7 +111,7 @@ export async function getCategoryTree(): Promise<CategoryWithChildren[]> {
  * Fetch a single category by slug.
  */
 export async function getCategoryBySlug(slug: string): Promise<CategoryRow | null> {
-  const client = await createClient();
+  const client = createStaticClient();
 
   try {
     const { data, error } = await client

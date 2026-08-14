@@ -6,7 +6,6 @@ import { ProductGrid } from "@/components/sections/ProductGrid";
 import { ReviewStrip } from "@/components/sections/ReviewStrip";
 import { QuickLinks } from "@/components/sections/QuickLinks";
 import { SeoAccordion } from "@/components/sections/SeoAccordion";
-import { catalog } from "@/data/catalog";
 import { listingTitle, listingBreadcrumbs } from "@/data/listing";
 
 export const metadata: Metadata = {
@@ -15,7 +14,18 @@ export const metadata: Metadata = {
     "Order Bakingo's best selling cakes online with free home delivery. Bestsellers from across the country, freshly baked and delivered on time.",
 };
 
-export default function BestSellerPage() {
+interface SearchParams {
+  flavour?: string;
+  sort?: "popular" | "price_asc" | "price_desc" | "rating";
+}
+
+export default async function BestSellerPage({
+  searchParams,
+}: {
+  searchParams: Promise<SearchParams>;
+}) {
+  const params = await searchParams;
+
   return (
     <>
       <SiteHeader />
@@ -28,7 +38,11 @@ export default function BestSellerPage() {
 
         <div className="mx-auto mt-[36px] w-full max-w-[1296px] px-[16px] md:px-[20px] lg:px-0">
           {/* Chips, sort and the grid share client state. */}
-          <ProductGrid products={catalog} />
+          <ProductGrid
+            bestsellersOnly
+            initialFlavour={params.flavour}
+            initialSort={params.sort || "popular"}
+          />
 
           <ReviewStrip />
 

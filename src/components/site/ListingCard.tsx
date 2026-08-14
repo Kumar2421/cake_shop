@@ -1,7 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
 import { HeartIcon } from "@/components/icons";
-import type { CatalogProduct } from "@/types/bakingo";
+import { formatPaise } from "@/types/db";
+import type { ProductListItem } from "@/lib/queries/products";
 
 /**
  * `.product-card.listing_product` on www.bakingo.com.
@@ -10,15 +11,21 @@ import type { CatalogProduct } from "@/types/bakingo";
  * Vertical rhythm (390.281px total):
  * image 306 + title (8 top margin, 17.28, 0 bottom) + price row (12 top margin, 24) + rating (16).
  */
-export function ListingCard({ product }: { product: CatalogProduct }) {
+export function ListingCard({ product }: { product: ProductListItem }) {
+  const href = `/p/${product.categoryRouteSegment ?? "cake"}/${product.slug}`;
+  const formattedRating = product.rating !== null ? product.rating.toFixed(1) : "N/A";
+  const reviewsDisplay = product.review_count > 999
+    ? `${(product.review_count / 1000).toFixed(1)}K`
+    : product.review_count.toString();
+
   return (
     <Link
-      href={product.href}
+      href={href}
       className="group block w-[306px] shrink-0 cursor-pointer"
     >
       <article className="relative -m-1 flex min-h-[390.281px] w-[306px] flex-col rounded-[8px] border-4 border-transparent transition-[box-shadow,border-color] duration-300 ease-in-out group-hover:border-[#fcc4c5] group-hover:shadow-[0_0_10px_0_rgba(0,0,0,0.12)] max-[460px]:!border-transparent max-[460px]:!shadow-none">
         <div className="relative h-[306px] w-[306px] shrink-0">
-          {product.eggless ? (
+          {product.is_eggless ? (
             <div className="absolute top-[14px] left-[14px] z-[1] flex h-[17.27px] w-[17.27px] items-center justify-center bg-white p-[2px]">
               <span className="block h-[9.27px] w-[9.27px] rounded-[10px] bg-[#00a651]" />
             </div>
@@ -33,8 +40,8 @@ export function ListingCard({ product }: { product: CatalogProduct }) {
           ) : null}
 
           <Image
-            src={product.image}
-            alt={product.alt}
+            src={product.primaryImage.url}
+            alt={product.primaryImage.alt ?? product.name}
             width={306}
             height={306}
             sizes="306px"
@@ -49,7 +56,7 @@ export function ListingCard({ product }: { product: CatalogProduct }) {
         <div className="mt-[12px] flex h-[24px] w-[306px] shrink-0 items-center justify-between">
           <div className="flex h-[18px] items-baseline gap-[7px]">
             <span className="text-[18px] leading-[18px] font-semibold tracking-[-0.24px] text-[#070707] uppercase">
-              {product.price}
+              {formatPaise(product.base_price_paise)}
             </span>
           </div>
           <span className="flex h-[24px] w-[20px] items-center justify-center transition-opacity duration-300 ease-in-out">
@@ -60,14 +67,14 @@ export function ListingCard({ product }: { product: CatalogProduct }) {
         <div className="mt-[5px] flex h-[16px] w-[306px] shrink-0 items-center gap-[5px]">
           <span className="flex items-center gap-[3px]">
             <span className="text-[13px] font-semibold tracking-[-0.15px] text-[#515151]">
-              {product.rating}
+              {formattedRating}
             </span>
             <span className="text-[13px] font-semibold tracking-[-0.15px] text-[#00a651]">
               ★
             </span>
           </span>
           <span className="text-[13px] font-semibold tracking-[-0.15px] text-[#515151]">
-            ({product.reviews} Reviews)
+            ({reviewsDisplay} Reviews)
           </span>
         </div>
       </article>
